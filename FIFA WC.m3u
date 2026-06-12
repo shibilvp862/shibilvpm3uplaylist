@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Caze TV" group-title="",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS" group-title="",FOX SPORTS
+https://chatgpt.hereisman.net/playlist/51184/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-id="Bien MAX" group-title="",Bien MAX
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+#EXTINF:-1 tvg-id="BTV" group-title="",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="T Sports HD" group-title="",T Sports HD
+https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
+#EXTINF:-1 tvg-id="Somoy TV" group-title="",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="RAI ITALLY" group-title="",RAI ITALLY
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#EXTINF:-1 tvg-id="TRT" group-title="",TRT
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ENGLISH SD SERVER" group-title="",ENGLISH SD SERVER
+https://cdn.obstream.pro/live/yq97gcrutx.m3u8|referer=https://obstream.pro/
+#EXTINF:-1 tvg-id="GERMAN SD SERVER" group-title="",GERMAN SD SERVER
+https://cdn.obstream.pro/live/byunqmaemy.m3u8|referer=https://obstream.pro/
