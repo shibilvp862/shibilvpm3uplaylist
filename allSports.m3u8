@@ -27,6 +27,8 @@ https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1042.m3u8
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1049.m3u8
 #EXTINF:0,Bein Sports (Arabic)
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+#EXTINF:0,Bein Sports Max
+https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
 #EXTINF:0,BBC SPORTS
 https://chatgpt.hereisman.net/playlist/51932/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:0,TSN 
