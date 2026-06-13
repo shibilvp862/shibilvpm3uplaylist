@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="MALAYALAM",NTV UAE
+https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="MALAYALAM",NTV UAE
+https://stream.logichost.in/NTV/live/playlist.m3u8
