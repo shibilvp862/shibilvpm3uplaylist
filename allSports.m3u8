@@ -53,5 +53,23 @@ https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1042.m3u8
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1049.m3u8
 #EXTINF:-1 tvg-id="WILLOW" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png" group-title="USA",WILLOW SPORTS
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/cb543d1d6570668d84cb3c60cef047a5f93d1fde1d6988693eb5518975d30b0bd1bda4cbe44eee755c9a18d87c0b6c075c7ac319d72e1c95d872a107627a10219899e4199fa32d317457720018ca040c648750418974711db38b3b3bf5f631e467698c287d5f33f7d16156ad2fe7b677ce227bdaf4cf4401effc22bd6f209d8a65deaeb90c07892ff9f55e198f177fd18642c9d41bbb82c7634674a7e37ce5ba84d388a33929e33ef8345fd0144334036e908136b8c651bddb8e6803ed1b436b114fefaf9fff0169c817313c829fc1dd34aef3af719944cc51127f4aafa538a2243a0ecb0c035e805f/11/1920x1080_5859480/index.m3u8
+#EXTINF:-1 tvg-id="ALkass 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-id="ALkass 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-id="ALkass 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-id="ALkass 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-id="ALkass 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="ALkass 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-id="ALkass 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 tvg-id="ALkass Shoof 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass Shoof 1
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 tvg-id="ALkass Shoof 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" group-title="ALkass",ALkass Shoof 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 #EXTINF:-1 tvg-id="Caze TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdchlqVIFwBBoJ0cTE_LOEwUo7XP3vKG-I2DwWrypfixds9-h2d6oqLc&s" group-title="Others",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
