@@ -1,37 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="UK",TNT 1
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 1
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1033.m3u8
-#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="UK",TNT 2
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 2
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1034.m3u8
-#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="UK",TNT 3
+#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 3
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1035.m3u8
-#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="UK",TNT 4
+#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 4
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY F1
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1037.m3u8
+#EXTINF:-1 tvg-id="SKY MAIN EVENT" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY MAIN EVENT
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1038.m3u8
+#EXTINF:-1 tvg-id="SKY MIX" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY MIX
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1039.m3u8
+#EXTINF:-1 tvg-id="SKY NEWS" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY NEWS
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1040.m3u8
+#EXTINF:-1 tvg-id="SKY PL" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY PL
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1028.m3u8
+#EXTINF:-1 tvg-id="SKY MAIN EVENT" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY MAIN EVENT
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1027.m3u8
+#EXTINF:-1 tvg-id="Bein MAX 1" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",Bein MAX 1
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+#EXTINF:-1 tvg-id="Bein MAX 2" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",Bein MAX 2
+https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
 #EXTINF:0,Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:0,SKY F1
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1037.m3u8
-#EXTINF:0,SKY MAIN EVENT
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1038.m3u8
-#EXTINF:0,SKY MIX
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1039.m3u8
-#EXTINF:0,SKY NEWS
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1040.m3u8
-#EXTINF:0,SKY PL
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1028.m3u8
-#EXTINF:0,SKY MAIN EVENT
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1027.m3u8
 #EXTINF:0,FOX SPORTS HD
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1042.m3u8
 #EXTINF:0,FOX SPORTS HD
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1049.m3u8
-#EXTINF:0,Bein Sports (Arabic)
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
-#EXTINF:0,Bein Sports Max
-https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
-#EXTINF:0,BBC SPORTS
-https://chatgpt.hereisman.net/playlist/51932/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:0,TSN 
-https://chatgpt.hereisman.net/playlist/51908/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:0,FOX SD
-http://193.47.62.47/hls/QAQAQAZZZZ.m3u8|Referer=http://www.fawanews.sc/
