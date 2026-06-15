@@ -63,11 +63,11 @@ https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",Caze TV
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",FUSSBALL TV - AQ
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=55ca7b96946703b0e70d4b5a0c0a36fe:c442558af3961253a42a16c0b6f552d7
+#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6qhnVoVLTbYLe8_JLOYUaE3VbMQi98SJ440aOilT7_6vnwTsCWxkA3I&s=10",Unite8 Sports 1HD
+https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",FUSSBALL TV 4K
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=12ef9ad824df31b59ccf642a6de56a98:85dfbeca61d2000d18dc01a7b5a38800
+#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG6qhnVoVLTbYLe8_JLOYUaE3VbMQi98SJ440aOilT7_6vnwTsCWxkA3I&s=10",Unite8 Sports 2HD
+https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
 
