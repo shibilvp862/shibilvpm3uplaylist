@@ -11,14 +11,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1
 #EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 3 AQ
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
 #EXTM3U
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 1
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1033.m3u8
-#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 2
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1034.m3u8
-#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 3
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1035.m3u8
-#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 4
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY F1
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1037.m3u8
 #EXTINF:-1 tvg-id="SKY MAIN EVENT" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY MAIN EVENT
@@ -31,6 +23,14 @@ https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1040.m3u8
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1028.m3u8
 #EXTINF:-1 tvg-id="SKY MAIN EVENT" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY MAIN EVENT
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1027.m3u8
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 1
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1033.m3u8
+#EXTINF:-1 tvg-id="TNT 2" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 2
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1034.m3u8
+#EXTINF:-1 tvg-id="TNT 3" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 3
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1035.m3u8
+#EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 4
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8
 #EXTINF:-1 tvg-id="Bein MAX 1" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",Bein MAX 1
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
 #EXTINF:-1 tvg-id="Bein MAX 2" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",Bein MAX 2
