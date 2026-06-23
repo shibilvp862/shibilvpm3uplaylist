@@ -68,9 +68,9 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",CANAL SPORTS - AQ
 https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",UNiFy TV (IND)
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",RTE SPORTS - AQ 
+https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",Caze TV
@@ -80,9 +80,9 @@ https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",FS 1 4K
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/enc/vcmspklh1h/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",fox 4k
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0zyzcgeq2w/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",FIFA WC FEED
+https://mh-bks400-07.starhubgo.com/bpk-token/1aa@tdqnafslawbuiv05ux404a1akm2amdirt3ew5qca/bpk-tv/FIFAWCCh1/output/manifest.mpd
 
 
 
