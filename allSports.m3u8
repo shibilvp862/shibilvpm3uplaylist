@@ -124,13 +124,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FOX
+#EXTINF:-1 group-title="FIFA WC 2026" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FOX
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/r9oczkbeok/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6fDusywCjTVFAQMVbfj084vNVlFMhDk2CmkRgQgCV_gfldQo2GugkG0&s",D Sports
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+#EXTINF:-1 group-title="FIFA WC 2026" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6fDusywCjTVFAQMVbfj084vNVlFMhDk2CmkRgQgCV_gfldQo2GugkG0&s",Ruski
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=223
