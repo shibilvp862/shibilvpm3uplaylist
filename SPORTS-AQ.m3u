@@ -84,5 +84,14 @@ https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/enc/vcmspklh1h/out/v1/79
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",FIFA WC FEED
 https://mh-bks400-07.starhubgo.com/bpk-token/1aa@tdqnafslawbuiv05ux404a1akm2amdirt3ew5qca/bpk-tv/FIFAWCCh1/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="24" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="Spor" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Spor 1 Hindi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1782352296~acl=%2fbpk-tv%2firdeto_com_Channel_252%2foutput%2f*~id=8307124799~data=hdntl~hmac=5588ae2945a569422b83b9db6c7c4f64f93a06f9d43703624c3078659b414e3c"}}
+https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+
 
 
