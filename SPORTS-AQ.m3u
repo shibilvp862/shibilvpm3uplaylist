@@ -93,5 +93,33 @@ https://mh-bks400-07.starhubgo.com/bpk-token/1aa@tdqnafslawbuiv05ux404a1akm2amdi
 #EXTHTTP:{"cookie":"hdntl=exp=1782352296~acl=%2fbpk-tv%2firdeto_com_Channel_252%2foutput%2f*~id=8307124799~data=hdntl~hmac=5588ae2945a569422b83b9db6c7c4f64f93a06f9d43703624c3078659b414e3c"}}
 https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",ITV SPORTS² - AQ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
+#EXTM3U
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",ARABIC
+https://karim-xnbu-eu-20260623.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8%7Creferer=https://www.kooratlyad33.site/
+
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",FOX 4K
+https://xyzcloud3.xyz/fs14k/index.m3u8%7Creferer=https://xyzstreams.shop/
+
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",TSN 4K
+https://xyzcloud3.xyz/tsn4k/index.m3u8%7Creferer=https://xyzstreams.shop/
+
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",FOX HD
+https://chatgpt.hereisman.net/playlist/52446/load-playlist?%7CReferer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",TSN HD
+https://chatgpt.hereisman.net/playlist/52341/load-playlist?%7CReferer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",ITV SPORTS
+https://chatgpt.hereisman.net/playlist/52447/load-playlist?%7CReferer=https://gooz.aapmains.net
+
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",ISCREEN BDX
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8%7CReferer=https://iscreen.com.bd/
+
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",TSN AQ
+https://naremanums.s3.eu-west-1.amazonaws.com/btsport.m3u8
 
