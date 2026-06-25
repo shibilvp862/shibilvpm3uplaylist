@@ -287,60 +287,57 @@ https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_inde
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
 
-#EXTINF:60,Asianet News (1080p)
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1_2fUppFu_erm-FNu9mE0-YzJwalwRr4TJueqErNeQ&s=10" group-title="NEWS",Asianet News (1080p)
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:32,24 News
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1_2fUppFu_erm-FNu9mE0-YzJwalwRr4TJueqErNeQ&s=10" group-title="NEWS",Asianet News 
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuYMgZ2VLHPF9Slw64RL5eW-WBv0Y2lUcT0Bdzoht9A&s=10" group-title="NEWS",24 News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:32,BIG TV
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSNVz1TSN3PBKYxXPLMH6ZORwcgg8EB8xY2GEVv74FA&s=10" group-title="NEWS",BIG TV
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-#EXTINF:32,Reporter
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WWT-35fH5adEeTC_A6hWDvpc96bDOpc9e1ZVL56BAGWBKPJKZ9Vuwaw&s=10" group-title="NEWS",Reporter
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
-#EXTINF:20,media one
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSboCpSkk80cwfgD7imLy4ruXieEZjPACBm80sQ_EW5WQ&s=10" group-title="NEWS":20,media one
 https://cdn-3.pishow.tv/live/1481/master.m3u8
-#EXTINF:60,Manorama News
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4n2kNIE3q2z53YhAI1EfDeAxx8R13xII--17YCMTEfw&s=10" group-title="NEWS",Manorama News
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:21,MATHRUBHUMI NEWS
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL1Ofe7ANx6G0kzH4kpzghthREJoXc4KbtJ2Vk6EUog&s=10" group-title="NEWS",MATHRUBHUMI NEWS
 https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
-#EXTINF:60, Asianet News India
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1_2fUppFu_erm-FNu9mE0-YzJwalwRr4TJueqErNeQ&s=10" group-title="NEWS", Asianet News India
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://asianet-yupptv.vgcdn.net/ptnr-yupptv/title-Asianet_News/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/26f4b1f3-41c6-4a57-b7f2-759f8b319ac8/main.m3u8?hdnts=st%3D1777952505~exp%3D1777974105~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Asianet_News%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F26f4b1f3-41c6-4a57-b7f2-759f8b319ac8%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_282_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_282_-1~hmac%3Dc2858de05804d528ef074ef71f682f649787cb64ed94d8ee00bfa8b576ddd521
-#EXTINF:32, 24
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuYMgZ2VLHPF9Slw64RL5eW-WBv0Y2lUcT0Bdzoht9A&s=10" group-title="NEWS", 24 News
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8?hdnts=st%3D1777952505~exp%3D1777974105~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2F24_nim_https%2F110322%2Fchannel24%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_218_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_218_-1~hmac%3D06b27782e7df9bced85a85dbaa64cd9399a6393d4e4a6449d58df265d53efe19
-#EXTINF:32, Manorama News
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4n2kNIE3q2z53YhAI1EfDeAxx8R13xII--17YCMTEfw&s=10" group-title="NEWS", Manorama News
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8?hdnts=st%3D1777952506~exp%3D1777974106~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fmanoramanews_nim_https%2F240122%2Fmanoramanews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_170_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_170_-1~hmac%3D13f56f6998ef487cd59921a1e93f592b63e95eb13ed98f16fbf05652ca632465
-#EXTINF:32, Mathrubhumi News
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL1Ofe7ANx6G0kzH4kpzghthREJoXc4KbtJ2Vk6EUog&s=10" group-title="NEWS", Mathrubhumi News
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8?hdnts=st%3D1777952506~exp%3D1777974106~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fmathrubhuminews_nim_https%2F110322%2Fmathrubhuminews%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_174_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_174_-1~hmac%3D3fa5d531bfdb98ef1ad20dc25e739660aacb5fcb2968d435818954539f4d7912
-#EXTINF:60, News Malayalam
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuYMgZ2VLHPF9Slw64RL5eW-WBv0Y2lUcT0Bdzoht9A&s=10" group-title="NEWS", News Malayalam
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8?hdnts=st%3D1777952505~exp%3D1777974105~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fcdb96065-b754-4c59-93c0-fe73f482439e%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_334_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_334_-1~hmac%3De11a3d547da0a346bdf4b31e94e11eed79bbbef3db9932148a2849b1a77ac129
-#EXTINF:100,Amrita TV
+
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNZdzPPmmjUG8HnUzWdTvNUAfYpQ-fb-mbmnPgYDVuw&s=10" group-title="Entertainment",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:0,Flowers TV USA
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQegYc0wo1l8yEYOWsJLTA4MCh8gd7p6CKsX5yAn1mw&s=10" group-title="Entertainment",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-#EXTINF:29,Middle East
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdN7_yezyVuA3Yz-SLPC0YT_fh9KjAUOK_FOsuWN4cMQ&s=10" group-title="Entertainment",Middle East
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
-#EXTINF:0,Asianet News (ALL)
-https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:19,Mazhavil Manorama HD
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
-#EXTINF:0,Asianet
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdN7_yezyVuA3Yz-SLPC0YT_fh9KjAUOK_FOsuWN4cMQ&s=10" group-title="Entertainment",Asianet
 http://103.157.248.140:8000/play/a00s/index.m3u8
-#EXTINF:0,Asianet Middle East
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdN7_yezyVuA3Yz-SLPC0YT_fh9KjAUOK_FOsuWN4cMQ&s=10" group-title="Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
-#EXTINF:0,WE
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="Entertainment",WE
 https://cdn-3.pishow.tv/live/1530/master.m3u8
-#EXTINF:0,KAIRALI
-https://mumt01.tangotv.in/KAIRALI/index.m3u8
-#EXTINF:28,Mazhavil
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:54,Willow +
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/cb543d1d6570668d84cb3c60cef047a5f93d1fde1d6988693eb5518975d30b0bd1bda4cbe44eee755c9a18d87c0b6c075c7ac319d72e1c95d872a107627a10219899e4199fa32d317457720018ca040c648750418974711db38b3b3bf5f631e467698c287d5f33f7d16156ad2fe7b677ce227bdaf4cf4401effc22bd6f209d8a65deaeb90c07892ff9f55e198f177fd18642c9d41bbb82c7634674a7e37ce5ba84d388a33929e33ef8345fd0144334036e908136b8c651bddb8e6803ed1b436b114fefaf9fff0169c817313c829fc1dd34aef3af719944cc51127f4aafa538a2243a0ecb0c035e805f/11/1920x1080_5859480/index.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="MALAYALAM",NTV UAE
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="Entertainment",NTV UAE
 https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
-#EXTINF:0,NTV UAE (Backup)
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="Entertainment",NTV UAE (Backup)
 https://stream.logichost.in/NTV/live/playlist.m3u8
 #EXTINF:80,Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
