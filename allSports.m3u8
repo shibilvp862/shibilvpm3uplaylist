@@ -145,13 +145,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",Fan Code 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",FOX DEPORTES
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://play-lh.googleusercontent.com/HAd9Rb_txVXhtWbLt-y9SwPUkRrpTBHS-nrj-FRpyvbz1Be-w1Lgq9v0gqU1ya6YWhCEA8pxO5Ffwpn0Hvd5Ag" group-title="USA/LATIN",FOX DEPORTES
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1632.m3u8
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",ESPN
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUWTQy8a0rOK3XeyQB_-erTdIauqn5yDKaiETJXIx7IIIfmLjr5FxAC4&s" group-title="USA/LATIN",ESPN
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1183.m3u8
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",ESPN 2
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUWTQy8a0rOK3XeyQB_-erTdIauqn5yDKaiETJXIx7IIIfmLjr5FxAC4&s" group-title="USA/LATIN",ESPN 2
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1184.m3u8
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",ESPN 3
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUWTQy8a0rOK3XeyQB_-erTdIauqn5yDKaiETJXIx7IIIfmLjr5FxAC4&s" group-title="USA/LATIN",ESPN 3
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1185.m3u8
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 1
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1237.m3u8
