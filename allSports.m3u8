@@ -116,9 +116,11 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/G7iRP3-TNdSmqwAGv
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1042.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FS 1 (SD)
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1633.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC 2026",TSN 5
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC LQ",TSN 1
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1656.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC LQ",TSN 5
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1636.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC 2026",TSN 3
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC LQ",TSN 3
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1612.m3u8
 
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC 2026",TSN 1
@@ -151,5 +153,15 @@ https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1183.m3u8
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1184.m3u8
 #EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",ESPN 3
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1185.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 1
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1237.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 2
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1238.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 3
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1239.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 4
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1240.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 2
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1241.m3u8
 
 
