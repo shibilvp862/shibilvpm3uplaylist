@@ -112,8 +112,14 @@ https://shwe7ank-jeeyo.netlify.app/watch.html?id=ss1
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=146126&extension=m3u8
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="FIFA WC 2026",beIN MAX HD
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/G7iRP3-TNdSmqwAGv39K_hsHX43dyVu5dsYEH2XW-Y2fcFzh4OIyComZSd2rd8AYMhRZ8ycSSiBU7v3QGORYMw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",TRT 1
-https://corestream.ronaldovurdu.help//trt1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FOX SPORTS HD
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1042.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FS 1 (SD)
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1633.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC 2026",TSN 5
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1636.m3u8
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC 2026",TSN 3
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1612.m3u8
 
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC 2026",TSN 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -137,6 +143,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",Fan Code 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",FOX DEPORTES
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1632.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",ESPN
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1183.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",ESPN 2
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1184.m3u8
+#EXTINF:-1 tvg-id="SPORTS" tvg-logo="YpQ-fb-mbmnPgYDVuw&s=10" group-title="USA/LATIN",ESPN 3
+https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1185.m3u8
 
 
