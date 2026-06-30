@@ -38,10 +38,7 @@ https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1034.m3u8
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1035.m3u8
 #EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://www.tntsports.com/img/tntsportsplus/tnt-sports-plus-logo.png" group-title="UK",TNT 4
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8
-#EXTINF:-1 tvg-id="Bein MAX 1" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",Bein MAX 1
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
-#EXTINF:-1 tvg-id="Bein MAX 2" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",Bein MAX 2
-https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8
+
 #EXTINF:-1 tvg-id="Bein SP 1" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",beIN SP 1 ULTRA 4K
 http://vipxtv.net/live/fabian/zxczxc2024/368336.ts
 #EXTINF:-1 tvg-id="Bein SP 2" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="Bein Sports",beIN SP 2 ULTRA 4K
@@ -170,12 +167,7 @@ https://chatgpt.hereisman.net/playlist/52737/load-playlist?|Referer=https://gooz
 https://chatgpt.hereisman.net/playlist/52735/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC",BBC
 https://chatgpt.hereisman.net/playlist/52736/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC",TSN 2
-https://chatgpt.hereisman.net/playlist/52734/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC",TSN 3
-https://chatgpt.hereisman.net/playlist/52733/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC",TSN 4
-https://chatgpt.hereisman.net/playlist/52732/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC",TSN 5
-https://chatgpt.hereisman.net/playlist/52731/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-id="Bein MAX 1" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="FIFA WC",Bein MAX 1
+https://inproviszon.st/bein-xyz.m3u8
+
 
