@@ -105,20 +105,6 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/cb543d1d6570668d84cb3c60cef047a5f93d1fde1d6988693eb5518975d30b0bd1bda4cbe44eee755c9a18d87c0b6c075c7ac319d72e1c95d872a107627a10219899e4199fa32d317457720018ca040c648750418974711db38b3b3bf5f631e467698c287d5f33f7d16156ad2fe7b677ce227bdaf4cf4401effc22bd6f209d8a65deaeb90c07892ff9f55e198f177fd18642c9d41bbb82c7634674a7e37ce5ba84d388a33929e33ef8345fd0144334036e908136b8c651bddb8e6803ed1b436b114fefaf9fff0169c817313c829fc1dd34aef3af719944cc51127f4aafa538a2243a0ecb0c035e805f/11/1920x1080_5859480/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvi2uP2m-Onmj1Se8GhGl2bnl2llgn491mmNjGdv1lA&s=10" group-title="CRICKET",FOX CRICKET HD
 https://shwe7ank-jeeyo.netlify.app/watch.html?id=ss1
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="FIFA WC 2026",beIN MAX 4K
-http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=146126&extension=m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="FIFA WC 2026",beIN MAX HD
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/G7iRP3-TNdSmqwAGv39K_hsHX43dyVu5dsYEH2XW-Y2fcFzh4OIyComZSd2rd8AYMhRZ8ycSSiBU7v3QGORYMw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FOX SPORTS HD
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1042.m3u8
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FS 1 (SD)
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1633.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC LQ",TSN 1
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1656.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC LQ",TSN 5
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1636.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC LQ",TSN 3
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1612.m3u8
 
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC 2026",TSN 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -126,6 +112,21 @@ https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1612.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+#EXTINF:-1 group-title="FIFA WC 2026" group-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",WC TV
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+#EXTINF:-1 group-title="FIFA WC 2026" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",FOX*
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+#EXTINF:-1 group-title="FIFA WC 2026" group-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",ITV SPORTS - AQ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
