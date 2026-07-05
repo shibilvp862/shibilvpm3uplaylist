@@ -69,3 +69,27 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 #EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/2046/1152/IMG_6227.png?ve=1&tl=1",WC TV
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ts506" catchup-type="append" catchup-days="4" catchup-source="&begin={utc}&end={utcend}" tvg-type="live" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite2hd_wdpxkw.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="LazyyXD | FIFA2026",Unite8 Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/unite8/public/license/1782246600/LdQHMz2KopjgbRkD/ts506/keys.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_type=live
+https://falcon-en-conn.zee5.com/hls/live/2125522/NOR-vs-FRA-27-con_ENG/index-connected.m3u8?hdnts=st=1782496913~exp=1782511313~acl=/hls/live/2125522/NOR-vs-FRA-27-con_ENG/index-connected.m3u8*~id=0-1-6z5974933_4F5A716C-63E8-4CF4-B6A4-28DF87F42840~hmac=a5babbdc739f353c8886dbe9a7ee21ef0c2d86927d0f0bbded5b98c53730398f&req_id=f05fb09a-fcb8-4147-af6a-75be2140b4c6
+
+#EXTINF:-1 tvg-id="ts502" catchup-type="append" catchup-days="4" catchup-source="&begin={utc}&end={utcend}" tvg-type="live" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="LazyyXD | FIFA2026",Unite8 Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.tataplay.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://uplink.lazyspace.online/unite8/public/license/1782246600/LdQHMz2KopjgbRkD/ts502/keys.json
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_type=live
+https://falcon-en-conn.zee5.com/hls/live/2125522/NOR-vs-FRA-27-con_ENG/index-connected.m3u8?hdnts=st=1782496913~exp=1782511313~acl=/hls/live/2125522/NOR-vs-FRA-27-con_ENG/index-connected.m3u8*~id=0-1-6z5974933_4F5A716C-63E8-4CF4-B6A4-28DF87F42840~hmac=a5babbdc739f353c8886dbe9a7ee21ef0c2d86927d0f0bbded5b98c53730398f&req_id=f05fb09a-fcb8-4147-af6a-75be2140b4c6
+
+
+#EXTINF:-1 tvg-id="ts502" catchup-type="append" catchup-days="4" catchup-source="&begin={utc}&end={utcend}" tvg-type="live" tvg-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1780558291/unite1hd_vc1diq.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="LazyyXD | FIFA2026",ZEE5 HINDI
+https://falcon-en-conn.zee5.com/hls/live/2125522/NOR-vs-FRA-27-con_ENG/index-connected.m3u8?hdnts=st=1782496913~exp=1782511313~acl=/hls/live/2125522/NOR-vs-FRA-27-con_ENG/index-connected.m3u8*~id=0-1-6z5974933_4F5A716C-63E8-4CF4-B6A4-28DF87F42840~hmac=a5babbdc739f353c8886dbe9a7ee21ef0c2d86927d0f0bbded5b98c53730398f&req_id=f05fb09a-fcb8-4147-af6a-75be2140b4c64~acl=/hls/live/2125522/POR-vs-UZB-23-con_HIN/index-connected.m3u8*~id=0-1-6z5974844_45C9612D-2A04-4F51-9FF4-9768FA801B49~hmac=c8e0cea2f98e60886c5c68423b8a53e2f5e3a65ff45a567cecaafcc750167fc8&req_id=c669c80c-f1a3-4ea6-b116-e5b9f1bfe43a
