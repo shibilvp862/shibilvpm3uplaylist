@@ -142,6 +142,21 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",Fan Code 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5XrbBOS2LdikafXsMGJQYMqqNPZSW176boKnrqQEl6GzfbEUrmr_jOw&s=10" group-title="INDIA",TEN 1
+https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a%7COrigin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5XrbBOS2LdikafXsMGJQYMqqNPZSW176boKnrqQEl6GzfbEUrmr_jOw&s=10" group-title="INDIA",TEN 3
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a%7COrigin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5XrbBOS2LdikafXsMGJQYMqqNPZSW176boKnrqQEl6GzfbEUrmr_jOw&s=10" group-title="INDIA",TEN 4
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a%7COrigin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5XrbBOS2LdikafXsMGJQYMqqNPZSW176boKnrqQEl6GzfbEUrmr_jOw&s=10" group-title="INDIA",TEN 5
+https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a%7COrigin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
+
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5XrbBOS2LdikafXsMGJQYMqqNPZSW176boKnrqQEl6GzfbEUrmr_jOw&s=10" group-title="INDIA",TEN 1*
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1783210214~acl=/*~id=17328806853328633332565215549785~hmac=cb85b2a12cc84b706461ed428d0336aa7af870c1fcc81b2c0bfcb5e7eb93e6df
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS5XrbBOS2LdikafXsMGJQYMqqNPZSW176boKnrqQEl6GzfbEUrmr_jOw&s=10" group-title="INDIA",TEN 3*
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783210214~acl=/*~id=17328806853328633332565215549785~hmac=cb85b2a12cc84b706461ed428d0336aa7af870c1fcc81b2c0bfcb5e7eb93e6df
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1
