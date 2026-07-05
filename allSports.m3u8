@@ -142,32 +142,25 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",Fan Code 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://play-lh.googleusercontent.com/HAd9Rb_txVXhtWbLt-y9SwPUkRrpTBHS-nrj-FRpyvbz1Be-w1Lgq9v0gqU1ya6YWhCEA8pxO5Ffwpn0Hvd5Ag" group-title="USA/LATIN",FOX DEPORTES
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1632.m3u8
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUWTQy8a0rOK3XeyQB_-erTdIauqn5yDKaiETJXIx7IIIfmLjr5FxAC4&s" group-title="USA/LATIN",ESPN
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1183.m3u8
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUWTQy8a0rOK3XeyQB_-erTdIauqn5yDKaiETJXIx7IIIfmLjr5FxAC4&s" group-title="USA/LATIN",ESPN 2
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1184.m3u8
-#EXTINF:-1 tvg-id="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUWTQy8a0rOK3XeyQB_-erTdIauqn5yDKaiETJXIx7IIIfmLjr5FxAC4&s" group-title="USA/LATIN",ESPN 3
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1185.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 1
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1237.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 2
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1238.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 3
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1239.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 4
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1240.m3u8
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="USA/LATIN",TSN 5
-https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1241.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" group-title="FIFA WC",TSN 1
-https://chatgpt.hereisman.net/playlist/52737/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 group-title="FIFA WC" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FOX SPORTS HD
-https://chatgpt.hereisman.net/playlist/52735/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC",BBC
-https://chatgpt.hereisman.net/playlist/52736/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-id="Bein MAX 1" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" group-title="FIFA WC",Bein MAX 1
-https://inproviszon.st/bein-xyz.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 
+https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
 
 
