@@ -152,6 +152,25 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",Fan Code 2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 1 HD
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 1 Hindi HD
+http://103.253.18.58:8000/play/a00t
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 2 HD
+http://119.156.228.231:9983/stream/channelid/499059519.ts?ticket=A259453DD46CD6A47E75E64B8EA0BE8AE9022A1C&profile=pass
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 1 Hindi
+http://103.253.18.58:8000/play/a03o
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 1
+http://103.253.18.58:8000/play/a00n
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 2
+http://103.253.18.58:8000/play/a00p
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 3
+http://103.253.18.58:8000/play/a00v
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 4
+http://103.253.18.58:8000/play/a00o
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 5
+http://103.253.18.58:8000/play/a00r
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1
