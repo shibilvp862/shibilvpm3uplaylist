@@ -63,8 +63,10 @@ http://vipxtv.net/live/fabian/zxczxc2024/368319.ts
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj",FOX SPORTS HD
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1053.m3u8
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", RTBGO - AQ
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", NW Sports 1
+http://41.205.70.146/BEINSPORT1/index.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", NW Sports 2
+http://41.205.70.146/M6/index.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FIFA 1
 https://instreams.pro/EU/HDWC1/index.m3u8|Referer=https://instream.click/jwp-eu.php?stream=HDWC1&Origin=https://instream.click/jwp-eu.php?stream=HDWC1&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FIFA 2
@@ -160,16 +162,6 @@ http://103.253.18.58:8000/play/a00t
 http://119.156.228.231:9983/stream/channelid/499059519.ts?ticket=A259453DD46CD6A47E75E64B8EA0BE8AE9022A1C&profile=pass
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 1 Hindi
 http://103.253.18.58:8000/play/a03o
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 1
-http://103.253.18.58:8000/play/a00n
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 2
-http://103.253.18.58:8000/play/a00p
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 3
-http://103.253.18.58:8000/play/a00v
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 4
-http://103.253.18.58:8000/play/a00o
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",SS Test 5
-http://103.253.18.58:8000/play/a00r
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
