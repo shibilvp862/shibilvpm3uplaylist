@@ -160,6 +160,17 @@ http://103.253.18.58:8000/play/a00m
 http://103.253.18.58:8000/play/a00t
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 2 HD
 http://119.156.228.231:9983/stream/channelid/499059519.ts?ticket=A259453DD46CD6A47E75E64B8EA0BE8AE9022A1C&profile=pass
+#EXTINF:-1 tvg-id="1033" tvg-name="Star Sports 2 Hindi HD" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png",Star Sports 2 Hindi HD
+https://fifabdmob.site/new.php?id=f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e-audio_108038_hin=108000-video=662800.m3u8
+
+#EXTINF:-1 tvg-id="980" tvg-name="Star Sports 2 Hindi" group-title="Sports" tvg-language="Hindi" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png",Star Sports 2 Hindi
+https://fifabdmob.site/new.php?id=2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0-audio_98838_hin=98800-video=658800.m3u8
+
+#EXTINF:-1 tvg-id="1186" tvg-name="Star Sports 2 Telugu" group-title="Sports" tvg-language="Telugu" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",Star Sports 2 Telugu
+https://fifabdmob.site/new.php?id=034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9-audio_108035_tel=108000-video=662800.m3u8
+
+#EXTINF:-1 tvg-id="1187" tvg-name="Star Sports 2 Tamil" group-title="Sports" tvg-language="Tamil" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",Star Sports 2 Tamil
+https://fifabdmob.site/new.php?id=4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b-audio_108035_tam=108000-video=662800.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="DD SPORTS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10569.jpg" group-title="INDIA",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
