@@ -163,6 +163,21 @@ http://119.156.228.231:9983/stream/channelid/499059519.ts?ticket=A259453DD46CD6A
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 1 Hindi
 http://103.253.18.58:8000/play/a03o
 
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Euro Sport HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=euro_sports_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 1 HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_1_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 2 HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_2_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 5 HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_5_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY TEN Cricket" tvg-type="CRICFY " group-title="CRICKET" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png", SONY TEN Cricket
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=ten_cricket
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1
