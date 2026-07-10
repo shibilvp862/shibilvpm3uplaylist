@@ -161,49 +161,6 @@ http://103.253.18.58:8000/play/a00t
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1GpehMoeZQkHUSd7BPCmgQENcHe6QwRXx1mZRyeI2w&s=10" group-title="INDIA",Star Sports 2 HD
 http://119.156.228.231:9983/stream/channelid/499059519.ts?ticket=A259453DD46CD6A47E75E64B8EA0BE8AE9022A1C&profile=pass
 
-#EXTINF:-1 tvg-id="1033" group-title="INDIA" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png",Star Sports 2 Hindi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1772811784~acl=%2f*~id=d08b09eaf9f1dd0983f6713ee3b84112~data=hdntl~hmac=1a904bb579b6dffd19a526f0e79c65dd1c6aac4ec81f89a13cc3570be2298311"}
-#EXTVLCOPT:http-origin=https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
-
-#EXTINF:-1 tvg-id="980" group-title="INDIA" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png",Star Sports 2 Hindi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1772811784~acl=%2f*~id=d08b09eaf9f1dd0983f6713ee3b84112~data=hdntl~hmac=1a904bb579b6dffd19a526f0e79c65dd1c6aac4ec81f89a13cc3570be2298311"}
-#EXTVLCOPT:http-origin=https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
-
-#EXTINF:-1 tvg-id="1186" group-title="INDIA" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",Star Sports 2 Telugu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1772811784~acl=%2f*~id=d08b09eaf9f1dd0983f6713ee3b84112~data=hdntl~hmac=1a904bb579b6dffd19a526f0e79c65dd1c6aac4ec81f89a13cc3570be2298311"}
-#EXTVLCOPT:http-origin=https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
-
-#EXTINF:-1 tvg-id="1187" group-title="INDIA" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",Star Sports 2 Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1772811784~acl=%2f*~id=d08b09eaf9f1dd0983f6713ee3b84112~data=hdntl~hmac=1a904bb579b6dffd19a526f0e79c65dd1c6aac4ec81f89a13cc3570be2298311"}
-#EXTVLCOPT:http-origin=https://www.hotstar.com
-#EXTVLCOPT:http-referrer=https://www.hotstar.com/
-https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
-
-#EXTINF:-1 tvg-id="CRICFY" tvg-name="Euro Sport HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
-https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=euro_sports_hd
-
-#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 1 HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
-https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_1_hd
-
-#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 2 HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
-https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_2_hd
-
-#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 5 HD" tvg-type="CRICFY " group-title="INDIA" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
-https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_5_hd
-
-#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY TEN Cricket" tvg-type="CRICFY " group-title="CRICKET" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png", SONY TEN Cricket
-https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=ten_cricket
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1
