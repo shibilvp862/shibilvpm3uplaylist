@@ -175,7 +175,7 @@ https://fifabdmob.site/new.php?id=4db6f833701e78ae4443cb268020f03b/Fallback/4db6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",SS Select 1
-https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd?
+https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd?|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1783774223~acl=%2f*~id=1387f5c8be4bccfdc66217471d12140f~data=hdntl~hmac=27a28f58588518b69b3628d54d7a50a7fd5345aa1cfad7e95fcb00fb1e97bcd4
 
 #EXTINF:-1 tvg-id="104" tvg-name="DD SPORTS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10569.jpg" group-title="INDIA",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
