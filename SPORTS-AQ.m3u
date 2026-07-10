@@ -187,3 +187,216 @@ https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1777645864~acl=%2f*
 #EXTINF:-1 tvg-language="English" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" group-title="Sports" , !Sоnу Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8
+
+#EXTM3U
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",KIDS: CHU CHU TV 24/7
+https://ranapkbd.site/TATABD/play.php?id=301502|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",KIDS: MR BEAN (CARTOON) 24/7
+https://ranapkbd.site/TATABD/play.php?id=301501|Referer=RANAPK
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png",IN: CARTOON NETWORK
+https://ranapkbd.site/TATABD/play.php?id=150478|Referer=RANAPK
+#EXTINF:-1 tvg-id="nick.in" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",IN: NICK
+https://ranapkbd.site/TATABD/play.php?id=150482|Referer=RANAPK
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png",IN: POGO
+https://ranapkbd.site/TATABD/play.php?id=150483|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://static.epg.best/in/SonyYAY.in.png",IN | SONY YAY
+https://ranapkbd.site/TATABD/play.php?id=26187|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png",IN: NICK SONIC
+https://ranapkbd.site/TATABD/play.php?id=34011|Referer=RANAPK
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://static.epg.best/in/NickHDPlus.in.png",NICK HD+ [FHD]
+https://ranapkbd.site/TATABD/play.php?id=76722|Referer=RANAPK
+#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/220px-2016_Discovery_Kids_logo.svg.png",DISCOVERY KIDS
+https://ranapkbd.site/TATABD/play.php?id=76723|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",IN: DISNEY JUNIOR
+https://ranapkbd.site/TATABD/play.php?id=153175|User-Agent=
+#EXTINF:-1 tvg-id="388459" tvg-name="24/7 KIDS | DORAEMON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="INDIAN | KIDS CARTOON",24/7 KIDS | DORAEMON
+https://ranapkbd.site/TATABD/play.php?id=388459|Referer=RANAPK
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",IN | DISNEY HD
+https://ranapkbd.site/TATABD/play.php?id=167551|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",KIDS: CHUTTI TV
+https://ranapkbd.site/TATABD/play.php?id=150479|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",IN: HUNGAMA**
+https://ranapkbd.site/TATABD/play.php?id=150480|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png",IN: CARTOON NETWORK HD+
+https://ranapkbd.site/TATABD/play.php?id=153154|User-Agent=
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png",IND: NICK JUNIOR
+https://ranapkbd.site/TATABD/play.php?id=153156|Referer=RANAPK
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Motu_Patlu.Jpg",24/7 MOTU PATLU 01
+https://ranapkbd.site/TATABD/play.php?id=307079|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",OGGY AND THE COCKROACHES HINDI
+https://ranapkbd.site/TATABD/play.php?id=308282|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://e7.pngegg.com/pngimages/990/187/png-clipart-motu-patlu-television-show-animated-film-nickelodeon-motu-patlu-television-food.png",24/7 MOTU PATLU 02
+https://ranapkbd.site/TATABD/play.php?id=311373|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFlODk2ZmEtMWE5MC00Nzg5LWE3ODMtMzViYTRhNjdjMjgzXkEyXkFqcGdeQXVyNjEyNjM1MjY@._V1_.jpg",24/7 CHACHA BHATIJA
+https://ranapkbd.site/TATABD/play.php?id=311774|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="http://logo.opplextv.com/logo/WowKidsAction.png",24/7 WOW KIDS ACTION
+https://ranapkbd.site/TATABD/play.php?id=314753|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="http://logo.opplextv.com/logo/VirTheRobotBoy.png",24/7 VIR THE ROBOT BOY
+https://ranapkbd.site/TATABD/play.php?id=314754|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chhota_Bheem.jpg",24/7 CHHOTA BHEEM
+https://ranapkbd.site/TATABD/play.php?id=315401|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png",24/7 TOM & JERRY
+https://ranapkbd.site/TATABD/play.php?id=329247|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://e7.pngegg.com/pngimages/578/87/png-clipart-scooby-doo-mystery-scooby-doo-velma-dinkley-youtube-scoobydoo-text-logo.png",24/7 SCOOBY-DOO
+https://ranapkbd.site/TATABD/play.php?id=329248|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",24/7 KIDS SONGS HINDI
+https://ranapkbd.site/TATABD/play.php?id=340802|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",24/7 BOOBA
+https://ranapkbd.site/TATABD/play.php?id=340803|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",24/7 BABYBUS | NURSERY RHYMES
+https://ranapkbd.site/TATABD/play.php?id=340804|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",24/7 CHUCHU TV 
+https://ranapkbd.site/TATABD/play.php?id=340807|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Baalveer_Returns_Title_Card.jpg/220px-Baalveer_Returns_Title_Card.jpg",24/7 BAAL VEER 
+https://ranapkbd.site/TATABD/play.php?id=340809|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://w7.pngwing.com/pngs/352/597/png-transparent-shiva-nickelodeon-sonic-cartoon-television-show-shiva-sports-equipment-fictional-character-pakdam-pakdai-thumbnail.png",24/7 SHIVA
+https://ranapkbd.site/TATABD/play.php?id=342074|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",24/7 KIDS | MOV HINDI
+https://ranapkbd.site/TATABD/play.php?id=362998|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",24/7 KIDS | MOVIES
+https://ranapkbd.site/TATABD/play.php?id=362999|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",24/7 KIDS | MOVIES ENG 01
+https://ranapkbd.site/TATABD/play.php?id=363000|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="https://co4kids.org/sites/default/files/Kids%20247%20CMYK%20%281%29.png",24/7 KIDS | MOVIES ENG 02
+https://ranapkbd.site/TATABD/play.php?id=363001|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",KIDS: SONIC 24/7
+https://ranapkbd.site/TATABD/play.php?id=301500|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",KIDS: COCOMELON TV 24/7
+https://ranapkbd.site/TATABD/play.php?id=301499|Referer=RANAPK
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN | KIDS CARTOON" tvg-logo="",KIDS: PINK PANTHER 24/7
+https://ranapkbd.site/TATABD/play.php?id=301503|Referer=RANAPK
+
+#FUCK U 😁✅
+
+
+#FUCK U 😁✅
+
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Champions Trophy 2025" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_428673001738570163.png", Champions Trophy 2025
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="TOFFEE Sports VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png", TOFFEE Sports VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sports_highlights
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="TOFFEE Movies VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png", TOFFEE Movies VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=toffee_movie
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="TOFFEE Dramas VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png", TOFFEE Dramas VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=toffee_drama
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="CNN VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png", CNN VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=cnn
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Euro Sport HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png", Euro Sport HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=euro_sports_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 1 HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png", SONY SPORTS TEN 1 HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_1_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 2 HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png", SONY SPORTS TEN 2 HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_2_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SPORTS TEN 5 HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png", SONY SPORTS TEN 5 HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_sports_5_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY TEN Cricket" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png", SONY TEN Cricket
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=ten_cricket
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Cartoon Network HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png", Cartoon Network HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=cartoon_network_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Cartoon Network" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png", Cartoon Network
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=cartoon_network_sd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Pogo" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png", Pogo
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=pogo_sd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Discovery Kids" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png", Discovery Kids
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=discovery_kids
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY YAY VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png", SONY YAY VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sonyyay
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Zee Bangla VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png", Zee Bangla VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=zee_bangla
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Hum TV" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png", Hum TV
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=hum_tv
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Hum Masala" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png", Hum Masala
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=hum_masala
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Hum Sitarey" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png", Hum Sitarey
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=hum_sitaray
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Sony Aat VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png", Sony Aat VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sonyaath
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png", SONY ENTERTAINMENT TELEVISION HD VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sonyentertainmnt_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT TELEVISION
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_entertainment
+
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY SAB HD VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png", SONY SAB HD VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sonysab_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY MAX HD VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png", SONY MAX HD VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_max_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY MAX VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png", SONY MAX VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sony_max
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY PIX HD VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png", SONY PIX HD VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sonypix_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="B4U Movies VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png", B4U Movies VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=b4u_movies
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="B4U Music VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E"" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png", B4U Music VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=b4u_music
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY MAX 2 VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png", SONY MAX 2 VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sonymax_2
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Zee Bangla Cinema VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png", Zee Bangla Cinema VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=zee_bangla_cinema
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="TLC HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png", TLC HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=tlc_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="TLC" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png", TLC
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=tlc_sd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Animal Planet" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png", Animal Planet
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=animal_planet_sd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Animal Planet HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png", Animal Planet HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=animal_planet_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="SONY BBC EARTH HD VIP" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png", SONY BBC EARTH HD VIP
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=sonybbc_earth_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Discovery HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png", Discovery HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=discovery_hd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Discovery" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png", Discovery
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=discovery_sd
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Discovery Science" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png", Discovery Science
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=discovery_science
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Discovery Turbo" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png", Discovery Turbo
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=discovery_turbo
+
+#EXTINF:-1 tvg-id="CRICFY" tvg-name="Investigation Discovery HD" tvg-type="CRICFY " group-title="𝐂𝐫𝐢𝐜𝐟𝐲 𝐋𝐢𝐯E" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png", Investigation Discovery HD
+https://fifabangladesh.top/TG@RANAPKX73x/TOXF/play.php?id=discovary_investigation_hd
+
+
+
+#FUCK U 😁✅
+#EXTINF:-1
+#EXTINF:-1
