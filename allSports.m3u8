@@ -172,5 +172,84 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=223
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="223" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",DD Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711622~acl=%2fbpk-tv%2firdeto_com_Channel_146%2foutput%2f*~id=8307124799~data=hdntl~hmac=cc81577e6ac31e5c9e44d5273051bbc9911d412a5b5756b16c88d0d726bfa89a"}}
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=78
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="78" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Spor 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711684~acl=%2fbpk-tv%2firdeto_com_Channel_250%2foutput%2f*~id=8307124799~data=hdntl~hmac=4b31173e3655cea8b0fe0fe4dcb9079ba708e3adbec879311a4da2acafd99800"}}
+https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=235
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="235" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Spor 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711624~acl=%2fbpk-tv%2firdeto_com_Channel_251%2foutput%2f*~id=8307124799~data=hdntl~hmac=137b27a36882b3e0e00c42047ff2da90b7c811f96a0bc7a7a6a2736140412b59"}}
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="24" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Spor 1 Hindi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711624~acl=%2fbpk-tv%2firdeto_com_Channel_252%2foutput%2f*~id=8307124799~data=hdntl~hmac=39e1f5817f8e6314aacf02238917c4edb7fb9a8dc1ccc417f4f7f99ead62dc42"}}
+https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=1489
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1489" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/TataPlayFancodeSports_Thumbnail_a8760439-8b96-4183-b56d-1cddd0f3971b.png",Tata Play Fancode Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783639615~acl=%2fbpk-tv%2firdeto_com_Channel_2251%2foutput%2f*~id=8307124799~data=hdntl~hmac=990b8761e4d6e35b3cd392a202ae0e94511699ef80935fb93caf103a9a66cd0a"}}
+https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_2251/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=246
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="246" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Spor Select 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711624~acl=%2fbpk-tv%2firdeto_com_Channel_413%2foutput%2f*~id=8307124799~data=hdntl~hmac=0cfa212421c726656e17ce576e5b2af3e96ef0403b00944e3c64b1bec8d5b751"}}
+https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=1033
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="1033" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Star Sports 2 Hindi HD_Thumbnail_7b031415-8d1d-4c5d-a3f8-a2315faa5e4e.png",Star Spor 2 Hindi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711586~acl=%2fbpk-tv%2firdeto_com_Channel_1852%2foutput%2f*~id=8307124799~data=hdntl~hmac=721c11828507943dbab6cf7909c98f2165f4b920b22e67599cda9c3e80fbb10c"}}
+https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=980
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="980" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Star%20Sports%202%20Hindi_Thumbnail_9bac75da-2ed3-4b58-9bf8-d5c1a25f1245.png",Star Spor 2 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711703~acl=%2fbpk-tv%2firdeto_com_Channel_1809%2foutput%2f*~id=8307124799~data=hdntl~hmac=e527a38c018ec250886e36073f679cf62f73d584357d3fbd072ae6896be81e3b"}}
+https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=812
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="812" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",Eurosport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711686~acl=%2fbpk-tv%2firdeto_com_Channel_1109%2foutput%2f*~id=8307124799~data=hdntl~hmac=4c2513e0ee871603d940d729555d54b3a4e14ca009507f92234c80a127d6faf5"}}
+https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://key13.freelivtv.workers.dev/key?id=693
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="693" catchup-type="append" catchup-days="8" catchup-source="&begin={utc}&end={utcend}" group-title="INDIA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",Eurosport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTHTTP:{"cookie":"hdntl=exp=1783711680~acl=%2fbpk-tv%2firdeto_com_Channel_935%2foutput%2f*~id=8307124799~data=hdntl~hmac=f523e7271043d996b7908129b0c28af567153cfcbde5229dcd507d42eea2e659"}}
+https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd
 
