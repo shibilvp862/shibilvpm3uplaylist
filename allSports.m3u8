@@ -16,6 +16,17 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
 
 #EXTM3U
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1 FHD
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 FHD
+http://40.160.24.55/TSN_2/index.m3u8
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 3 FHD
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 4 FHD
+http://40.160.24.55/TSN_4/index.m3u8
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5 FHD
+http://40.160.24.55/TSN_5/index.m3u8
+
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY F1
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1037.m3u8
 #EXTINF:-1 tvg-id="SKY MAIN EVENT" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY MAIN EVENT
@@ -163,22 +174,22 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1 AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62
-#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
-#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 4
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 4 AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5
+#EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5 AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
 
