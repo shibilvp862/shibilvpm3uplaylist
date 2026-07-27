@@ -69,7 +69,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTINF:-1 tvg-id="bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="Bein Sports",beiN SPORTS - AQ
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd%7COrigin=https://amazon.com&user-agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",beIN SP 1 ULTRA 4K
 http://vipxtv.net/live/fabian/zxczxc2024/368336.ts
@@ -203,8 +203,13 @@ https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWx
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=1105
 
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 1
-https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6697
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsudHZzdGIubWU6ODAiLCJtYWMiOiIwMDoxQTo3OTowMDowMDpFRCIsInNuIjoiQkNDRUI0NUQ3MUFCQSIsImRldmljZSI6IkE3OUM3NEE5RTM3MUM2QUNFMEU2RUY5RkE2NzM5MEM1MENERDJFNEQ5M0VFM0RGQ0QwRTYxMDcwNUM1QkZCNzkifQ==/482321.m3u
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2
+https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsudHZzdGIubWU6ODAiLCJtYWMiOiIwMDoxQTo3OTowMDowMDpFRCIsInNuIjoiQkNDRUI0NUQ3MUFCQSIsImRldmljZSI6IkE3OUM3NEE5RTM3MUM2QUNFMEU2RUY5RkE2NzM5MEM1MENERDJFNEQ5M0VFM0RGQ0QwRTYxMDcwNUM1QkZCNzkifQ==/http://192.101.68.27/IN_UNITE8_SPORTS_2/index.m3u8.m3u
+
+#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 1*
+https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6697
+#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2*
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6698
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -252,4 +257,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5 AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f27947d6ebb502691d6e93acc55f534:0641727268a42fa27ccb68c3ceea57c2
+#EXTINF:-1 group-title="CRICKET" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Kayo_Sports_logo.png",kayo
+https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/3bd8ced0e60e46069001d0e522d7bc20/index.mpd?
