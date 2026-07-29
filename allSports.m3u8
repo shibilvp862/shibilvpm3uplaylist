@@ -222,25 +222,6 @@ https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWx
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2*
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6698
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",Fan Code 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",Fan Code 2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",FC 1
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fancode.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2" group-title="INDIA",FC 2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-name="DD SPORTS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10569.jpg" group-title="INDIA",DD SPORTS HD
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=2604
@@ -267,7 +248,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTINF:-1 group-title="TSN" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5 AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f27947d6ebb502691d6e93acc55f534:0641727268a42fa27ccb68c3ceea57c2
-#EXTINF:-1 group-title="CRICKET" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Kayo_Sports_logo.png",kayo
-https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/3bd8ced0e60e46069001d0e522d7bc20/index.mpd?
