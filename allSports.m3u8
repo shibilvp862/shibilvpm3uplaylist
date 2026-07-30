@@ -16,15 +16,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
 
 #EXTM3U
-#EXTINF:-1 group-title="USA" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1 FHD
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1 FHD
 http://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:-1 group-title="USA" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 FHD
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 FHD
 http://40.160.24.55/TSN_2/index.m3u8
-#EXTINF:-1 group-title="USA" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 3 FHD
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 3 FHD
 http://40.160.24.55/TSN_3/index.m3u8
-#EXTINF:-1 group-title="USA" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 4 FHD
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 4 FHD
 http://40.160.24.55/TSN_4/index.m3u8
-#EXTINF:-1 group-title="USA" group-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5 FHD
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5 FHD
 http://40.160.24.55/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT 1
