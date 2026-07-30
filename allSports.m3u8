@@ -171,7 +171,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz6fDusywCjTVFAQMVbfj084vNVlFMhDk2CmkRgQgCV_gfldQo2GugkG0&s" group-title="USA",CBS SPORTS
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="USA",CBS SPORTS
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="USA",Fox Sports
@@ -182,7 +182,12 @@ http://40.160.24.58/FOX_DEPORTES/index.m3u8
 https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="USA",FS 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="USA",CBS Sports HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="USA",CBS Sports Network USA
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="USA",CBS Sports
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA",STAR SPORTS 1 
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=290
