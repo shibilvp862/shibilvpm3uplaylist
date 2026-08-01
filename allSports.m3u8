@@ -194,7 +194,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="USA",CBS SPORTS
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="USA",CBS SPORTS - AQ
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="USA",Fox Sports
