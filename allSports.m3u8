@@ -54,6 +54,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1
 #EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 2 - AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+IPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOdu9N6_pS40gLbMqbbPGr2S9HHLrShkjApCQCEE-L3C4l6xYTZGQmQQ&s" group-title="UK",MotoGP - AQ
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",beiN SPORTS 1 - AQ
@@ -163,6 +168,15 @@ http://stream.mcquack.net/234/index.m3u8
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/UR8dHNO.png" group-title="FOOTBALL",Setanta Sports + Ukrain
 http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="FOOTBALL",Barca TV
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV HD
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV SD
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV SPANISH
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
