@@ -163,6 +163,20 @@ http://stream.mcquack.net/234/index.m3u8
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/UR8dHNO.png" group-title="FOOTBALL",Setanta Sports + Ukrain
 http://stream.mcquack.net/390/index.m3u8
+
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/XS2BB02.png" group-title="FOOTBALL",Match! Futbol 1
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="FOOTBALL",Match! Futbol 2
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="FOOTBALL",Match! Futbol 3
+http://stream.mcquack.net/185/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="FOOTBALL",Match! Ultra
+http://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="FOOTBALL",Match! Premier
+http://stream.mcquack.net/193/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="FOOTBALL",Match! Arena
+http://stream.mcquack.net/163/index.m3u8
+
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="FOOTBALL",Barca TV
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV HD
