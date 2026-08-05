@@ -984,7 +984,7 @@ https://livetv.hotstar.com/mp2/gec-india-1540068768/c31f5cd2f90344c99600a92bac20
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786020438~acl=%2f*~id=cd9d9b7229bffec7b6e5f0bcf2726c9d~data=hdntl~hmac=0b1077b65686041b3163a38214a626c34d0d3648ef6d9e5fe1845c204d9158e6"}
 https://livetv.hotstar.com/mp1/gec-india-1540068702/807fee4649e74970af364da5030ce386/index.mpd?|cookie=hdntl=exp=1786020438~acl=%2f*~id=cd9d9b7229bffec7b6e5f0bcf2726c9d~data=hdntl~hmac=0b1077b65686041b3163a38214a626c34d0d3648ef6d9e5fe1845c204d9158e6&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 
-#EXTINF:-1 tvg-name="Star Sports Select 2 Digital By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h" group-title="Sports By @rtxcric", Star Sports Select 2 
+#EXTINF:-1 tvg-name="Star Sports Select 2 Digital By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7266/1783001217266-h" group-title="Sports By @rtxcric", Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bced3f4d794419e99012ad6c1090000:c4c7f22fc71445c28ea15cb3fdb1b3be
@@ -995,7 +995,7 @@ https://livetv.hotstar.com/mp1/gec-india-1540068702/807fee4649e74970af364da5030c
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1786020438~acl=%2f*~id=cd9d9b7229bffec7b6e5f0bcf2726c9d~data=hdntl~hmac=0b1077b65686041b3163a38214a626c34d0d3648ef6d9e5fe1845c204d9158e6"}
 https://livetv.hotstar.com/mp2/gec-india-1540068726/07582d46912e46cbb5f802923a0257d1/index.mpd?|cookie=hdntl=exp=1786020438~acl=%2f*~id=cd9d9b7229bffec7b6e5f0bcf2726c9d~data=hdntl~hmac=0b1077b65686041b3163a38214a626c34d0d3648ef6d9e5fe1845c204d9158e6&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 
-#EXTINF:-1 tvg-name="Star Sports Select 1 Digital By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h" group-title="Sports By @rtxcric", Star Sports Select 1 Digital @rtxcric
+#EXTINF:-1 tvg-name="Star Sports Select 1 Digital By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1176/1783001141176-h" group-title="Sports By @rtxcric", Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae3b1efc6eee47fa90e0360b16ad0000:3c8be3ec7a4e4ab6994725420d95f971
