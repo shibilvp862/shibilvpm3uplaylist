@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:60,live.php?mac=00:1A:79:0E:14:DE&stream=809389&extension=m3u8
+#EXTVLCOPT:network-caching=1000
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&stream=809389&extension=m3u8
