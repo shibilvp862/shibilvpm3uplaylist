@@ -17,7 +17,7 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809391&
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809392&amp;extension=m3u8
 #EXTINF:-1 tvg-id="SKY 2" tvg-logo="https://i.imgur.com/VfYEc6f.png" group-title="CRIC",SKY 2
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809393&amp;extension=m3u8
-#EXTINF:-1 tvg-id="SKY 3" tvg-logo="https://i.imgur.com/VfYEc6f.png" group-title="",SKY 3
+#EXTINF:-1 tvg-id="SKY 3" tvg-logo="https://i.imgur.com/VfYEc6f.png" group-title="CRIC",SKY 3
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809394&amp;extension=m3u8
 #EXTINF:-1 tvg-id="SKY 4" tvg-logo="https://i.imgur.com/VfYEc6f.png" group-title="CRIC",SKY 4
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809395&amp;extension=m3u8
