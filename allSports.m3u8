@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1 FHD
-http://40.160.24.55/
 http://40.160.24.55/TSN_1/index.m3u8
 #EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 FHD
 http://40.160.24.55/TSN_2/index.m3u8
