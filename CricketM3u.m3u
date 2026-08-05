@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://imgs.search.brave.com/JUQrNEL6PQ3C46zoTpTuQPYC4zh9ui9U3iyrfea1Wa4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWct/Y2RuLnB1YmxpdmUu/b25saW5lL2ZpdC1p/bi8xMjgweDk2MC9m/aWx0ZXJzOmZvcm1h/dCh3ZWJwKS9hZmFx/cy9tZWRpYS9wb3N0/X2F0dGFjaG1lbnRz/LzNmNTRhNjVhMGVl/ZTRiOTU2MTJlMThl/MzlhODVmOTVhMGVj/YzIyMDJjZWJlM2Nh/NjY0YjcwZDg2ZjEw/MzYzNzgucG5n" group-title="CRIC",Willow Cricket
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809386&amp;extension=m3u8
+#EXTINF:-1 tvg-id="WILLOW 2" tvg-logo="https://imgs.search.brave.com/JUQrNEL6PQ3C46zoTpTuQPYC4zh9ui9U3iyrfea1Wa4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWct/Y2RuLnB1YmxpdmUu/b25saW5lL2ZpdC1p/bi8xMjgweDk2MC9m/aWx0ZXJzOmZvcm1h/dCh3ZWJwKS9hZmFx/cy9tZWRpYS9wb3N0/X2F0dGFjaG1lbnRz/LzNmNTRhNjVhMGVl/ZTRiOTU2MTJlMThl/MzlhODVmOTVhMGVj/YzIyMDJjZWJlM2Nh/NjY0YjcwZDg2ZjEw/MzYzNzgucG5n" group-title="CRIC",WILLOW 2
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809386&amp;extension=m3u8
+#EXTINF:-1 tvg-id="FOX CRICKET HD" tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="CRIC",FOX CRICKET HD
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809389&amp;extension=m3u8
+#EXTINF:-1 tvg-id="ASTRO" tvg-logo="https://i.imgur.com/miyMp5p.png" group-title="CRIC",ASTRO
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809382&amp;extension=m3u8
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="CRIC",Star Sports 1
+http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809383&amp;extension=m3u8
 #EXTINF:-1 tvg-id="SKY CRICKET" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="CRIC",SKY CRICKET
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809390&amp;extension=m3u8
 #EXTINF:-1 tvg-id="Super Cricket (DSTV)" tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="CRIC",Super Cricket (DSTV)
@@ -19,16 +29,7 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809397&
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809398&amp;extension=m3u8
 #EXTINF:-1 tvg-id="Geo Super (PAK)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRIC",Geo Super (PAK)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809399&amp;extension=m3u8
-#EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://imgs.search.brave.com/JUQrNEL6PQ3C46zoTpTuQPYC4zh9ui9U3iyrfea1Wa4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWct/Y2RuLnB1YmxpdmUu/b25saW5lL2ZpdC1p/bi8xMjgweDk2MC9m/aWx0ZXJzOmZvcm1h/dCh3ZWJwKS9hZmFx/cy9tZWRpYS9wb3N0/X2F0dGFjaG1lbnRz/LzNmNTRhNjVhMGVl/ZTRiOTU2MTJlMThl/MzlhODVmOTVhMGVj/YzIyMDJjZWJlM2Nh/NjY0YjcwZDg2ZjEw/MzYzNzgucG5n" group-title="CRIC",Willow Cricket
-http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809386&amp;extension=m3u8
-#EXTINF:-1 tvg-id="WILLOW 2" tvg-logo="https://imgs.search.brave.com/JUQrNEL6PQ3C46zoTpTuQPYC4zh9ui9U3iyrfea1Wa4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWct/Y2RuLnB1YmxpdmUu/b25saW5lL2ZpdC1p/bi8xMjgweDk2MC9m/aWx0ZXJzOmZvcm1h/dCh3ZWJwKS9hZmFx/cy9tZWRpYS9wb3N0/X2F0dGFjaG1lbnRz/LzNmNTRhNjVhMGVl/ZTRiOTU2MTJlMThl/MzlhODVmOTVhMGVj/YzIyMDJjZWJlM2Nh/NjY0YjcwZDg2ZjEw/MzYzNzgucG5n" group-title="CRIC",WILLOW 2
-http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809386&amp;extension=m3u8
-#EXTINF:-1 tvg-id="FOX CRICKET HD" tvg-logo="https://i.imgur.com/V8hb6tJ.png" group-title="CRIC",FOX CRICKET HD
-http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809389&amp;extension=m3u8
-#EXTINF:-1 tvg-id="ASTRO" tvg-logo="https://i.imgur.com/miyMp5p.png" group-title="CRIC",ASTRO
-http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809382&amp;extension=m3u8
-#EXTINF:-1 tvg-id="Star Sports 1" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="CRIC",Star Sports 1
-http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809383&amp;extension=m3u8
+
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-logo="https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540" group-title="CRIC",Star Sports 2
 http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&amp;stream=809384&amp;extension=m3u8
 #EXTINF:-1 tvg-id="Star Sports 2 Hindi" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="CRIC",Star Sports 2 Hindi
