@@ -1,52 +1,5 @@
 #EXTM3U
-#EXTINF:0,stream.ts?id=40481
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=40481
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",AT: Servus TV
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134107
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",AU: SBS FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134106
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",AZ: CBC SPORT HD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134108
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",AZ: Ictimai TV HD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134109
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",BD: T Sports HD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134105
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",CA: TSN 1 FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134126
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",CA: TSN 2 FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134127
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",CA: TSN 3 FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134128
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",CA: TSN 4 FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134129
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",CA: TSN 5 FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134130
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",DE: Das Erste FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134110
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",DE: Fussball TV 1 FHD
-#EXTVLCOPT:network-caching=1000
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134131
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",DE: Fussball TV 2 FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134132
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",DE: ORF 1 FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134115
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026",DE: ZDF FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134111
-#EXTINF:-1 tvg-id="m6.fr" tvg-logo="" group-title="FIFA World Cup 2026",FR: M6 FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134100
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026", Unite8 Sports 1 FHD
 https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134096
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIFA World Cup 2026", Unite8 Sports 1 FHD (BK)
