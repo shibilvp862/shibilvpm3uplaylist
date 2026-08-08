@@ -174,6 +174,30 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbiovkCLz6cc8T0i5_y-tX7dl0G4HZ2LUMXUtTXMSpTQ&s=10" group-title="FOOTBALL",SportDigital Fussball
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="FOOTBALL",Sport TV 1
+https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="FOOTBALL",Sport TV 2
+https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="FOOTBALL",Sport TV 3
+https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="FOOTBALL",Sport TV 4
+https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/R5FZEW6.png" group-title="FOOTBALL",Sport TV 5
+https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
+
+
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="FOOTBALL",Barca TV
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV HD
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV SD
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV SPANISH
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="FOOTBALL",MU TV
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+
+
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/UR8dHNO.png" group-title="FOOTBALL",Setanta Sports 1 Eurasia
 http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/UR8dHNO.png" group-title="FOOTBALL",Setanta Sports 2 Eurasia
@@ -193,17 +217,6 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="FOOTBALL",Match! Arena
 http://stream.mcquack.net/163/index.m3u8
-
-#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="FOOTBALL",Barca TV
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV HD
-http://88.212.15.19/live/real_madrid_tv/index.m3u8
-#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV SD
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="FOOTBALL",Real Madrid TV SPANISH
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="SET" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="FOOTBALL",MU TV
-https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -294,14 +307,10 @@ https://steep-star-8d88.broshoeb9.workers.dev/proxy/sliv/master.php?id=sony_ten5
 #EXTINF:-1 tvg-id="104" tvg-name="SONY" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="INDIA",Sony Sports Ten 4 Tamil
 https://steep-star-8d88.broshoeb9.workers.dev/proxy/sliv/master.php?id=sony_ten4.m3u8
 
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.png" group-title="INDIA", Unite8 Sports 2 HD
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.png" group-title="INDIA", Unite8 Sports 1 HD
-#EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-http://shoebinfo.qzz.io/zee5/zee5.php?play=0-9-zeecafehd
-#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS
-https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsudHZzdGIubWU6ODAiLCJtYWMiOiIwMDoxQTo3OTowMDowMDpFRCIsInNuIjoiQkNDRUI0NUQ3MUFCQSIsImRldmljZSI6IkE3OUM3NEE5RTM3MUM2QUNFMEU2RUY5RkE2NzM5MEM1MENERDJFNEQ5M0VFM0RGQ0QwRTYxMDcwNUM1QkZCNzkifQ==/482321.m3u
+#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 1
+http://59.103.38.46:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2
+http://59.103.38.46:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 1*
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6697
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2*
