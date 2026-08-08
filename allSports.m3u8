@@ -231,7 +231,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="USA",Fox Sports
 https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="USA",TUDN
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="USA",TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="USA",Fox Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports360p.m3u8
