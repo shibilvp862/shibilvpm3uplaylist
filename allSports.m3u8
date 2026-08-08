@@ -150,6 +150,21 @@ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="FOOTBALL",EUROSPORTS 1
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/s4jDnJh.png" group-title="FOOTBALL",EUROSPORTS 2
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.ibb.co/TMWhbKXs/liga.png" group-title="FOOTBALL",LALIGA TV
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3oVY3wTCSiSZJomeRuP_BvUxoyF_EPm12fmMuFH5dg&s=10" group-title="FOOTBALL",D SPORTS FHD
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
@@ -210,6 +225,26 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 #EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="USA",Fox Deportes - AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a
+#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="USA",ESPN
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
+#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="USA",ESPN 2
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc3c1a083eae593631b5b5019e2efb78:68693fb66dc31ca864d854cd176c44c6
+#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="USA",ESPN 3
+https://webiptv.site/dashplyr?url=https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1b8099b64726abc7723e17829b43a55:908a93fe41acf07538c88c1b30277656
+#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="USA",ESPN 4
+https://webiptv.site/dashplyr?url=https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="USA",Fox Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports360p.m3u8
