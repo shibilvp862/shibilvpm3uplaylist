@@ -67,3 +67,14 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",WILLOW
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Sports",T SPORTS
+https://tvsen3.aynaott.com/Sports1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Sports",SS 1
+https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Sports",T SPORTS
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Sports",SS 2
+https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Live Sports",TEN CRIC
+https://s2.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Ften_cricket_576%2Ften_cricket_576.m3u8
