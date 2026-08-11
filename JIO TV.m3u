@@ -37,6 +37,31 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",ITV SPORTS
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
 
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 1 FHD
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 2 FHD
+http://40.160.24.55/TSN_2/index.m3u8
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 3 FHD
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 4 FHD
+http://40.160.24.55/TSN_4/index.m3u8
+#EXTINF:-1 group-title="USA" group-logo="" tvg-id="194408" tvg-language="Tamil" tvg-logo="https://static.themebuilder.aws.arc.pub/bellmediainc/1741638442172.svg",TSN 5 FHD
+http://40.160.24.55/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="USA",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports360p.m3u8
+#EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="USA",Fox Deportes
+http://40.160.24.58/FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="Fox Soccer Plus" tvg-logo="https://i.imgur.com/X1v3bdM.png" group-title="USA",Fox Soccer Plus
+https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="USA",FS 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="USA",CBS Sports HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="USA",CBS Sports Network USA
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FS 1" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="USA",CBS Sports
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
