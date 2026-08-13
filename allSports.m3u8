@@ -127,9 +127,9 @@ https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
+#KODIPROP:inputstream.adaptive.license_key=3D9dc5ddd99e3c723bf109a504da715dac:3Ad39d55e9ba386a86641ca9668abf2b0d
 #EXTINF:-1 tvg-id="ARAB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvR8BXm6kO5HHAlMWhmOqto5DzbOpjc6VX-9xF6b7Jr8fwHZOMjPjlcs&s=10" group-title="ARABIC",AD SPORTS 2 - AQ
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_2/abudhabi_sports_2_dash_enc/index.mpd
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/Starzplay_Cricket_3/dash/drm/index.mpd
 
 #EXTINF:-1 tvg-id="ARAB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLnGNH-Stc7XMPZ-bE7Depa7suSvkJqdGomz_ISpLqA&s=10" group-title="ARABIC",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
