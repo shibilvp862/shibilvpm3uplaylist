@@ -17,7 +17,6 @@ for url in SOURCES:
 
         lines = response.text.splitlines()
 
-        # Remove the source playlist header
         for line in lines:
             if line.strip() and line.strip() != "#EXTM3U":
                 entries.append(line)
