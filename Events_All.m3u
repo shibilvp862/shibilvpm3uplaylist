@@ -1,25 +1,19 @@
 #EXTM3U
-#DATE:- 17-08-2026 18:00
+#DATE:- 17-08-2026 18:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090539431" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875180503377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Day 3 - 1st Test - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=517df3fb4a2531f6cffac7fbfd21739b-1786968600850
-#EXTINF:-1 tvg-id="1090539431" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875180503377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Day 3 - 1st Test - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000300/cricodi1708/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=517df3fb4a2531f6cffac7fbfd21739b-1786968600850
-#EXTINF:-1 tvg-id="1090539431" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875180503377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | Day 3 - 1st Test - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000380/cricodi1708/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=517df3fb4a2531f6cffac7fbfd21739b-1786968600850
-#EXTINF:-1 tvg-id="1090539431" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875180503377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | Day 3 - 1st Test - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000377/cricodi1708/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=517df3fb4a2531f6cffac7fbfd21739b-1786968600850
-#EXTINF:-1 tvg-id="1090539431" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875180503377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Day 3 - 1st Test - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1708/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=517df3fb4a2531f6cffac7fbfd21739b-1786968600850
-#EXTINF:-1 tvg-id="1090539441" tvg-name="IndianOil Durand Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022296/1786877925170364_DurandCup_QF_Mohun_Bagan_vs_Jamshedpur_FC_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Football1708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=517df3fb4a2531f6cffac7fbfd21739b-1786968600850
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" group-title="Fancode-Cricket", Hong Kong, China vs Italy (ICC CWC Challenge League B 2026)
-https://in-mc-flive.fancode.com/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787032168~_GO=Generated~acl=/mumbai/4248261_english_hls_02a9585e1762944_1ta-di_h264/*~Signature=AVMBkTUv-DM5Ls0XXaQcWtNzth3MSZiuiDWKDYjCDQlTE_GbCusPEM75lT7afrGc5LQydy1YaosvOoELrJ877akmpXgN
+#EXTINF:-1 tvg-id="1090539452" tvg-name="IndianOil Durand Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022301/1786879171557753_DurandCup_QF_Shillong_Lajong_FC_vs_NorthEast_United_FC_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Shillong Lajong FC vs NorthEast United FC - Quarter Final 4 - 17 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Football1708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7999fdef275681bb07dc9506426b3226-1786972201220
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png" group-title="Fancode-Cricket", West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2026)
+https://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787058971~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNGJnJ8p2RU2jVOpVnPMaNamXOF40me-5_98AIfG4a_XmBGQKr9gBDl1E3NYqO5j--gNA6tZx00INQlLxFecSAC
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg" group-title="Fancode-Cricket", Spain vs Luxembourg (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)
+https://in-mc-flive.fancode.com/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787057142~_GO=Generated~acl=/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/*~Signature=ARceAWNaWmwcqT-CS6X_ZU-xHCSzKy115TgzZaSdc__TfFkn6X0CDfjnzkzF6fUvgOIxAZw1V-JpuMooY_PZtKuid7wO
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg" group-title="Fancode-Cricket", Greece vs Portugal (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)
+https://in-mc-flive.fancode.com/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787057143~_GO=Generated~acl=/mumbai/4248385_english_hls_4068ece88140760_1ta-di_h264/*~Signature=ARceAWN_2iAvqd3GRaNH4WduNlqD951FO0tdOwxNARoc8kLkro27e13Nlb8gV3FgKudqEBjv-V4PHxyixdkBm-S_ixgN
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Goa-Ranji-Team-tour-of-Oman-2026-ODI-old.png" group-title="Fancode-Cricket", Oman vs Goa (Goa tour of Oman 2026)
 https://in-mc-flive.fancode.com/mumbai/4248366_english_hls_93b60011cd4505_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787048016~_GO=Generated~acl=/mumbai/4248366_english_hls_93b60011cd4505_1ta-di_h264/*~Signature=ARceAWP5OdtXT7KRIjEeXLg2DXmFmRa1ur00joj_jAoF1jCVEuXbZvdws29euy4QEEIhUN8XviwCaNdeNqAhf6uymQ4D
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 17-08-2026
+#LAST_UPDATE:07:02 PM 17-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -27,16 +21,16 @@ https://in-mc-flive.fancode.com/mumbai/4248366_english_hls_93b60011cd4505_1ta-di
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 6:32:25 PM 17-08-2026
+#last update time: 7:17:28 PM 17-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/China%20open.jpg" group-title="LIVE", China open - China open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1787056346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4b72580da6281483d4f9c1cfdff5e600
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1787059049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da75af54b44e6b68c6feb6d8dac833cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ADAC%20Cyclassics%20Hamburg.jpg" group-title="LIVE", ADAC Cyclassics Hamburg - UCI World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1787056348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e3b72e57cfc09760a701339fdfe6ad5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1787059051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4c654a1d41f9348d310aaefe48092e23
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hang%20Yuan%20W%20vs%20No%20Limits%20FC%20W.jpg" group-title="LIVE", Hang Yuan W vs No Limits FC W - AFC Women's Champions League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea056-backup/chunks.m3u8?is_vip=false&token=1787056349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-570bd5dafa451b65bbbb35a94be129b6
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c945e9dbcc72ea056-backup/chunks.m3u8?is_vip=false&token=1787059052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f95b7fd4f894109c43da767c2b1e4ce5
