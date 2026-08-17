@@ -4,18 +4,14 @@
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090538390" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000381/kbc181708/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a0cb2bd7be57d8007e1e3add9e7bcc81-1786982153647
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg" group-title="Fancode-Football", Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)
-https://in-mc-flive.fancode.com/mumbai/4247472_english_hls_bc1752fc6183738_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787079128~_GO=Generated~acl=/mumbai/4247472_english_hls_bc1752fc6183738_1ta-di_h264/*~Signature=ARceAWPGKJv0tXJjekhz4c9n9j6N1hP4oTMAAu7PbawgK8uURpaFwg1AfChw92EmgnmPZ920R7T5JeInYmYwU9OTvWkD
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode-Tennis", World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)
 https://in-mc-flive.fancode.com/mumbai/4248123_english_hls_079996aa1121319_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787064466~_GO=Generated~acl=/mumbai/4248123_english_hls_079996aa1121319_1ta-di_h264/*~Signature=ARceAWMg5kXEk9dW5AIZNPsgUCYpRUpqkdx-vnS9xu4YpsTrYnIV8ZusMkkFwPgBqpXKe5-ddvOqzi2Xb_PsBVf5b8gP
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode-Tennis", Court 4 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)
 https://in-mc-flive.fancode.com/mumbai/4248124_english_hls_4b87b954b990993_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787064467~_GO=Generated~acl=/mumbai/4248124_english_hls_4b87b954b990993_1ta-di_h264/*~Signature=ARceAWN89IrGeHwd_WjJzR5cssi_6sWK4rtZm6a7d8VB355ZmlcMqJ8y8umS1mLpFEP5rbfOSsfkefTp03HDmlimzqAB
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode-Tennis", Tony Trabert Stadium 3 vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)
 https://in-mc-flive.fancode.com/mumbai/4248122_english_hls_3e9dac52ed18957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787071817~_GO=Generated~acl=/mumbai/4248122_english_hls_3e9dac52ed18957_1ta-di_h264/*~Signature=ARceAWMPFzYRLPK1THfVVxaB6zm8gaelrph1F5PKrseaIltxILwZPrajiF3YbbqdN_4wXTAZC6OVAGlgewiVbRhEDMED
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png" group-title="Fancode-Football", Deportivo de La Coruna vs Elche CF (LALIGA 2026-27)
-https://in-mc-flive.fancode.com/mumbai/4247574_english_hls_5b22f5c77a82581_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787077909~_GO=Generated~acl=/mumbai/4247574_english_hls_5b22f5c77a82581_1ta-di_h264/*~Signature=ARceAWP0CsTEU4LdGYJr9y2sZ9oAZoYV-LKnsgC-jg4uf-4tMoq35E2Q3EknFVwts3kRmrq_vXgroB15nCRF6Scv6G8O
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 AM 18-08-2026
+#LAST_UPDATE:04:02 AM 18-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -23,32 +19,36 @@ https://in-mc-flive.fancode.com/mumbai/4247574_english_hls_5b22f5c77a82581_1ta-d
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:47:22 AM 18-08-2026
+#last update time: 4:17:25 AM 18-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Open.jpg" group-title="LIVE", Cincinnati Open - Cincinnati open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787089643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4852a7e107716890a62cf06c4ab3e1a3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Magdalena%20Frech%20vs%20Elena%20Rybakina.jpg" group-title="LIVE", Magdalena Frech vs Elena Rybakina - ATP Cincinnati
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1787089645-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9348bc107a0b3ba347f374087db207c5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787091445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-329c735f5ad83a9cfb29c9314fc4063d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sorana%20Cirstea%20vs%20Anna%20Kalinskaya.jpg" group-title="LIVE", Sorana Cirstea vs Anna Kalinskaya - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=1787089646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-662ee1adbfb9e619612cfa1107908e46
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=1787091447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e89ae684c3ca3dc904d60fcaedc109ef
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arthur%20Fery%20vs%20Alex%20de%20Minaur.jpg" group-title="LIVE", Arthur Fery vs Alex de Minaur - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1787089647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-46914c721cefb7938dde4bf7b3d3593e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lanus%20vs%20Independiente.jpg" group-title="LIVE", Lanus vs Independiente - Liga Profesional Argentina [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1787091448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2faa81d61656c86805f01f56d6a94451
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Velez%20Sarsfield%20vs%20Defensa%20Y%20Justicia.jpg" group-title="LIVE", Velez Sarsfield vs Defensa Y Justicia - Liga Profesional Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e76d-fhd/chunks.m3u8?is_vip=false&token=1787089648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e151a6faaaed5137441a4d36726e0af7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lanus%20vs%20Independiente.jpg" group-title="LIVE", Lanus vs Independiente - Liga Profesional Argentina [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e766/chunks.m3u8?is_vip=false&token=1787091450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d054216683b564103a2de8781d4fe0e1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Emma%20Navarro%20vs%20Jessica%20Pegula.jpg" group-title="LIVE", Emma Navarro vs Jessica Pegula - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e76d-backup/chunks.m3u8?is_vip=false&token=1787089649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a68ecfe7f98ae62eebfb20a6496a1724
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lanus%20vs%20Independiente.jpg" group-title="LIVE", Lanus vs Independiente - Liga Profesional Argentina [Server 3]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787091451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f03d22c64c2689a4941d84f511b2314
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Philadelphia%20Phillies.jpg" group-title="Baseball", Miami Marlins vs Philadelphia Phillies - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a62339c81a7f7965a94e76d/chunks.m3u8?is_vip=false&token=1787089650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-145304cb8e0a8791946582a553cd265f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1787091453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b5a6acf24e86e1919b804f711c182ec
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Baltimore%20Orioles%20vs%20Tampa%20Bay%20Rays.jpg" group-title="Baseball", Baltimore Orioles vs Tampa Bay Rays - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1787091453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5e1bcacb1342c848faacfce29997eec4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Cincinnati%20Reds.jpg" group-title="Baseball", St. Louis Cardinals vs Cincinnati Reds - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1787091453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-768473df83bbf806ca16b2775c58a3fc
