@@ -1,7 +1,7 @@
 import requests
 
 SOURCES = [
-    "https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/refs/heads/main/sonyliv.m3u",
+    "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u",
     "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
     "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
 ]
