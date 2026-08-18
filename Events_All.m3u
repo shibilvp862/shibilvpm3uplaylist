@@ -12,10 +12,8 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000300/cricodi1808/TAM/master.
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1808/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=291227fda3f8f53eaf70816b55eaaeac-1787022342123
 #EXTINF:-1 tvg-id="1090539530" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963814863151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Day 4 - 1st Test - 18 Aug 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1808/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=291227fda3f8f53eaf70816b55eaaeac-1787022342123
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" group-title="Fancode-Tennis", World Feed vs Cincinnati, United States (ATP Masters Cincinnati Open 2026)
-https://in-mc-flive.fancode.com/mumbai/4248123_english_hls_079996aa1121319_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787093700~_GO=Generated~acl=/mumbai/4248123_english_hls_079996aa1121319_1ta-di_h264/*~Signature=ARceAWMBjAiGkDaaefjFfXC8AYu4RFI8GOtRPaPgGUeQgDSuAIFHE205zL7s75YWmeT5LH6R9sINXPAHIetYNdpPv98E
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 AM 18-08-2026
+#LAST_UPDATE:11:32 AM 18-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -29,31 +27,11 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ftxtb27y
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:02:23 AM 18-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tommy%20Paul%20vs%20Adolfo%20Daniel%20Vallejo.jpg" group-title="LIVE", Tommy Paul vs Adolfo Daniel Vallejo - ATP Cincinnati
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1787115744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-580e1d14ddf3f5b956e25704d68b2531
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-hd/chunks.m3u8?is_vip=false&token=1787115745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-baeb2e6bd21962892eedd84dc61f4ace
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-fhd/chunks.m3u8?is_vip=false&token=1787115747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-24aae6e5c2c938d71a3c6ca831aecc2d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-backup/chunks.m3u8?is_vip=false&token=1787115747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe99002f1d646446f54af521afed3b80
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295/chunks.m3u8?is_vip=false&token=1787115748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9b5394bb3f2bbaf3c65b04ec17517cd2
+#last update time: 11:47:20 AM 18-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787115749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fbb09d5bb53440aa675e9c0d423aa10c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787118441-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bcd0794fd8a29047ec0d95a15b82daaa
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
@@ -94,7 +72,7 @@ https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540075789/
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap.m3u8?a=ns&hdnea=exp=1786967042~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DCe8f8A2WNNoVbbrlYOIXXhT06nlzPJLO9g8I0Op9HMQ-did=QEHEhE1Ghu70B6iI94O9Tg7oVMqdMCnwECri6EhSm6xj-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.01.01.6-ut=paid-ttl=1800-type=paid-raf=1786965842-~hmac=bd2e7383e67efee6002bd8f19dcda7572303202d60c3228a4684eceb014c370b
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:02 AM 18-08-2026
+#LAST_UPDATE:11:32 AM 18-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
