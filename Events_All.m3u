@@ -1,35 +1,27 @@
 #EXTM3U
-#DATE:- 19-08-2026 13:20
+#DATE:- 19-08-2026 15:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090539706" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964145469306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Day 5 - 1st Test - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1908/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=915c8224e99c7ca58363dbba69892d80-1787125802691
-#EXTINF:-1 tvg-id="1090539706" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964145469306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Day 5 - 1st Test - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000300/cricodi1908/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=915c8224e99c7ca58363dbba69892d80-1787125802691
-#EXTINF:-1 tvg-id="1090539706" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964145469306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | Day 5 - 1st Test - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000380/cricodi1908/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=915c8224e99c7ca58363dbba69892d80-1787125802691
-#EXTINF:-1 tvg-id="1090539706" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964145469306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | Day 5 - 1st Test - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000377/cricodi1908/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=915c8224e99c7ca58363dbba69892d80-1787125802691
-#EXTINF:-1 tvg-id="1090539706" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964145469306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Day 5 - 1st Test - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1908/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=915c8224e99c7ca58363dbba69892d80-1787125802691
+#EXTINF:-1 tvg-id="1090539718" tvg-name="Pakistan Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Day 1 - 1st Test - 19 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000376/criclive1908/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b043eacd29e24116a4f97e19d5db6fdc-1787131803231
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247997_53005_NDS_SDS_fc-Web.png" group-title="Fancode-Cricket", North Delhi Strikers vs South Delhi Superstarz (Delhi Premier League, 2026)
 https://in-mc-flive.fancode.com/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787211742~_GO=Generated~acl=/mumbai/4247997_english_hls_7b2d59539698113_1ta-di_h264/*~Signature=ARceAWP8gUcT6bDPkYBzbIt9jGaM68DBz47FtS67CToXj2BsoGZ054F7mZhdFWt11QQg6uj8HhyjLIJBRcwq2z-i06kN
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:02 PM 19-08-2026
+#LAST_UPDATE:03:32 PM 19-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
 #UPCOMING_COUNT:19
-#EXTINF:-1 tvg-id="B0HCX5GP83" tvg-name="India tour of Sri Lanka 2026 - 1st Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c42ea47f-6199-4d54-bcf4-8cda823b0e00/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 1st Test - Sri Lanka vs India
+#EXTINF:-1 tvg-id="B0HF1RTTDR" tvg-name="England vs. Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2b250938-8e36-49e1-80cc-43e7d3cbc329/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",England vs. Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:02:25 PM 19-08-2026
+#last update time: 3:32:27 PM 19-08-2026
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
@@ -71,8 +63,8 @@ https://live13p.hotstar.com/hls/live/2123075/inallow-fihwwc-2026/eng/1540075909/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live13p.hotstar.com/hls/live/2123075/inallow-fihwwc-2026/eng/1540075912/15mindvrm020bf87857cfab494fb991476be2dd614819august2026/master_ap.m3u8?a=ns&hdnea=exp=1787132090~acl=/hls/live/2123075/inallow-fihwwc-2026/eng/1540075912/15mindvrm020bf87857cfab494fb991476be2dd614819august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=WaXgQtQnR1PRGnio9bYFch56HKMiV7qbDlAlwolZQLSB-did=e8j8UMptUo1454cYSYfZcrjjL8OtdPbPl4G15vd53h36-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.04.02.5-ut=paid-ttl=1800-type=paid-raf=1787130890-~hmac=a834b22fe2864ef77acdab7ad5ef99a0ad91c1d589fdc958346c789b22d95f79
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:02 PM 19-08-2026
+#LAST_UPDATE:03:32 PM 19-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
-#UPCOMING_COUNT:1
+#UPCOMING_COUNT:0
