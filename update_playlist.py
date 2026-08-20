@@ -4,8 +4,11 @@ SOURCES = [
     "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u",
     "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
     "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u",
+    "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u",
     "https://jhsevetns-fhd.rtxcric.workers.dev/playlist.m3u",
+    "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/Footy_Live.m3u",
+    "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
     "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"
 ]
 
