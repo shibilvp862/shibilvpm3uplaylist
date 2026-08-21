@@ -3,7 +3,7 @@
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 21 August 2026 at 1:21:20 pm
+#DATE:- Friday, 21 August 2026 at 2:14:17 pm
 #EXTINF:-1 tvg-id="4248386" tvg-name="Bulgaria Vs Czechia" tvg-logo="https://images.fancode.com/aig/match/v1787292158752/4248386_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Cricket",ENG | Bulgaria Vs Czechia
 https://dai-fancode.pages.dev/mumbai/4248386_english_hls_370972654d52775_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248387" tvg-name="Germany Vs Finland" tvg-logo="https://images.fancode.com/aig/match/v1787292177385/4248387_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Cricket",ENG | Germany Vs Finland
@@ -12,87 +12,121 @@ https://dai-fancode.pages.dev/mumbai/4248387_english_hls_6c2c04000a38022_1ta-di_
 https://dai-fancode.pages.dev/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4247558" tvg-name="East Delhi Riders Women Vs North Delhi Strikers Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247558_53003_NDS-W_EDR-W_FC-Web_1787120909825.png" tvg-language="English" group-title="Cricket",ENG | East Delhi Riders Women Vs North Delhi Strikers Women
 https://dai-fancode.pages.dev/mumbai/4247558_english_hls_f44100965797425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248426" tvg-name="Northern Territory Strike Vs Nepal" tvg-logo="https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Cricket",ENG | Northern Territory Strike Vs Nepal
+https://dai-fancode.pages.dev/mumbai/4248426_english_hls_1f08d8e16794905_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 PM 21-08-2026
+#LAST_UPDATE:02:32 PM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 #EXTINF:-1 tvg-id="B0HFRLKNY6" tvg-name="Top End T20 Series 2026 - 2nd Match - ACT Comets vs HH Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a0ff15ba-0786-44fc-b4e3-f2bac45c2fca/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 2nd Match - ACT Comets vs HH Kingsmen
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9be4ba39ca21b80b2b7301da1f3e4bbf:9eb7f96ea43b0ecafa6cd6d2906f19a4
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hpozcmwuqj/out/v1/fbcb87c4666647f5901b2533a9573364/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hpozcmwuqj/out/v1/fbcb87c4666647f5901b2533a9573364/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFKJ89QG" tvg-name="Top End T20 Series 2026 - 3rd Match - NT Strike vs Nepal" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d8b076c-f56b-4624-9379-5bc14d95d527/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 3rd Match - NT Strike vs Nepal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fa3740ebbf503d399183a090084e880:457f9b2abb7693a4b1d4be212af70381
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hkp88mq6cc/out/v1/af94712fd11f454b9f4dd98925d42856/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:33:09 PM 21-08-2026
+#last update time: 02:32:53 PM 21-08-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 1:47:21 PM 21-08-2026
+#last update time: 2:47:29 PM 21-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hawke's%20Bay%20vs%20Manawat%C5%AB.jpg" group-title="LIVE", Hawke's Bay vs Manawatū - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787384842-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5c155bfb65d755980c65f2e6c3018a5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787388451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4853f2d87483a3c13a6485bd69b094c8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tennis%20Channel.jpg" group-title="LIVE", Tennis Channel - Cincinnati open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787388453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df9d5989deb4820897007a2cb350b1dd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%201.jpg" group-title="LIVE", Day 1 - Australian Darts Masters
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787388455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e6000fba96cb6278d9b56d528c5a390
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
-# Generated: 2026-08-21 01:28:06 PM
-#EXTINF:-1 tvg-id="9187516765" tvg-name="Jolly/Pullela vs Jia/Zhang: QF ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8605/1787294968605-b" group-title="Jolly/Pullela vs Jia/Zhang: QF By @rtxcric", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787300886~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.05.06.1-ut=paid-ttl=1800-type=paid-raf=1787299686-~hmac=e16b9b307389a077760c2d627afd01bb76055b40025547269a6af412b03bcfc3"}
+# Generated: 2026-08-21 02:17:46 PM
+#EXTINF:-1 tvg-id="2669489696" tvg-name="Adani Trivandrum Royals vs Alleppey Ripples ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6388/1787226606388-b" group-title="Adani Trivandrum Royals vs Alleppey Ripples By @rtxcric", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787303818~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.02.22.9-ut=paid-ttl=1800-type=paid-raf=1787302618-~hmac=4955ea682dd5fa9f7f72ebf5ab45b124d52a5edd9539407e9c935f1eb7f33062"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap.m3u8?a=ns&hdnea=exp=1787300886~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.05.06.1-ut=paid-ttl=1800-type=paid-raf=1787299686-~hmac=e16b9b307389a077760c2d627afd01bb76055b40025547269a6af412b03bcfc3
-#EXTINF:-1 tvg-id="5327265403" tvg-name="North Delhi Strikers vs East Delhi Riders HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/856/1787225810856-b" group-title="North Delhi Strikers vs East Delhi Riders By @rtxcric", HINDI FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787300881~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076833/15mindvrm01beba45b54f1b4ed9b5243cc339f1cad021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.04.17.3-ut=paid-ttl=1800-type=paid-raf=1787299681-~hmac=cf9688235e429596958e92a1d6dfdd20644d6de1ce171daf641827c5c3ba75e0"}
+https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap.m3u8?a=ns&hdnea=exp=1787303818~acl=/hls/live/2123084/inallow-kcl-2026/eng/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.02.22.9-ut=paid-ttl=1800-type=paid-raf=1787302618-~hmac=4955ea682dd5fa9f7f72ebf5ab45b124d52a5edd9539407e9c935f1eb7f33062
+#EXTINF:-1 tvg-id="3425690269" tvg-name="Adani Trivandrum Royals vs Alleppey Ripples MALAYALAM By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6388/1787226606388-b" group-title="Adani Trivandrum Royals vs Alleppey Ripples By @rtxcric", MALAYALAM FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787303820~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.25.2-ut=paid-ttl=1800-type=paid-raf=1787302620-~hmac=b108e915953f4c5a2587d5c8beac4dc5941a8ab201fa9fdfa4b5f44d4e8cac60"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live15p.hotstar.com/hls/live/2123216/inallow-wdpl-2026/hin/1540076833/15mindvrm01beba45b54f1b4ed9b5243cc339f1cad021august2026/master_ap.m3u8?a=ns&hdnea=exp=1787300881~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076833/15mindvrm01beba45b54f1b4ed9b5243cc339f1cad021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.04.17.3-ut=paid-ttl=1800-type=paid-raf=1787299681-~hmac=cf9688235e429596958e92a1d6dfdd20644d6de1ce171daf641827c5c3ba75e0
-#EXTINF:-1 tvg-id="164286088" tvg-name="BWF World Championships: QF's, Court 2 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6672/1787250026672-b" group-title="BWF World Championships: QF's, Court 2 By @rtxcric", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787300871~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.06.07.3-ut=paid-ttl=1800-type=paid-raf=1787299671-~hmac=681b71a7a67355c409e10cf1febac7859263b8a7815634cb65dd25c77adb8717"}
+https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap.m3u8?a=ns&hdnea=exp=1787303820~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076246/15mindvrm01aab0a15deddd4e55adc232fa7ebeb84521august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.04.25.2-ut=paid-ttl=1800-type=paid-raf=1787302620-~hmac=b108e915953f4c5a2587d5c8beac4dc5941a8ab201fa9fdfa4b5f44d4e8cac60
+#EXTINF:-1 tvg-id="4146062300" tvg-name="SF 1: Dibrugarh Warriors vs Barpeta Braves HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/216/1787292950216-b" group-title="SF 1: Dibrugarh Warriors vs Barpeta Braves By @rtxcric", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787303835~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075238/15mindvrm01b772118fcf5149e89e309d12551b1dca21august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.05.26.0-ut=paid-ttl=1800-type=paid-raf=1787302635-~hmac=aaf02e68be23c97a78bad0be319cabbd48214c541aced310f1109ad6cc465a44"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap.m3u8?a=ns&hdnea=exp=1787300871~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.06.07.3-ut=paid-ttl=1800-type=paid-raf=1787299671-~hmac=681b71a7a67355c409e10cf1febac7859263b8a7815634cb65dd25c77adb8717
-#EXTINF:-1 tvg-id="8969477250" tvg-name="Japan vs South Africa ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4049/1787289644049-b" group-title="Japan vs South Africa By @rtxcric", ENGLISH FHD @rtxcric
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787300867~acl=/hls/live/2123075/inallow-fihwwc-2026/eng/1540076993/15mindvrm01f7370b96fbaf43ac91c974cc2b7c5ee021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.28.9-ut=paid-ttl=1800-type=paid-raf=1787299667-~hmac=138c1207e299419faf39fdbcce2aac59ff681f7ee2ccd49161135a1bfa18cbd1"}
+https://live14p.hotstar.com/hls/live/2003906/inallow-assampl-2026/hin/1540075238/15mindvrm01b772118fcf5149e89e309d12551b1dca21august2026/master_ap.m3u8?a=ns&hdnea=exp=1787303835~acl=/hls/live/2003906/inallow-assampl-2026/hin/1540075238/15mindvrm01b772118fcf5149e89e309d12551b1dca21august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.05.26.0-ut=paid-ttl=1800-type=paid-raf=1787302635-~hmac=aaf02e68be23c97a78bad0be319cabbd48214c541aced310f1109ad6cc465a44
+#EXTINF:-1 tvg-id="2560640157" tvg-name="North Delhi Strikers vs East Delhi Riders HINDI By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/856/1787225810856-b" group-title="North Delhi Strikers vs East Delhi Riders By @rtxcric", HINDI FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787303827~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076833/15mindvrm01beba45b54f1b4ed9b5243cc339f1cad021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.05.19.4-ut=paid-ttl=1800-type=paid-raf=1787302627-~hmac=50d9f6a705467420f355fe5b8763d572cdf71a5eadc8a496c28517a1936de912"}
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
-https://live13p.hotstar.com/hls/live/2123075/inallow-fihwwc-2026/eng/1540076993/15mindvrm01f7370b96fbaf43ac91c974cc2b7c5ee021august2026/master_ap.m3u8?a=ns&hdnea=exp=1787300867~acl=/hls/live/2123075/inallow-fihwwc-2026/eng/1540076993/15mindvrm01f7370b96fbaf43ac91c974cc2b7c5ee021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=VUxUX1zyUO4zD0noXsYgiSIm1eiJTWqHv6gAA3eLSgc0-did=4DauX4LfN3KrColDf7Z0RMlDWWrp1gTUtLUT4Il4GeJM-cc=in-bl=jhs-de=6-pl=androidtv-ap=24.10.28.9-ut=paid-ttl=1800-type=paid-raf=1787299667-~hmac=138c1207e299419faf39fdbcce2aac59ff681f7ee2ccd49161135a1bfa18cbd1
+https://live15p.hotstar.com/hls/live/2123216/inallow-wdpl-2026/hin/1540076833/15mindvrm01beba45b54f1b4ed9b5243cc339f1cad021august2026/master_ap.m3u8?a=ns&hdnea=exp=1787303827~acl=/hls/live/2123216/inallow-wdpl-2026/hin/1540076833/15mindvrm01beba45b54f1b4ed9b5243cc339f1cad021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.05.19.4-ut=paid-ttl=1800-type=paid-raf=1787302627-~hmac=50d9f6a705467420f355fe5b8763d572cdf71a5eadc8a496c28517a1936de912
+#EXTINF:-1 tvg-id="2512255146" tvg-name="BWF World Championships: QF's, Court 1 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7886/1787250227886-b" group-title="BWF World Championships: QF's, Court 1 By @rtxcric", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787303838~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.08.15.7-ut=paid-ttl=1800-type=paid-raf=1787302638-~hmac=810c1f1069c05e01743569deaf7cde8b592c940761a50a4d92eb90cbefbefa86"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap.m3u8?a=ns&hdnea=exp=1787303838~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076211/15mindvrm0184b05abb1ce74e0b9d85a1c053126ac721august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.08.15.7-ut=paid-ttl=1800-type=paid-raf=1787302638-~hmac=810c1f1069c05e01743569deaf7cde8b592c940761a50a4d92eb90cbefbefa86
+#EXTINF:-1 tvg-id="7811552598" tvg-name="BWF World Championships: QF's, Court 2 ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6672/1787250026672-b" group-title="BWF World Championships: QF's, Court 2 By @rtxcric", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787303865~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.01.01.9-ut=paid-ttl=1800-type=paid-raf=1787302665-~hmac=03272d5fa30e7637ea9dad7f23d1b3e9282e48fa8f9e037da04e11b713b0727d"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap.m3u8?a=ns&hdnea=exp=1787303865~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076214/15mindvrm020a32aaff806d4f64be6ae1c11a50e3c921august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=25.01.01.9-ut=paid-ttl=1800-type=paid-raf=1787302665-~hmac=03272d5fa30e7637ea9dad7f23d1b3e9282e48fa8f9e037da04e11b713b0727d
+#EXTINF:-1 tvg-id="9103635405" tvg-name="Japan vs South Africa ENGLISH By @rtxcric" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4049/1787289644049-b" group-title="Japan vs South Africa By @rtxcric", ENGLISH FHD @rtxcric
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","Cookie":"hdntl=exp=1787303863~acl=/hls/live/2123075/inallow-fihwwc-2026/eng/1540076993/15mindvrm01f7370b96fbaf43ac91c974cc2b7c5ee021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.22.5-ut=paid-ttl=1800-type=paid-raf=1787302663-~hmac=bc36c0a7096ec275cf0712e3b896d2c9d3e3bd600880f6eb2769afae006a6c5e"}
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
+https://live13p.hotstar.com/hls/live/2123075/inallow-fihwwc-2026/eng/1540076993/15mindvrm01f7370b96fbaf43ac91c974cc2b7c5ee021august2026/master_ap.m3u8?a=ns&hdnea=exp=1787303863~acl=/hls/live/2123075/inallow-fihwwc-2026/eng/1540076993/15mindvrm01f7370b96fbaf43ac91c974cc2b7c5ee021august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=ReJ5gZAOFpOfRzNgzF0GlLesup5Wf0XSa-did=St5Bb4qQHLYjH5ibTvuHwdWRCBGJzLkF7f2TkNJxtd4C-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.12.22.5-ut=paid-ttl=1800-type=paid-raf=1787302663-~hmac=bc36c0a7096ec275cf0712e3b896d2c9d3e3bd600880f6eb2769afae006a6c5e
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-21 01:33:09 PM (BD Time)"
+#"last updated": "2026-08-21 02:32:52 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:01:32 PM 21-08-2026
+#LAST_UPDATE:02:32 PM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
 #UPCOMING_COUNT:0
+#EXTINF:-1 tvg-id="B0HFH6C4BH" tvg-name="Top End Series: ACT Comets vs. Kingsmen" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b3a0fa0-b580-4927-86ee-6ec9258a02cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: ACT Comets vs. Kingsmen
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFCCS1NX" tvg-name="PPA Tour Asia: Shenzhen Open-Round 16 & Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55560b96-c441-4628-88c7-12b1529ae904/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Asia: Shenzhen Open-Round 16 & Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-#EXTINF:-1 tvg-id="B0HFH6C4BH" tvg-name="Top End Series: ACT Comets vs. Kingsmen" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3b3a0fa0-b580-4927-86ee-6ec9258a02cf/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: ACT Comets vs. Kingsmen
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-id="B0HF6TPRXM" tvg-name="Hawke's Bay v Manawatu" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed2e7726-ee8b-439f-896d-d9ce10cd3917/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hawke's Bay v Manawatu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
