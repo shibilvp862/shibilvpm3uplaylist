@@ -2,7 +2,7 @@ import requests
 
 SOURCES = [
     "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u",
-    "https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.m3u",
+    "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
     "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u",
     "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u",
@@ -24,6 +24,11 @@ for url in SOURCES:
 
         for line in lines:
             if line.strip() and line.strip() != "#EXTM3U":
+
+                # Fix FanCode EXTINF format
+                if line.startswith("#EXTINF:-1, tvg-logo="):
+                    line = line.replace("#EXTINF:-1, tvg-logo=", "#EXTINF:-1 tvg-logo=", 1)
+
                 entries.append(line)
 
         print("Loaded:", url)
