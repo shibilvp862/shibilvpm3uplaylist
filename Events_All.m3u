@@ -3,80 +3,40 @@
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 21 August 2026 at 9:00:19 am
-#EXTINF:-1 tvg-id="4248290" tvg-name="St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248290_53026_ABF_SKN_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | St Kitts And Nevis Patriots Vs Antigua & Barbuda Falcons
-https://dai-fancode.pages.dev/mumbai/4248290_english_hls_c44c98236651024_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248427" tvg-name="Hobart Hurricanes Academy Vs Victoria Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC-WebTVBG_fc-web-1.jpg" tvg-language="English" group-title="Cricket",ENG | Hobart Hurricanes Academy Vs Victoria Academy
-https://dai-fancode.pages.dev/mumbai/4248427_english_hls_c96a70796177964_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+# Last Checked: Friday, 21 August 2026 at 9:21:09 am
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:02 AM 21-08-2026
+#LAST_UPDATE:10:02 AM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-#EXTINF:-1 tvg-id="B0HB6V5WQK" tvg-name="Caribbean Premier League 2026 - 12th Match - Antigua And Barbuda Falcons vs St Kitts And Nevis Patriots" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d74f3eaa-08a1-4ccf-a4d4-1321edfe27db/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - 12th Match - Antigua And Barbuda Falcons vs St Kitts And Nevis Patriots
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=801687d4b86a4df1854437ae7b891915:c46c0c435a4eabecc232d2b3fb580950
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wpcqh5sqtu/out/v1/14f0ec73c32f45bd80fc18df1cc56f9b/cenc.mpd
-#EXTINF:-1 tvg-id="B0H891V7C3" tvg-name="Top End T20 Series 2026 - 1st Match - Victoria vs Hobart Hurricanes" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c689b42e-92d1-42e3-bf94-4248fe6af479/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 1st Match - Victoria vs Hobart Hurricanes
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52ce4a444d2e2b467000271898cea5fd:1bbd9c09c1aaa10a72e9b85355504696
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/1ihwsbg9yq/out/v1/5225f51c79464a2a8cd7ab228d341e10/cenc.mpd
+#LIVE_COUNT:0
+#UPCOMING_COUNT:20
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:02:49 AM 21-08-2026
+#last update time: 10:02:44 AM 21-08-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 9:17:26 AM 21-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Vegas%20Raiders%20vs%20Houston%20Texans.jpg" group-title="LIVE", Las Vegas Raiders vs Houston Texans - NFL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/452/720p/chunks.m3u8?is_vip=false&token=1787368647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5dd6da2033cbf4d1554ca41b86e02a30
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Texas%20Rangers.jpg" group-title="LIVE", Washington Nationals vs Texas Rangers - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1787368648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ecec69167700d36e15f34818cdbbf9f3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Angels%20vs%20Houston%20Astros.jpg" group-title="LIVE", Los Angeles Angels vs Houston Astros - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=1787368649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a89533022e2e6c73cc5128dea514493
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20FC%20II%20vs%20Sporting%20KC%20II.jpg" group-title="LIVE", Los Angeles FC II vs Sporting KC II - MLS Next Pro [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f7ae5f2fa6c299e2d2bb2-backup/chunks.m3u8?is_vip=false&token=1787368651-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff8c9223dcd68f3b526e72ab424bca95
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20FC%20II%20vs%20Sporting%20KC%20II.jpg" group-title="LIVE", Los Angeles FC II vs Sporting KC II - MLS Next Pro [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f7ae5f2fa6c299e2d2bb2/chunks.m3u8?is_vip=false&token=1787368652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fcd3e1509dab2695cdaeba2c2c0bdc7f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Connecticut%20Sun%20vs%20Las%20Vegas%20Aces.jpg" group-title="LIVE", Connecticut Sun vs Las Vegas Aces - WNBA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510822/720p/chunks.m3u8?is_vip=false&token=1787368653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eda725d3ba07acd703daaaeb522bf1a5
+#last update time: 10:17:25 AM 21-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%2049ers%20vs%20Los%20Angeles%20Chargers.jpg" group-title="LIVE", San Francisco 49ers vs Los Angeles Chargers - NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/420/720p/chunks.m3u8?is_vip=false&token=1787368654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a7fd3e8ec0d45500bf0d9e7993f20dbc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20Dream%20vs%20Los%20Angeles%20Sparks.jpg" group-title="LIVE", Atlanta Dream vs Los Angeles Sparks - WNBA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510824/720p/chunks.m3u8?is_vip=false&token=1787368656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a86cc881daeec5a2282534816cc07549
+https://livecdn-tc-iptv.rumsport10.live/live_abr/420/720p/chunks.m3u8?is_vip=false&token=1787372246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-88baf1617e1afbe8ddc3b5f4a3a52af8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Firpo%20vs%20LD%20Alajuelense.jpg" group-title="LIVE", Firpo vs LD Alajuelense - CONCACAF Central American Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b1f0-fhd/chunks.m3u8?is_vip=false&token=1787368657-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-136e42164acf9781df286135fd5220c5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b1f0-fhd/chunks.m3u8?is_vip=false&token=1787372248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3053ce3c87c94fd9918d171424f753eb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Firpo%20vs%20LD%20Alajuelense.jpg" group-title="LIVE", Firpo vs LD Alajuelense - CONCACAF Central American Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b1f0-backup/chunks.m3u8?is_vip=false&token=1787368658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-376eabada30ffb638df07eee3ea6810a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b1f0-backup/chunks.m3u8?is_vip=false&token=1787372250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fad5bcbf769515663a94263b96743a6c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Firpo%20vs%20LD%20Alajuelense.jpg" group-title="LIVE", Firpo vs LD Alajuelense - CONCACAF Central American Cup [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a64d69febc5c3ef2c40b1f0/chunks.m3u8?is_vip=false&token=1787372251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5f31e676bea4edbb99fadd6f76d486c8
 # Playlist generated by Hotstar Extractor
 # Playlist Created By @rtxcric
 # Mode: NORMAL FHD 30 MINUTES AUTO-UPDATE
@@ -90,35 +50,35 @@ https://live14p.hotstar.com/hls/live/2123138/inallow-fihwwc-2026/eng/1540075927/
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-21 09:02:49 AM (BD Time)"
+#"last updated": "2026-08-21 10:02:43 AM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:32 AM 21-08-2026
+#LAST_UPDATE:10:02 AM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:5
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HDXTJKCS" tvg-name="Alianza vs. Olimpia" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1333f3d9-5f56-472c-a135-c04282090fa3/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Alianza vs. Olimpia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFLG5DYM" tvg-name="CD LA Firpo vs. Alajuelense" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c422f3a4-806a-4401-8bb6-2a65856faa2b/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",CD LA Firpo vs. Alajuelense
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFCCS1NX" tvg-name="PPA Tour Asia: Shenzhen Open-Round 16 & Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55560b96-c441-4628-88c7-12b1529ae904/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Asia: Shenzhen Open-Round 16 & Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFR89W18" tvg-name="Cricket Review-Top End T20 Series - Victoria vs. Hurricanes" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.532c7b8b-ed89-47e7-be5e-c9e31bef54a4/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Review-Top End T20 Series - Victoria vs. Hurricanes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFK8W6HG" tvg-name="Victoria vs. Hobart Hurricanes" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e381eb6-a8c9-4f63-bb1a-c926ecc7ee09/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Victoria vs. Hobart Hurricanes
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
