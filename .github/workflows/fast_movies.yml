@@ -1,4 +1,4 @@
-name: Update Movies Playlist
+name: Update FAST Movies
 
 on:
   workflow_dispatch:
@@ -21,12 +21,12 @@ jobs:
 
       - run: pip install requests
 
-      - run: python update_movies.py
+      - run: python update_fast_movies.py
 
-      - name: Commit Movies Playlist
+      - name: Commit playlist
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add Movies_All.m3u
-          git commit -m "Update Movies Playlist" || exit 0
+          git add Movies_FAST.m3u
+          git commit -m "Update FAST Movies" || exit 0
           git push
