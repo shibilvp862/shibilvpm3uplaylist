@@ -17,17 +17,21 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
         try:
             data = requests.get(url, timeout=30).json()
 
-            for movie in data:
-                title = movie.get("title") or movie.get("name") or "Unknown Movie"
-                youtube = movie.get("url") or movie.get("youtube") or movie.get("link")
-                poster = movie.get("poster") or movie.get("image") or movie.get("thumbnail") or ""
+            # JSON has a "movies" array
+            movies = data.get("movies", [])
+
+            for movie in movies:
+                title = movie.get("title", "Unknown Movie")
+                youtube = movie.get("url")
+                poster = movie.get("thumbnail", "")
 
                 if youtube:
-                    extinf = f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group}",{title}'
-                    f.write(extinf + "\n")
+                    f.write(
+                        f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group}",{title}\n'
+                    )
                     f.write(youtube + "\n")
 
-            print("Loaded:", group)
+            print("Loaded:", group, len(movies))
 
         except Exception as e:
             print("Failed:", group, e)
