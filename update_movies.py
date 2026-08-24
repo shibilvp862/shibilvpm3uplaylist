@@ -1,39 +1,57 @@
 import requests
 
 SOURCES = [
-    ("Tamil", "https://raw.githubusercontent.com/sayanpal514-hue/MINI-YT-HUB/refs/heads/main/movies/tamil/tamil.json"),
-    ("English", "https://raw.githubusercontent.com/sayanpal514-hue/MINI-YT-HUB/refs/heads/main/movies/english/english.json"),
-    ("Hindi", "https://raw.githubusercontent.com/sayanpal514-hue/MINI-YT-HUB/refs/heads/main/movies/hindi/hindi.json"),
-    ("Hollywood", "https://raw.githubusercontent.com/sayanpal514-hue/MINI-YT-HUB/refs/heads/main/movies/hollywood/hollywood.json"),
-    ("Other", "https://raw.githubusercontent.com/sayanpal514-hue/MINI-YT-HUB/refs/heads/main/movies/other/other.json")
+    "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
 ]
 
-OUTPUT = "Movies_All.m3u"
+OUTPUT = "Movies_FAST.m3u"
+
+MOVIE_GROUPS = [
+    "Movies",
+    "Films",
+    "Film",
+    "Cinema",
+    "Hollywood",
+    "Bollywood",
+    "Action",
+    "Comedy",
+    "Drama",
+    "Thriller",
+    "Horror",
+    "Sci-Fi",
+    "Family"
+]
 
 with open(OUTPUT, "w", encoding="utf-8") as f:
-    f.write("#EXTM3U\n")
+    f.write('#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-gb.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-ca.xml.gz,https://iptv-epg.org/files/epg-au.xml.gz"\n')
 
-    for group, url in SOURCES:
+    seen = set()
+
+    for url in SOURCES:
         try:
-            data = requests.get(url, timeout=30).json()
+            lines = requests.get(url, timeout=30).text.splitlines()
 
-            # JSON has a "movies" array
-            movies = data.get("movies", [])
+            i = 0
+            while i < len(lines):
+                if lines[i].startswith("#EXTINF") and i + 1 < len(lines):
+                    extinf = lines[i]
+                    stream = lines[i + 1]
 
-            for movie in movies:
-                title = movie.get("title", "Unknown Movie")
-                youtube = movie.get("url")
-                poster = movie.get("thumbnail", "")
+                    lower = extinf.lower()
 
-                if youtube:
-                    f.write(
-                        f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group}",{title}\n'
-                    )
-                    f.write(youtube + "\n")
+                    if any(g.lower() in lower for g in MOVIE_GROUPS):
+                        if stream not in seen:
+                            seen.add(stream)
+                            f.write(extinf + "\n")
+                            f.write(stream + "\n")
 
-            print("Loaded:", group, len(movies))
+                    i += 2
+                else:
+                    i += 1
+
+            print("Loaded:", url)
 
         except Exception as e:
-            print("Failed:", group, e)
+            print("Failed:", e)
 
 print("Created:", OUTPUT)
