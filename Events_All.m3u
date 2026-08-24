@@ -17,7 +17,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/DAI18-INDSL/master.m3u8|
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248429_53036_BAN-HP_VA_fc-web_1787393618609.jpg" group-title="Fancode-Cricket", Top End T20 Series, 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4248429_english_hls_24899e8d9112809_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787633487~_GO=Generated~acl=/mumbai/4248429_english_hls_24899e8d9112809_1ta-di_h264/*~Signature=ARceAWOdtC6e66OSpVnyJZZ797Gtt7Txiw-vSB7jSqIGf7K6nsoHgw4e8XMpwqcfhMQ7LvVAdeN6n8e38MlU3PG1giIM
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 PM 24-08-2026
+#LAST_UPDATE:01:32 PM 24-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -33,59 +33,59 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r6rpiytfdp/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31ded111f927aa48f07118d9c049632f:95a6ab67798b183acafcbf94968db0ff
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bm8quleefe/out/v1/a9527c6278684886b8bc40add3eaa431/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bm8quleefe/out/v1/a9527c6278684886b8bc40add3eaa431/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:32:34 PM 24-08-2026
+#last update time: 01:32:38 PM 24-08-2026
 # --- Cricket Live Events ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/willowsd.m3u8?md5=HvfZD9RzwLiaLxGsvrDBaA&expires=1787556039&ch=willowsd&s=6ed21d63292c2b4113cc2ca5a6fd9963
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=uVPfwBrHrr9hOCS30HQ8IA&expires=1787559641&ch=willowsd&s=1d95a991692f17fc697e8bdd663cb085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=PoIGJoUwPhm3eFslttwsYQ&expires=1787556042&ch=ten1co&s=f2f17fc26ce91af324fbb7c9f4a9c030
+https://mz01.playerr03.com:7060/hls/ten1co.m3u8?md5=VQdpSgq72gSlszkd9zpXxg&expires=1787559645&ch=ten1co&s=7118a6cd1c73958c526e126cb6c1e632
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=r_zBsiAmkJysNfeURaiHng&expires=1787556044&ch=ten3sd&s=d688bc95e008933751fc02d4411574b7
+https://mz02.playerr03.com:7060/hls/ten3sd.m3u8?md5=ko7n3qZ-5RJlkZvFMJoPsA&expires=1787559649&ch=ten3sd&s=542b5e9818fa082777b52c471ca0c7b6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow HD
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=DsnM0CmwUT39d4pPPLjNqA&expires=1787556052&ch=hdwillos5&s=cc52cce706eb8d1e7e5215b3ab9fdc20
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=GZZj8CdSLZpk8J3coJgFyQ&expires=1787559652&ch=hdwillos5&s=a7de9d0470221059f925bf9f1b52b5e5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - CricLife 1
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/criclife1.m3u8?md5=jW_XkCLu1TuUiiUhcOwkkw&expires=1787556055&ch=criclife1&s=52edd46cb8e53d2eaeca8c4794bd94cb
+https://mz02.playerr03.com:7060/hls/criclife1.m3u8?md5=K6LtNqZ6-zOQFXaawZjLTw&expires=1787559655&ch=criclife1&s=bd82ae60ac3856380552561724118017
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 4
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/sonyespnind.m3u8?md5=6LsOoID7rg6mwFaq2G2LkA&expires=1787556058&ch=sonyespnind&s=c620aa4f6e1477f432dd9636e1111a14
+https://mz02.playerr03.com:7060/hls/sonyespnind.m3u8?md5=or08EyzL_UsaHjazcPRR4w&expires=1787559658&ch=sonyespnind&s=da210b9dd35c5edcaaa5a5de466c5fa4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - TNT Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/bbtsip1.m3u8?md5=fa3sjBo5qzO6bFemMdvouA&expires=1787556061&ch=bbtsip1&s=3a23d08e4bdee1deea1e20e5727bcd31
+https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=JmnlnkeLfEaH27-9fTp0ZQ&expires=1787559661&ch=bbtsip1&s=f50482f16c472a0d773f9e71e9c4e676
 # --- 24/7 Channels ---
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:32:21 PM 24-08-2026
+#last update time: 1:32:27 PM 24-08-2026
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787639542-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce12a24c0a03d2b347388b0e91e1d5c8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787643148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3ec9fef7a3dc0d04c7a29e5fe69b4df3
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-24 12:32:33 PM (BD Time)"
+#"last updated": "2026-08-24 01:32:37 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:32 PM 24-08-2026
+#LAST_UPDATE:01:32 PM 24-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -95,10 +95,10 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=fal
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-id="B0H8YKS9K5" tvg-name="Great Britain vs. Venezuela" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8995941f-3199-4632-a430-11c3f24a3c64/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Great Britain vs. Venezuela
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
