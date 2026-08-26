@@ -1,94 +1,104 @@
 #EXTM3U
-#DATE:- 26-08-2026 18:00
+#DATE:- 26-08-2026 19:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090540376" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648037924385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Bangalore Blasters vs Golden Eagles Delhi - 26 Aug 2026
-https://sonymtmnew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787785821~acl=/*~id=37b61f5acd667f06ab08d7795d87897a-1787742600780~hmac=8e4cd296503dce1672afe23c58ce640c2fa1aadb1d69d12e8e4c4688a9c8c94b|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1b2d106055367b2e4a75aafcc70e17ff-1787747406844
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248001_53005_CDK_SDS_FC-Web.png" group-title="Fancode-Cricket", Delhi Premier League, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248001_english_hls_7094f1fcaf2862_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787816955~_GO=Generated~acl=/mumbai/4248001_english_hls_7094f1fcaf2862_1ta-di_h264/*~Signature=ARB3KG1OStw-ow7D1v_4HAxjWTtuXcV5-_oqLpOrLZbNskpOK1i_Owus0oUbh41JFpMB9TPrEQihmP6Adq6M2VH6iO4J
+https://sonymtmnew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787794223~acl=/*~id=579f834baa75eb7bfe6b52775cb0313f-1787751002817~hmac=a095861b274aa96031f706f0838fb7b3f41de8db5e77581ed6d8f66b4cfec2bc|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=579f834baa75eb7bfe6b52775cb0313f-1787751002817
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" group-title="Fancode-Cricket", Uttar Pradesh T20 League, 2026 [Hindi]
 https://in-mc-flive.fancode.com/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787821814~_GO=Generated~acl=/mumbai/4248357_hindi_hls_79edde63a09016_1ta-di_h264/*~Signature=ARB3KG3cwR8DssBBiqkV4v90MYm3lPPgD-euo3DhvW0SUSs8SnU74eMZD_e5d70QOokYZiJtwzxcBGB2feTrgzlbMEQN
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248357_53029_GOR_KAN_FC-Web_1786702851651.png" group-title="Fancode-Cricket", Uttar Pradesh T20 League, 2026 [Bhojpuri]
 https://in-mc-flive.fancode.com/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787821815~_GO=Generated~acl=/mumbai/4248357_bhojpuri_hls_d188d992c723534_1ta-di_h264/*~Signature=ARB3KG1vZuU1ezq4BNq60YOoHKArUVP8JIvcMp7hxlIlbxdxk_YWlbC_i4TaFFMeXt6Eu1z0oR2iGWhTDWRfaAgSsrsH
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248439_53036_ACT_NEP_fc-web_1787393618605.jpg" group-title="Fancode-Cricket", Top End T20 Series, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248439_english_hls_0bcf3050da53613_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787822423~_GO=Generated~acl=/mumbai/4248439_english_hls_0bcf3050da53613_1ta-di_h264/*~Signature=ARB3KG0rNolM9W8ToP70UmuXUznlVLhoo3-HXjIEJdhZwxG3t9F5Tt-NRDRPUEn_5rMZ3gZyXh7sqavRS0jCd4TudNoG
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248005_53005_PD_ODW_FC-Web.png" group-title="Fancode-Cricket", Delhi Premier League, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787836399~_GO=Generated~acl=/mumbai/4248005_english_hls_2c1a696f8558185_1ta-di_h264/*~Signature=ARB3KG2jD2PHzsFvmo231P7CECWdHUXYZLmVMHRPvfE_tiiyO9T6G9EpgAMIAcco623CB_J6VuzzgV_bGStKFugB03UF
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248517_53041_SW_BNR_FC-Web.jpg" group-title="Fancode-Cricket", Uttarkashi T20 League 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4248517_english_hls_47cbfd07bc97597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787833357~_GO=Generated~acl=/mumbai/4248517_english_hls_47cbfd07bc97597_1ta-di_h264/*~Signature=ARB3KG36IYoUyhqKPgWMEshs_xCUku5JuSXk6YbhBaWs3gADHUPfg4SxINjH1I7-3cKXUbSFcqviOQ4fvTwpYY7wGlcK
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 26-08-2026
+#LAST_UPDATE:07:32 PM 26-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:18
-#EXTINF:-1 tvg-id="B0H9RCZ1GL" tvg-name="India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.669d70b3-1511-48dc-a605-fb1c6f1e1b26/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of Sri Lanka 2026 - 2nd Test - Sri Lanka vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/19klshmltr/out/v1/194eed055f2e4e6c8ff8159d82579bbc/cenc.mpd
 #EXTINF:-1 tvg-id="B0HFRGYGTN" tvg-name="Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9e8cf9c3-c43b-4892-9859-55d964bba43a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Top End T20 Series 2026 - 18th Match - Nepal vs ACT Comets
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71892cc919d77335b73d1e5861d1f84:9d11c1065a6b99dbcfbd981ddf4a12d1
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ydhey7ayyo/out/v1/26c1fe58f12c41398284202a3aa4b079/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ydhey7ayyo/out/v1/26c1fe58f12c41398284202a3aa4b079/cenc.mpd
+#EXTINF:-1 tvg-id="B0HF8GGRGX" tvg-name="European T20 Premier League 2026 - 1st Match - Rotterdam Dockers vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20492208-8d38-40cf-983c-79a1617af56a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 1st Match - Rotterdam Dockers vs Amsterdam Flames
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/xkmf9pp9cd/out/v1/6a2c0f008cf1452bb15d255d1823826d/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:33:07 PM 26-08-2026
+#last update time: 07:32:54 PM 26-08-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:32:30 PM 26-08-2026
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20vs%20Azul%20Claro%20Numazu.jpg" group-title="LIVE", JEF United Chiba vs Azul Claro Numazu - Emperor Cup
+#last update time: 7:32:23 PM 26-08-2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2027.jpg" group-title="LIVE", Players Championship 27 - Players Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fc7/chunks.m3u8?is_vip=false&token=1787833951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e261444b387387a4fbf0bbceeebefab
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a-backup/chunks.m3u8?is_vip=false&token=1787833953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8913dc2eba12e2edd1efa1825396a6fb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Citizen%20vs%20Ulsan%20Hyundai%20FC.jpg" group-title="LIVE", Daejeon Citizen vs Ulsan Hyundai FC - K League 1 [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc2a/chunks.m3u8?is_vip=false&token=1787833954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eb05b277533e57ca37ef6207c07e45ca
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787837544-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2793b09a657c178d3dc5283bf49324b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Quarto%20turno.jpg" group-title="LIVE", Wuhan Open: Quarto turno - World Snooker Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787833956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f591e24095d9b9fcfc70e07d83e85332
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League [Server 1]
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787837545-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-13b562b49fda0c5a47edab32808c93b6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34-backup/chunks.m3u8?is_vip=false&token=1787833958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1f4c62e4d00cbeae60c471aef17a505
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Johor%20Darul%20Takzim%20FC%20vs%20Kelantan%20Red%20Warrior%20FC.jpg" group-title="LIVE", Johor Darul Takzim FC vs Kelantan Red Warrior FC - Super League [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34/chunks.m3u8?is_vip=false&token=1787833959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8ddbeb3fef00582ec1ae0a7ee1bd1c19
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc34/chunks.m3u8?is_vip=false&token=1787837547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-817b4405d8325161ee5084ef1cc30440
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%205.jpg" group-title="LIVE", Vuelta a España, Stage 5 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787833960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c574e1f8f35e1056972cd284a766b6c1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787837548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-872428afca1e30337e11fa92ada5105d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kuala%20Lumpur%20FA%20vs%20Kuching%20FA.jpg" group-title="LIVE", Kuala Lumpur FA vs Kuching FA - Super League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc35-backup/chunks.m3u8?is_vip=false&token=1787837550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-59c4f9d1824d4b22f1cd2e22d1a64869
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kuala%20Lumpur%20FA%20vs%20Kuching%20FA.jpg" group-title="LIVE", Kuala Lumpur FA vs Kuching FA - Super League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6e1116348486924602dc35/chunks.m3u8?is_vip=false&token=1787837551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d4159231cb45bfe94cbff053d311c261
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Thailand.jpg" group-title="LIVE", Vietnam vs Thailand - ASEAN Championship [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc-backup/chunks.m3u8?is_vip=false&token=1787837552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11c83719381f91b49b38df5844e1e7f5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vietnam%20vs%20Thailand.jpg" group-title="LIVE", Vietnam vs Thailand - ASEAN Championship [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a861269b29a32ad12436fcc/chunks.m3u8?is_vip=false&token=1787837553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-49d42a718a04cf281f0d8ea274f90217
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787837555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c750f3b41a304dd3ee40eebc012d4c35
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rotterdam%20Dockers%20vs%20Amsterdam%20Flames.jpg" group-title="LIVE", Rotterdam Dockers vs Amsterdam Flames - European T20 Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787837557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-70c9946c882269d4d6419a1625ad89c7
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-26 06:33:06 PM (BD Time)"
+#"last updated": "2026-08-26 07:32:54 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:32 PM 26-08-2026
+#LAST_UPDATE:07:32 PM 26-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 #EXTINF:-1 tvg-id="B0HCGY7N8K" tvg-name="European World Championships: Day 3, Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b51cc903-b283-4ebf-9657-e70eb2b0ae36/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",European World Championships: Day 3, Heats
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
-#EXTINF:-1 tvg-id="B0HG4FN51B" tvg-name="Top End Series: Nepal vs ACT Comets" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ab099980-9645-48f6-aecc-e3f02d4c4327/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Nepal vs ACT Comets
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFWZ2C8B" tvg-name="Rotterdam Dockers vs. Amsterdam Flames" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dae1f16f-c565-4a86-a698-2c0b3d41eec1/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Rotterdam Dockers vs. Amsterdam Flames
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
