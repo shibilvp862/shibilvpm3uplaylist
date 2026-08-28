@@ -13,29 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Install requests
-        run: pip install requests
+      - run: pip install requests
 
-      - name: Combine playlists
-        run: python update_playlist.py
+      - run: python update_playlist.py
 
       - name: Commit updated playlist
-  run: |
-    git config user.name "github-actions"
-    git config user.email "github-actions@github.com"
-    git add Events_All.m3u
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add Events_All.m3u
 
-    if git diff --cached --quiet; then
-      echo "No changes."
-    else
-      git commit -m "Auto update Events_All $(date -u '+%Y-%m-%d %H:%M UTC')"
-      git push
-    fi
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Auto update Events_All"
+            git push
+          fi
