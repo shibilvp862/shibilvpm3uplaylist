@@ -293,23 +293,24 @@ http://stream.mcquack.net/163/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="BACKUP",TNT 1 - AQ
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="INDIA",FC 1 - SD
+https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="BACKUP",TNT 2 - AQ
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="INDIA",FC 2 - SD
+https://abjqoehaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="BACKUP",TNT 3 - AQ
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="INDIA",FC 1 
+https://live-pv-ta.amazon.fastly-edge.com/bom-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="BACKUP",TNT 4 - AQ
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="INDIA",FC 2 
+https://abjqoehaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
