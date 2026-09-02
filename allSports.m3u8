@@ -372,6 +372,20 @@ https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="SONY" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="INDIA",Sony Sports Ten 4
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#EXTINF:-1 tvg-id="auto.fancode.tv.1" group-title="INDIA" tvg-logo="https://shorter.me/Xydc0", FANCODE TV 1
+https://abgpu4gaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+#EXTINF:-1 tvg-id="auto.fancode.tv.2" group-title="INDIA" tvg-logo="https://shorter.me/Xydc0", FANCODE TV 2
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 1
 http://59.103.38.46:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2
