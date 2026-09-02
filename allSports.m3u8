@@ -110,42 +110,10 @@ http://vipxtv.net/live/fabian/zxczxc2024/368340.ts
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://i.imgur.com/ZNjQzR5.png",beIN SP NBA ULTRA 4K
 http://vipxtv.net/live/fabian/zxczxc2024/368319.ts
 
-
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s",ALkass 1
-https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s",ALkass 2
-https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s",ALkass 3
-https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s",ALkass 4
-https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s",ALkass 5
-https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s",ALkass 6
-https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s",ALkass 7
-https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png",ALkass Shoof 1
-https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
-#EXTINF:-1 group-title="ARABIC" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7OlJsCxKAuipVQQN_pmmDgPCiMlZKmBQg9o2ajvJItYs3qm_1_FwDhQ&s" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png",ALkass Shoof 2
-https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a
-#EXTINF:-1 tvg-id="ARAB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvR8BXm6kO5HHAlMWhmOqto5DzbOpjc6VX-9xF6b7Jr8fwHZOMjPjlcs&s=10" group-title="ARABIC",AD SPORTS 1 - AQ
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3D9dc5ddd99e3c723bf109a504da715dac:3Ad39d55e9ba386a86641ca9668abf2b0d
-#EXTINF:-1 tvg-id="ARAB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsvR8BXm6kO5HHAlMWhmOqto5DzbOpjc6VX-9xF6b7Jr8fwHZOMjPjlcs&s=10" group-title="ARABIC",AD SPORTS 2 - AQ
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/Starzplay_Cricket_3/dash/drm/index.mpd
-
-#EXTINF:-1 tvg-id="ARAB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLnGNH-Stc7XMPZ-bE7Depa7suSvkJqdGomz_ISpLqA&s=10" group-title="ARABIC",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ARAB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTLnGNH-Stc7XMPZ-bE7Depa7suSvkJqdGomz_ISpLqA&s=10" group-title="ARABIC",Bahrain Sports 1
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET",STAR SPORTS 1 
+https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="CRICKET",STAR SPORTS 2
+https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
 #EXTINF:-1 tvg-id="WILLOW" tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png" group-title="CRICKET",WILLOW SPORTS
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/cb543d1d6570668d84cb3c60cef047a5f93d1fde1d6988693eb5518975d30b0bd1bda4cbe44eee755c9a18d87c0b6c075c7ac319d72e1c95d872a107627a10219899e4199fa32d317457720018ca040c648750418974711db38b3b3bf5f631e467698c287d5f33f7d16156ad2fe7b677ce227bdaf4cf4401effc22bd6f209d8a65deaeb90c07892ff9f55e198f177fd18642c9d41bbb82c7634674a7e37ce5ba84d388a33929e33ef8345fd0144334036e908136b8c651bddb8e6803ed1b436b114fefaf9fff0169c817313c829fc1dd34aef3af719944cc51127f4aafa538a2243a0ecb0c035e805f/11/1920x1080_5859480/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvi2uP2m-Onmj1Se8GhGl2bnl2llgn491mmNjGdv1lA&s=10" group-title="CRICKET",FOX CRICKET HD
