@@ -153,6 +153,13 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-id="pak" tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="CRICKET",A Sports HD *
 https://playztv-apps.pages.dev/asports/index.m3u8
 
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-logo="https://i.imgur.com/BZZyglC.png" group-title="FOOTBALL",SP: Astro Football FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125432
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.imgur.com/QiaLOCr.png" group-title="FOOTBALL",SP: Astro Grandstand FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125431
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="FOOTBALL",SP: Astro Premier League 2 FHD
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125430
+#EXTINF:-1 tvg-id="astrosupersport1.my" tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="FOOTBALL",SP: Astro Premier League FHD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
@@ -396,9 +403,9 @@ https://abgpu4gaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 1
-http://59.103.38.46:8000/play/a125/index.m3u8
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134096
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2
-http://59.103.38.46:8000/play/a126/index.m3u8
+https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=134097
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 1*
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=6697
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="INDIA",UNITE8 SPORTS 2*
