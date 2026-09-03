@@ -79,22 +79,19 @@ http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
 #EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 3 FHD
 http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f6f6d89/sky-sport-4-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 4 FHD
-http://45.12.32.190:8080/UK-SkySport4NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f6ea5f1/sky-sport-5-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 5 FHD
+#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/xgpKcYh.png" group-title="SKY SPORTS",Sky Sports NZ 5 FHD
 http://45.12.32.190:8080/UK-SkySport5NZ/video.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f6dd8b7/sky-sport-6-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 6 FHD
+#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/nyjD1dU.png" group-title="SKY SPORTS",Sky Sports NZ 6 FHD
 http://45.12.32.190:8080/UK-SkySport6NZ/video.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f6d0c4f/sky-sport-7-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 7 FHD
+#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/iuTNWh4.png" group-title="SKY SPORTS",Sky Sports NZ 7 FHD
 http://45.12.32.190:8080/UK-SkySport7NZ/video.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f6c41e3/sky-sport-8-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 8 FHD
+#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/2dsSm5m.png" group-title="SKY SPORTS",Sky Sports NZ 8 FHD
 http://45.12.32.190:8080/UK-SkySport8NZ/video.m3u8
 
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f6b7780/sky-sport-9-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 9 FHD
+#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="SKY SPORTS",Sky Sports NZ 9 FHD
 http://45.12.32.190:8080/UK-SkySport9NZ/video.m3u8
 
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="SKY SPORTS",SKY BOX
