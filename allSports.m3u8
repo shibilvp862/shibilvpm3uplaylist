@@ -79,6 +79,9 @@ http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
 #EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 3 FHD
 http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
 
+#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKY SPORTS",Sky Sports NZ 4 FHD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
+
 #EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/xgpKcYh.png" group-title="SKY SPORTS",Sky Sports NZ 5 FHD
 http://45.12.32.190:8080/UK-SkySport5NZ/video.m3u8
 
@@ -93,6 +96,9 @@ http://45.12.32.190:8080/UK-SkySport8NZ/video.m3u8
 
 #EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="SKY SPORTS",Sky Sports NZ 9 FHD
 http://45.12.32.190:8080/UK-SkySport9NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport Selet" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKY SPORTS", SkySports Selet NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
 
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="SKY SPORTS",SKY BOX
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=2453
@@ -188,17 +194,31 @@ https://19aug.uhd2026.workers.dev/?v=wextres5
 https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=2026
 #EXTINF:-1 tvg-id="pak" tvg-logo="https://i.imgur.com/K5XIFuW.png" group-title="CRICKET",Ten Cricket HD
 https://s2.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Ften_cricket_576%2Ften_cricket_576.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="CRICKET",PTV Sports HD
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="ASIA", SpoTV
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="ASIA", SpoTV 2
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="ASIA",PTV Sports HD
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302016.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amq001/tapmad/refs/heads/main/public/tapmadLogo.png" group-title="CRICKET",Tapmad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amq001/tapmad/refs/heads/main/public/tapmadLogo.png" group-title="ASIA",Tapmad
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="pak" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="CRICKET",T Sports HD
+#EXTINF:-1 tvg-id="pak" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="ASIA",T Sports HD
 https://tvsen3.aynaott.com/Sports1/mono.m3u8
-#EXTINF:-1 tvg-id="pak" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="CRICKET",T Sports HD *
+#EXTINF:-1 tvg-id="pak" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="ASIA",T Sports HD *
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pak" tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="CRICKET",A Sports HD
+#EXTINF:-1 tvg-id="pak" tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="ASIA",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
-#EXTINF:-1 tvg-id="pak" tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="CRICKET",A Sports HD *
+#EXTINF:-1 tvg-id="pak" tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="ASIA",A Sports HD *
 https://playztv-apps.pages.dev/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-logo="https://i.imgur.com/BZZyglC.png" group-title="FOOTBALL",SP: Astro Football FHD
