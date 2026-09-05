@@ -38,16 +38,63 @@ http://45.12.32.190:8080/UK-SkySportsMainEventFHD/video.m3u8
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",Sky Sports F1 HD
 http://45.12.32.190:8080/UK-SkySportsF1FHD/video.m3u8
 
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT 1
-https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=312
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT 2
-https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=313
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT 3
-https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=314
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT 4
-https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=2451
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT BOX
-https://stalkerportal.gojosare123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL25ldy5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbCIsIm1hYyI6IjAwOjFBOjc5OjAwOjgxOjUzIiwic24iOiI4N0ZEODg3MzRGQTg5IiwiZGV2aWNlX2lkMSI6IjIyMTlEMjgzQzg0OEFDNkU5QkE2OEE3MTM5QTQ5RDdERTgxMDM2MkMyOTBGMkFCMkJEM0FCRDE4MURFNTI5REEiLCJkZXZpY2VfaWQyIjoiMjIxOUQyODNDODQ4QUM2RTlCQTY4QTcxMzlBNDlEN0RFODEwMzYyQzI5MEYyQUIyQkQzQUJEMTgxREU1MjlEQSJ9&id=2449
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 1 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=73154
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 2 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=73151
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 3 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=66620
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORTS 4 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=68762
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORTS 5 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=68763
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 1 4K UK
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2945
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 2 4K UK
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2947
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS ARENA 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2954
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS F1 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=68747
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS FOOTBALL 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2960
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS GOLF 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=62347
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS MAIN EVENT
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2963
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS MAIN EVENT 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2964
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS TENNIS HD
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=73309
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS MIX 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2966
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS PLUS HD
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=73310
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS NEWS 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2968
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2969
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="http://142.132.202.99:2080/stalker_portal/misc/logos/320/" group-title="UK",SKY SPORTS RACING 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2971
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
@@ -68,7 +115,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://i.imgur.com/V562tpO.png",beIN SPORTS XTRA en Espanol
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
+#EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",BEIN SPORTS 1 - AUS -4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=5290
+#EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",BEIN SPORTS 2  - AUS -4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=5292
+#EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",BEIN SPORTS 3  - AUS -4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=5296
 
 #EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 1 FHD
 http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
