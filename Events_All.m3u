@@ -1,50 +1,138 @@
 #EXTM3U
-#DATE:- 07-09-2026 12:00
+#DATE:- 07-09-2026 21:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090541606" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Mohali Kings vs Ludhiana Lions - 7 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/criclive0709/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b009d36a705ef485ba1826df2dddab40-1788762600813
-#EXTINF:-1 tvg-id="1090541606" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg" tvg-language="Punjabi" group-title="Cricket",PAN | Mohali Kings vs Ludhiana Lions - 7 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/criclive0709/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b009d36a705ef485ba1826df2dddab40-1788762600813
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249113_53065_MOK_LLN_fc-web_1788345783977.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4249113_hindi_hls_78ff7924eb32499_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788850942~_GO=Generated~acl=/mumbai/4249113_hindi_hls_78ff7924eb32499_1ta-di_h264/*~Signature=AfPHOv1tpdNqf8Orkei-QnI4-mNuy9uZOWVCqzQApdJveWmdOs2lGs_zW9FO0F2sopx5SkOC0b5tB0srHpk0-8JOxhwK
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249113_53065_MOK_LLN_fc-web_1788345783977.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Punjabi]
-https://in-mc-flive.fancode.com/mumbai/4249113_punjabi_hls_b974acbc5421056_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788850942~_GO=Generated~acl=/mumbai/4249113_punjabi_hls_b974acbc5421056_1ta-di_h264/*~Signature=AfPHOv1pGjd42ujI2kw4K9KlIe6rGrYbG7g6GaX2qIpvgj9ZU7aq1EKagDmw2QXjZ-uSIYuVfPoPsxaPXORU9N-tD4MP
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249076_53058_VD_SS_fc-Web_fc-webtvbg.jpg" group-title="Fancode-Cricket", Dehradun T20 League 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249076_english_hls_149a75bdda45702_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788857633~_GO=Generated~acl=/mumbai/4249076_english_hls_149a75bdda45702_1ta-di_h264/*~Signature=AfPHOv0OYyoBK6RL9Nlht6XGOnMxJj964S4jp_g87bjO81QixHk2rgGsdetoMdZQVhZUNF2Syit6fjWizgfGUJufq84F
+#EXTINF:-1 tvg-id="1090538390" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023317/1788264797728803_KBC_S18_Generic_simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/kbc180709/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-id="1090541616" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Pakistan Women vs Hong Kong China Women - 7 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-id="1090541616" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Pakistan Women vs Hong Kong China Women - 7 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0709/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-id="1090541616" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | Pakistan Women vs Hong Kong China Women - 7 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0709/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-id="1090541616" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | Pakistan Women vs Hong Kong China Women - 7 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0709/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-id="1090541616" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Pakistan Women vs Hong Kong China Women - 7 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0709/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-id="1090541606" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/criclive0709/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-id="1090541606" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg" tvg-language="Punjabi" group-title="Cricket",PAN | Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/criclive0709/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13143807be2fc055772abd18d3e3724e-1788795000557
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788345784081.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249116_hindi_hls_5e213b60ce7285_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788872821~_GO=Generated~acl=/mumbai/4249116_hindi_hls_5e213b60ce7285_1ta-di_h264/*~Signature=AWDec-HAOwjnTVsIN0yTs23CE4-nTREvUVkqJKKRFGnfZ-R6gMU4Km4vzaPwG-bqrvfbKrXpbf0GQ_mvu20CNJrAiDMO
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249118_53065_FAF_AMS_fc-web_1788345784081.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Punjabi]
+https://in-mc-flive.fancode.com/mumbai/4249116_punjabi_hls_b38d710ded59128_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788872821~_GO=Generated~acl=/mumbai/4249116_punjabi_hls_b38d710ded59128_1ta-di_h264/*~Signature=AWDec-HlRAVSdmNetU_Ot-wvGrIL89xC01K2YlYU3CcqfGQpIB2dgcQEeWO3rkJo6YRHarI9UK6cctljLCO7Pt8u_wcD
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248673_53052_ROS_YSG_fc-Web.jpg" group-title="Fancode-Cricket", Oman D50 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4248673_english_hls_446d93f74c72622_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788862493~_GO=Generated~acl=/mumbai/4248673_english_hls_446d93f74c72622_1ta-di_h264/*~Signature=AWDec-FgGiyTM9kE_HHxI_QylwhCVgGJPy6VBQSEfuAflOwbAdQX_EfmwaBEvZUcJAaRmueDEP5ry-8rh7zQCpYHk5sO
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249077_53058_HKR_MT_fc-Web_fc-webtvbg.jpg" group-title="Fancode-Cricket", Dehradun T20 League 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249077_english_hls_33518a555121208_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788875258~_GO=Generated~acl=/mumbai/4249077_english_hls_33518a555121208_1ta-di_h264/*~Signature=AWDec-FBw2sMuwLbLPHtVBVmTzNyuu_vaksF7q6VoeWG45UU1uBabddbpzprERRrzuEfs3QN_RqR4JbAsN8wJ8q3E7oC
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 07-09-2026
+#LAST_UPDATE:09:02 PM 07-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+#EXTINF:-1 tvg-id="B0HFHMRRP8" tvg-name="Womens Asia Cup 2026 - 11th Match - Pakistan Women vs Hong Kong China Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2f04927-7a4a-4e9d-ad8e-ef73099ffb9e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 11th Match - Pakistan Women vs Hong Kong China Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecfd503a2e10cdfc5cc824087a70824e:f33f6735b179d13d712de1c1ad2db810
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qhj7fyqqpl/out/v1/bca61413994542088261e44b1bf1c5de/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:32:35 PM 07-09-2026
+#last update time: 09:32:39 PM 07-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:47:20 PM 07-09-2026
-#EXTINF:-1 tvg-id="54633" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium%20vs%20Australia.jpg" group-title="LIVE", Belgium vs Australia - FIBA Women's Basketball World Cup
+#last update time: 9:32:25 PM 07-09-2026
+#EXTINF:-1 tvg-id="54634" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hungary%20vs%20Korea.jpg" group-title="LIVE", Hungary vs Korea - FIBA Women's Basketball World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/138844/720p/chunks.m3u8?is_vip=false&token=1788860841-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58032c9eeadeff43b4aa034abc2776db
-#EXTINF:-1 tvg-id="65032" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PUR%20vs%20TUR.jpg" group-title="LIVE", PUR vs TUR - FIBA Women's Basketball World Cup
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138846/720p/chunks.m3u8?is_vip=false&token=1788881546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1fa8c2c941ba85ec057811ce4d9a2fce
+#EXTINF:-1 tvg-id="54635" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nigeria%20vs%20France.jpg" group-title="LIVE", Nigeria vs France - FIBA Women's Basketball World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/138843/720p/chunks.m3u8?is_vip=false&token=1788860843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d30a83c4c9b828f2e6aed77575fdff22
+https://livecdn-tc-iptv.rumsport10.live/live_abr/138845/720p/chunks.m3u8?is_vip=false&token=1788881548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4739c1fd31c61abc0063c276cb1f0a85
+#EXTINF:-1 tvg-id="55107" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Isloch%20Minsk%20R.%20vs%20Arsenal.jpg" group-title="LIVE", FC Isloch Minsk R. vs Arsenal - Premier League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ee-backup/chunks.m3u8?is_vip=false&token=1788881549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-012eb6813cb3fd05e07fc8e4979cd005
+#EXTINF:-1 tvg-id="55107" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Isloch%20Minsk%20R.%20vs%20Arsenal.jpg" group-title="LIVE", FC Isloch Minsk R. vs Arsenal - Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402e018287f1ce8840ee/chunks.m3u8?is_vip=false&token=1788881550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6fc1037ff376d9082a6a61c686e8be95
+#EXTINF:-1 tvg-id="55108" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Esenler%20Erokspor%20vs%20Kayserispor.jpg" group-title="LIVE", Esenler Erokspor vs Kayserispor - 1. Lig [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c861c-backup/chunks.m3u8?is_vip=false&token=1788881551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ecf412650554708020694e236d54bb0d
+#EXTINF:-1 tvg-id="55108" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Esenler%20Erokspor%20vs%20Kayserispor.jpg" group-title="LIVE", Esenler Erokspor vs Kayserispor - 1. Lig [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c861c/chunks.m3u8?is_vip=false&token=1788881552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-87c20274883a6254bdbac061a6660511
+#EXTINF:-1 tvg-id="55109" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/%C4%B0stanbulspor%20vs%20I%C4%9Fd%C4%B1r%20FK.jpg" group-title="LIVE", İstanbulspor vs Iğdır FK - 1. Lig [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c861b-fhd/chunks.m3u8?is_vip=false&token=1788881553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5eb8dd8d18ff5c304d8be0892a2ac65
+#EXTINF:-1 tvg-id="55109" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/%C4%B0stanbulspor%20vs%20I%C4%9Fd%C4%B1r%20FK.jpg" group-title="LIVE", İstanbulspor vs Iğdır FK - 1. Lig [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c861b/chunks.m3u8?is_vip=false&token=1788881554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dacf40decbbe570c6fe803732805f8ed
+#EXTINF:-1 tvg-id="55110" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Voluntari%20vs%20Arges%20Pitesti.jpg" group-title="LIVE", FC Voluntari vs Arges Pitesti - Liga I [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b9e-fhd/chunks.m3u8?is_vip=false&token=1788881555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b252decb3e05ed21feb80736f621f79
+#EXTINF:-1 tvg-id="55110" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Voluntari%20vs%20Arges%20Pitesti.jpg" group-title="LIVE", FC Voluntari vs Arges Pitesti - Liga I [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b9e/chunks.m3u8?is_vip=false&token=1788881556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d34a9e475ed00242c169f62aacac1471
+#EXTINF:-1 tvg-id="55111" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riga%20FC%20II%20vs%20Skanste.jpg" group-title="LIVE", Riga FC II vs Skanste - 1. Liga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8681-backup/chunks.m3u8?is_vip=false&token=1788881557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5aedbda64a9e255e5127a4b2608ccbdd
+#EXTINF:-1 tvg-id="65033" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788881560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3c9f8cc5e7596711cef2108afbea73d5
+#EXTINF:-1 tvg-id="45604" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Khaleej%20Saihat%20vs%20Al%20Riyadh.jpg" group-title="LIVE", Al Khaleej Saihat vs Al Riyadh - Pro League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8682-fhd/chunks.m3u8?is_vip=false&token=1788881561-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8497bf62966191862a33b49e9267164b
+#EXTINF:-1 tvg-id="45604" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Khaleej%20Saihat%20vs%20Al%20Riyadh.jpg" group-title="LIVE", Al Khaleej Saihat vs Al Riyadh - Pro League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316f23cddb5af5c8682/chunks.m3u8?is_vip=false&token=1788881562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-58f5d216740c68a4a3461cc37cf3d15a
+#EXTINF:-1 tvg-id="54652" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.S.%20Nationals%2C%20Finals.jpg" group-title="Auto Racing", U.S. Nationals, Finals - NHRA Drag Racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1788881563-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ebeb15337c2641840ae1c3f0acd68157
+#EXTINF:-1 tvg-id="54662" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="Horse Racing", Saratoga Live - Horse Racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788881564-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-044aff031a471b7ef2a05724f27d1b10
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-07 03:32:34 PM (BD Time)"
+#"last updated": "2026-09-07 09:32:39 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 PM 07-09-2026
+#LAST_UPDATE:09:32 PM 07-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
+#EXTINF:-1 tvg-id="B0HCPBBVN7" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.935f8277-21d0-4de6-9221-fda8795805f7/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+#EXTINF:-1 tvg-id="B0GTS6JLJ8" tvg-name="Cricket Highlights-Women's T20 Asia Cup 2026: Pakistan vs Hong Kong, China - 11th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ee7ce23e-9926-4e39-b17f-72a6ce799204/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-Women's T20 Asia Cup 2026: Pakistan vs Hong Kong, China - 11th Match
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
