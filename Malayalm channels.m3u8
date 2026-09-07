@@ -108,6 +108,12 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8?hdnts=st%3D1777952505~exp%3D1777974105~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fcdb96065-b754-4c59-93c0-fe73f482439e%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_334_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_334_-1~hmac%3De11a3d547da0a346bdf4b31e94e11eed79bbbef3db9932148a2849b1a77ac129
 
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="Entertainment",Asianet HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.epgschedule.com/images/channels/asianet-movies-hd.png" group-title="Entertainment",Asianet Movies HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/chunklist_b896000.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7LZiPDxEJlCVILcKKvwiDFlqqWLGOW0nZMCpttYsAQ&s=10" group-title="Entertainment",Asianet Middle East
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNZdzPPmmjUG8HnUzWdTvNUAfYpQ-fb-mbmnPgYDVuw&s=10" group-title="Entertainment",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQegYc0wo1l8yEYOWsJLTA4MCh8gd7p6CKsX5yAn1mw&s=10" group-title="Entertainment",Flowers TV USA
@@ -117,11 +123,11 @@ https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="Entertainment",WE
-https://cdn-3.pishow.tv/live/1530/master.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali Arabia
-https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV
-https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="Entertainment",NTV UAE
