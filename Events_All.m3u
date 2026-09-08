@@ -1,66 +1,120 @@
 #EXTM3U
-#DATE:- 08-09-2026 19:00
+#DATE:- 08-09-2026 23:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090541702" tvg-name="Sher-E-Punjab T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Ludhiana Lions vs Bathinda Royals - 8 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/criclive0809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b6e40af1d2d6f2465a9f47afd9b08909-1788874203526
-#EXTINF:-1 tvg-id="1090541702" tvg-name="Sher-E-Punjab T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg" tvg-language="Punjabi" group-title="Cricket",PAN | Ludhiana Lions vs Bathinda Royals - 8 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/criclive0809/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b6e40af1d2d6f2465a9f47afd9b08909-1788874203526
-#EXTINF:-1 tvg-id="1090541752" tvg-name="UEFA Youth League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Club Brugge vs Aston Villa - 8 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/footlive0809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b6e40af1d2d6f2465a9f47afd9b08909-1788874203526
-#EXTINF:-1 tvg-id="1090541755" tvg-name="UEFA Youth League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023588/1788716274000472_UYL26_Real_Madrid_vs_Inter_Milan_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Real Madrid vs Inter - 8 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/footlive0809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b6e40af1d2d6f2465a9f47afd9b08909-1788874203526
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Hindi]
-https://in-mc-flive.fancode.com/mumbai/4249121_hindi_hls_cff10ee37012784_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788959212~_GO=Generated~acl=/mumbai/4249121_hindi_hls_cff10ee37012784_1ta-di_h264/*~Signature=AWDec-ERAlRGUvSk7JsJF-VVSGKSaL-DpIs9Qq9dWFHYRQN1VT0ax_66dJCElLWfSYemQoFaV7GirAIsuMuTr7JAEwcK
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249121_53065_LLN_JLD_fc-web_1788345784053.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Punjabi]
-https://in-mc-flive.fancode.com/mumbai/4249121_punjabi_hls_4e171f276559881_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788959212~_GO=Generated~acl=/mumbai/4249121_punjabi_hls_4e171f276559881_1ta-di_h264/*~Signature=AWDec-EesKALhwN0X0NQGLgQPnV_gCq0J9MFT7-d3Si_7dRXLDhLg4d0fqZ0kvN_FpDIeBdllbIqTp8ruLVp18NAt8ED
+#EXTINF:-1 tvg-id="1090541726" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Bangladesh Women vs UAE Women - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
+#EXTINF:-1 tvg-id="1090541726" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Bangladesh Women vs UAE Women - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
+#EXTINF:-1 tvg-id="1090541726" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Cricket",TAM | Bangladesh Women vs UAE Women - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0809/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
+#EXTINF:-1 tvg-id="1090541726" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Cricket",TEL | Bangladesh Women vs UAE Women - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0809/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
+#EXTINF:-1 tvg-id="1090541726" tvg-name="DP World Women's Asia Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Cricket",KAN | Bangladesh Women vs UAE Women - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0809/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
+#EXTINF:-1 tvg-id="1090541696" tvg-name="UEFA Champions League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788511646779822_UCL_26_MD1_Club-Brugge-vs-Aston-Villa_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Club Brugge vs Aston Villa - MD 1 - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/footlive0809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
+#EXTINF:-1 tvg-id="1090541697" tvg-name="UEFA Champions League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513038876822_UCL_26_MD1_AEK-Athens-vs-LASK_live_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | AEK Athens vs LASK - MD 1 - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/footlive0809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
+#EXTINF:-1 tvg-id="1090541702" tvg-name="Sher-E-Punjab T20 League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875797577152_punjabt20_ludhiana_vs_bhatinda_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Jalandhar Warriors vs Ludhiana Lions - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/criclive0809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=84ed1b90c588dac6880be769581de526-1788888604841
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248674_53052_IAI_MAT_fc-Web.jpg" group-title="Fancode-Cricket", Oman D50 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4248674_english_hls_a4c30037ae54337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788949465~_GO=Generated~acl=/mumbai/4248674_english_hls_a4c30037ae54337_1ta-di_h264/*~Signature=AWDec-GS4C0n_-o30GiKENgvhiz9HlHsEVsrpFfVEAgKPHGdBRht_MEV_QaeQUwn-l_hyguRDlrugvBSE7roLsPzdc0L
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249153_53067_KEN_SRL_FC-Web_1788856688301.jpg" group-title="Fancode-Cricket", ILT20 Africa Continent Cup 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249154_english_hls_41d7e2f54471178_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788952509~_GO=Generated~acl=/mumbai/4249154_english_hls_41d7e2f54471178_1ta-di_h264/*~Signature=AWDec-Gi_QusFhtDEi7eZ0JFxcWnr_INggSaKSkI1LbLyfmi8s5yVvFV7-diZP9Sc4YVK0zTpLTvsHvD5a5BbNydVqcM
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249075_53058_SS_DK_fc-Web_fc-webtvbg.jpg" group-title="Fancode-Cricket", Dehradun T20 League 2026 [English]
+https://in-mc-flive.fancode.com/s3/77879913-bc6e-4104-a836-163a76f74b6e/index_1080p.m3u8?hdntl=Expires=1788962867~_GO=Generated~acl=/s3/77879913-bc6e-4104-a836-163a76f74b6e/*~Signature=AWDec-HSwLT71SjLvjfvQpIkHpIiNpKCTHYhcZdNdjr0gMbmyB2ZNARe6QncvHtj_I2h9KzdFRuz2za_LQiAFbNh4O4M
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248660_53025_ETT_ALF_FC-Web.png" group-title="Fancode-Football", Roshn Saudi League 2026-2027 [English]
+https://in-mc-flive.fancode.com/mumbai/4248660_english_hls_0b36f1e3be87093_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788967130~_GO=Generated~acl=/mumbai/4248660_english_hls_0b36f1e3be87093_1ta-di_h264/*~Signature=AWDec-GiRwypNuJ9iLWU2ffxwTU8yhyj1aJwJhWRn2r50HtK14Vngph8gEZzyXbQjp9MvcnweYN4NF9tWCdmMo_Yq2UC
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 PM 08-09-2026
+#LAST_UPDATE:11:32 PM 08-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+#EXTINF:-1 tvg-id="B0HGXW7KMF" tvg-name="Womens Asia Cup 2026 - 12th Match - Bangladesh Women vs United Arab Emirates Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20edfcd0-521d-4314-8bdd-e355d4ea7065/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Asia Cup 2026 - 12th Match - Bangladesh Women vs United Arab Emirates Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b805d449b07e313914788a1dd6dcf6d:72f6a2079a52d04203ef34023568d5fa
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k8zyuwd5df/out/v1/8b4ea40bad16401585c8d604004c718c/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:32:32 PM 08-09-2026
+#last update time: 11:32:31 PM 08-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 7:47:25 PM 08-09-2026
-#EXTINF:-1 tvg-id="60249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20U19%20vs%20Aston%20Villa%20U19.jpg" group-title="LIVE", Club Brugge U19 vs Aston Villa U19 - UEFA Youth League [Server 1]
+#last update time: 11:32:25 PM 08-09-2026
+#EXTINF:-1 tvg-id="57063" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AEK%20Athens%20FC%20vs%20Lask%20Linz.jpg" group-title="LIVE", AEK Athens FC vs Lask Linz - UEFA Champions League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1160-backup/chunks.m3u8?is_vip=false&token=1788961646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1f6fbc2a16a6ebaf2b24e15f1f444d9b
-#EXTINF:-1 tvg-id="60249" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20U19%20vs%20Aston%20Villa%20U19.jpg" group-title="LIVE", Club Brugge U19 vs Aston Villa U19 - UEFA Youth League [Server 2]
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d7707-hd/chunks.m3u8?is_vip=false&token=1788975146-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a1b3929d9c244a065f7c9a8ea1ee773b
+#EXTINF:-1 tvg-id="57063" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AEK%20Athens%20FC%20vs%20Lask%20Linz.jpg" group-title="LIVE", AEK Athens FC vs Lask Linz - UEFA Champions League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1160/chunks.m3u8?is_vip=false&token=1788961647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f1272381b93f62ba91555f90b7243d11
-#EXTINF:-1 tvg-id="55212" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2016.jpg" group-title="LIVE", Vuelta a España, Stage 16 - La Vuelta
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d7707-backup/chunks.m3u8?is_vip=false&token=1788975147-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-879a5e773f73665a2aa6d1199b1fa6ac
+#EXTINF:-1 tvg-id="57063" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AEK%20Athens%20FC%20vs%20Lask%20Linz.jpg" group-title="LIVE", AEK Athens FC vs Lask Linz - UEFA Champions League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788961649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a33f29cfb2c28209679ac5592158f820
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d7707/chunks.m3u8?is_vip=false&token=1788975148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da2fc6b9ccc0f2a9ec1406f055846400
+#EXTINF:-1 tvg-id="57057" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20vs%20Aston%20Villa.jpg" group-title="LIVE", Club Brugge KV vs Aston Villa - UEFA Champions League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e5-hd/chunks.m3u8?is_vip=false&token=1788975149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6dc5483297b8a4bd4efb50dc5b7c6e78
+#EXTINF:-1 tvg-id="57057" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20vs%20Aston%20Villa.jpg" group-title="LIVE", Club Brugge KV vs Aston Villa - UEFA Champions League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e5-backup/chunks.m3u8?is_vip=false&token=1788975150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5d8d90c1fca18564257e16dc92b3d7c
+#EXTINF:-1 tvg-id="57057" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20vs%20Aston%20Villa.jpg" group-title="LIVE", Club Brugge KV vs Aston Villa - UEFA Champions League [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e5/chunks.m3u8?is_vip=false&token=1788975150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-933f9c0525f4f5c8bb9050d2948bd1e5
+#EXTINF:-1 tvg-id="65087" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788975152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f914726fec516ab3193b7689b2a3131
+#EXTINF:-1 tvg-id="45607" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Hazm%20vs%20Al%20Taawon.jpg" group-title="LIVE", Al-Hazm vs Al Taawon - Pro League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a8-fhd/chunks.m3u8?is_vip=false&token=1788975156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-058ace4820ffb269a6fe0967da27c585
+#EXTINF:-1 tvg-id="45607" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Hazm%20vs%20Al%20Taawon.jpg" group-title="LIVE", Al-Hazm vs Al Taawon - Pro League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a8/chunks.m3u8?is_vip=false&token=1788975156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-16094872e3527fefc7f97736d65fa90c
+#EXTINF:-1 tvg-id="47721" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20vs%20Excelsior.jpg" group-title="LIVE", NEC Nijmegen vs Excelsior - Eredivisie [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b51b-hd/chunks.m3u8?is_vip=false&token=1788975158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a344d5007b7bebfb67ea7177112d142
+#EXTINF:-1 tvg-id="47721" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20vs%20Excelsior.jpg" group-title="LIVE", NEC Nijmegen vs Excelsior - Eredivisie [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b51b-backup/chunks.m3u8?is_vip=false&token=1788975159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1045ece93f5c32f609299c43f3ecac04
+#EXTINF:-1 tvg-id="47721" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20vs%20Excelsior.jpg" group-title="LIVE", NEC Nijmegen vs Excelsior - Eredivisie [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b51b/chunks.m3u8?is_vip=false&token=1788975159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b450cdb0846eb1f42a89fdefa208a48
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-08 07:32:31 PM (BD Time)"
+#"last updated": "2026-09-08 11:32:30 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:07:32 PM 08-09-2026
+#LAST_UPDATE:11:32 PM 08-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HGMDGNL6" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.dc18a0b4-eb75-4c97-90a0-4c54654cbf1c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#EXTINF:-1 tvg-id="B0HH3SK2XN" tvg-name="Cricket Highlights-Women's T20 Asia Cup 2026: Bangladesh vs UAE - 12th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.601285ab-4437-4ead-bc2c-c1b17cfe3579/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-Women's T20 Asia Cup 2026: Bangladesh vs UAE - 12th Match
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG5PVWV2" tvg-name="Seville, Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.bafe7e42-5a48-4c69-acf1-aa6645be2e79/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Seville, Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
