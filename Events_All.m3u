@@ -1,12 +1,23 @@
 #EXTM3U
-#DATE:- 07-09-2026 23:40
+#DATE:- 08-09-2026 12:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090541702" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Amritsar Soormas vs Mohali Kings - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/criclive0809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4913f992eca8bcaa4b6d25dfac8ac643-1788849001365
+#EXTINF:-1 tvg-id="1090541702" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" tvg-language="Punjabi" group-title="Cricket",PAN | Amritsar Soormas vs Mohali Kings - 8 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/criclive0809/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4913f992eca8bcaa4b6d25dfac8ac643-1788849001365
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249120_hindi_hls_4038d704a88057_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937273~_GO=Generated~acl=/mumbai/4249120_hindi_hls_4038d704a88057_1ta-di_h264/*~Signature=AWDec-H3flrvt4djCtzzE2ETbiuxwEjxI51PGDlsSzhPmqiIqbwZhRbEnqzffOqZqti6TnYoYB3KZydn-22678nMcq0K
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249120_53065_AMS_MOK_fc-web_1788345784705.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Punjabi]
+https://in-mc-flive.fancode.com/mumbai/4249120_punjabi_hls_137538a24e47136_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937274~_GO=Generated~acl=/mumbai/4249120_punjabi_hls_137538a24e47136_1ta-di_h264/*~Signature=AWDec-HI0mgU49mjwJGRB8w1DDt2x-kUMSLSoi-jSHUaERXHXfGMEbuUeCsiquKtwHlir5874KLQtAQKvwK9Iu-wyvoO
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248627_53050_NEP_HK_FC-Web_1788765687310.png" group-title="Fancode-Cricket", ACC Men’s Premier Cup 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788916622~_GO=Generated~acl=/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/*~Signature=AWDec-HynkVwv6EMMgQO9kyuz6O6CJ0LszbfQP9v7pHL8Qq_RDPtVUOpOKPeurqNGt-GnIUmQb-1mzQ6RwkmZ_SjhUgH
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248628_53050_UAE_OMA_FC-Web_1788765687290.png" group-title="Fancode-Cricket", ACC Men’s Premier Cup 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248628_english_hls_a8a59adb7a21615_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788916623~_GO=Generated~acl=/mumbai/4248628_english_hls_a8a59adb7a21615_1ta-di_h264/*~Signature=AWDec-GufsG3xtyVX1fGiFMzKYvB-Lrby2D0Aeu_pD38hlhF2PF2XrvN5yiu1Q884noNb0zVO8px6uyRMBmvNnugKxsB
+https://in-mc-flive.fancode.com/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788945822~_GO=Generated~acl=/mumbai/4248627_english_hls_b956cf9a2c2456_1ta-di_h264/*~Signature=AWDec-FtBlKSkFaKxDG3LN-x6ZjHMrldBwjaeTLiAdMYPqPudos2G_WL5ZCmLbjKxnWThmlbef67Wh0Tyk12PqbtSocK
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249154_53067_RWA_BOT_FC-Web_1788856688246.jpg" group-title="Fancode-Cricket", ILT20 Africa Continent Cup 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788937883~_GO=Generated~acl=/mumbai/4249153_english_hls_0e48b6d5fd90656_1ta-di_h264/*~Signature=AWDec-GzAHKzTswVEe4iOhn9em15C_H7PnGxS48t51wOE3MEXYlikvWh9DCarNZAqBZ-4eogi8Nn0bXzCB7iigzADFsK
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249072_53058_VD_MT_fc-Web_fc-webtvbg.jpg" group-title="Fancode-Cricket", Dehradun T20 League 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788943964~_GO=Generated~acl=/mumbai/4249078_english_hls_685e433e1e48021_1ta-di_h264/*~Signature=AWDec-Fh6G4L2Km0d6_bXCEqV3K-ZHkwlO1DBXkteFKB_Cj0jUdZqDhVtIvsqGWLIFQ6lTOunu23LgWd54NNDl7SAy8D
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 AM 08-09-2026
+#LAST_UPDATE:03:32 PM 08-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -16,35 +27,27 @@ https://in-mc-flive.fancode.com/mumbai/4248628_english_hls_a8a59adb7a21615_1ta-d
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:02:21 AM 08-09-2026
+#last update time: 03:32:22 PM 08-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:02:27 AM 08-09-2026
-#EXTINF:-1 tvg-id="65033" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#last update time: 3:32:27 PM 08-09-2026
+#EXTINF:-1 tvg-id="65086" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Test.jpg" group-title="LIVE", Test - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788930148-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-51fda579d08036eead14786474652d86
-#EXTINF:-1 tvg-id="55193" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20Reds%20vs%20Los%20Angeles%20Dodgers.jpg" group-title="LIVE", Cincinnati Reds vs Los Angeles Dodgers - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788946348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-12d9969797450802932e086e64cf3b67
+#EXTINF:-1 tvg-id="60248" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AEK%20Athens%20U19%20vs%20LASK%20U19.jpg" group-title="LIVE", AEK Athens U19 vs LASK U19 - UEFA Youth League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/262811/720p/chunks.m3u8?is_vip=false&token=1788930150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f9bd7d4fc811c249c24497d844f3ad3f
-#EXTINF:-1 tvg-id="55194" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Athletics.jpg" group-title="LIVE", Toronto Blue Jays vs Athletics - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/262812/720p/chunks.m3u8?is_vip=false&token=1788930151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-66d0e00e8819527fc5177a5a398735be
-#EXTINF:-1 tvg-id="53639" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utrecht%20vs%20GO%20Ahead%20Eagles.jpg" group-title="Football", Utrecht vs GO Ahead Eagles - Eredivisie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6250dd162774a7b94-hd/chunks.m3u8?is_vip=false&token=1788930154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c9570fecb6d2667deae68629037d539f
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1162-backup/chunks.m3u8?is_vip=false&token=1788946349-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d915b7668da19ff415aa7da47255f45a
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-08 11:02:21 AM (BD Time)"
+#"last updated": "2026-09-08 03:32:22 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:02 AM 08-09-2026
+#LAST_UPDATE:03:32 PM 08-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
