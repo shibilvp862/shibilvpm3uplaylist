@@ -1,55 +1,80 @@
 #EXTM3U
-#DATE:- 10-09-2026 02:40
+#DATE:- 10-09-2026 15:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode-Cricket", ACC Men’s Premier Cup 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248629_english_hls_47ae1857555044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789089015~_GO=Generated~acl=/mumbai/4248629_english_hls_47ae1857555044_1ta-di_h264/*~Signature=AWDec-Hffh7N4T6f6Jpt6ZZ1EhdkPlVNZjZn25GwXcBeh9ZBYUPrYNfvF_jHOokyK_B1XfQg0DrnTRpd-IlzNNuvXuED
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ACC-Mens-Premier_Web-match-card.png" group-title="Fancode-Cricket", ACC Men’s Premier Cup 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248630_english_hls_471be24df537472_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789089016~_GO=Generated~acl=/mumbai/4248630_english_hls_471be24df537472_1ta-di_h264/*~Signature=AWDec-EJwbIF9RjdBvVTSJJMRPTnwCWJHBcePeUARiYpgi5-1X9p63mhtyTh6MV53JpoBGAaL__trzG4-_C-TvbDe_QM
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090541867" tvg-name="Pakistan Tour of England 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" tvg-language="English" group-title="Cricket",ENG | Day 2 - 3rd Test - 10 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/criclive1009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7420defe27e52e0d9045387c32eb86b5-1789032604242
+#EXTINF:-1 tvg-id="1090541928" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg" tvg-language="Hindi" group-title="Cricket",HIN | Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/criclive1009/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7420defe27e52e0d9045387c32eb86b5-1789032604242
+#EXTINF:-1 tvg-id="1090541928" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg" tvg-language="Punjabi" group-title="Cricket",PAN | Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/criclive1009/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7420defe27e52e0d9045387c32eb86b5-1789032604242
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Hindi]
+https://in-mc-flive.fancode.com/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789110219~_GO=Generated~acl=/mumbai/4249128_hindi_hls_e8a3e28acd32726_1ta-di_h264/*~Signature=AWDec-EH6gQa6K2zQIXIRbae6-oyenR8JZtdjPMeT2yULn4ZuLPO-_siC7e8dTQGg1GnwUEVm9zkACIk9zDZfQJ9fXEO
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249130_53065_JLD_AMS_fc-web_1788345784035.jpg" group-title="Fancode-Cricket", Sher-E-Punjab T20, 2026 [Punjabi]
+https://in-mc-flive.fancode.com/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789110220~_GO=Generated~acl=/mumbai/4249128_punjabi_hls_2401940d2f61151_1ta-di_h264/*~Signature=AWDec-Gp6jzZFFdCvxFT3q_YygqJHl0xfZ0nRXP3halg6MF1Bu7-6auQvR_4Z-m5xq60kmlazun0lEiYvZK9JA2Y5_sG
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249157_53067_UGA_BOT_FC-Web.png" group-title="Fancode-Cricket", ILT20 Africa Continent Cup 2026 [English]
+https://in-mc-flive.fancode.com/out/v1/ap-south-1/4249157_english_735710/ad-h264/index__1080p.m3u8?hdntl=Expires=1789110830~_GO=Generated~acl=/out/v1/ap-south-1/4249157_english_735710/ad-h264/*~Signature=AWDec-FSNDbfwSkd3WEGxd8DEWrlJtZHRQaiXQv2od7Lw891WEev6LFcge1nyFIuIbDZ3nZnYPKLSN6MNiPf6ZJElPUM
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:02 AM 10-09-2026
+#LAST_UPDATE:03:02 PM 10-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
+#EXTINF:-1 tvg-id="B0H96VKKNZ" tvg-name="European T20 Premier League 2026 - 19th Match - Rotterdam Dockers vs Glasgow Cosmics" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c19ac0f4-5b4e-4f00-a626-480513e2acc7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 19th Match - Rotterdam Dockers vs Glasgow Cosmics
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f845e1d42f316d417832a85f7220a0ce:3bf20a24044bb618803fd30587d76f98
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ddpqelkfv5/out/v1/c0a306b95c39411ea495200a75e80882/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFBLHW8K" tvg-name="Pakistan tour of England 2026 - 3rd Test - England vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9b23088-fada-406a-85e6-7777582d9803/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan tour of England 2026 - 3rd Test - England vs Pakistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0ec9d372efb70167bf3db05c963393:bd54e2afc4ece7d3853080cd601ea0ad
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kuqdfxtlty/out/v1/6159375de7de4fee9f81b7a9bc8cc61c/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:02:54 AM 10-09-2026
+#last update time: 03:32:53 PM 10-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:02:25 AM 10-09-2026
-#EXTINF:-1 tvg-id="65133" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
+#last update time: 3:47:26 PM 10-09-2026
+#EXTINF:-1 tvg-id="55779" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manawat%C5%AB%20vs%20Taranaki.jpg" group-title="LIVE", Manawatū vs Taranaki - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789102946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b7b538473219a6f12c86d586d4963f54
-#EXTINF:-1 tvg-id="58339" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CD%20Motagua%20vs%20Alianza.jpg" group-title="LIVE", CD Motagua vs Alianza - CONCACAF Central American Cup
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789120047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a11692f3faadb9a84fe7063fee2642d
+#EXTINF:-1 tvg-id="61004" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Sydney%20Roosters.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Sydney Roosters - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a99d8f3fbc4c8ef09f8f189/chunks.m3u8?is_vip=false&token=1789102948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5b63237ba3eb72f1012fbeaeae441691
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789120049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-077c4e2fa658da0db9ec2fb0af81cfe9
+#EXTINF:-1 tvg-id="55726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789120050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-632001aec5244f2dae8ef0c592721c23
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-10 11:02:53 AM (BD Time)"
+#"last updated": "2026-09-10 03:32:53 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:02 AM 10-09-2026
+#LAST_UPDATE:03:02 PM 10-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:2
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HH9R3Q2N" tvg-name="Motagua vs. Alianza FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2f805a10-80aa-4b1d-b0bd-5020d431e926/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Motagua vs. Alianza FC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-id="B0HHMZQ2Q8" tvg-name="Triton ONE Poker Series Jeju II-$40K NLH 7-Handed Mystery Bounty" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.f6005b77-a8aa-43dd-be7a-b22a8230691e/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$40K NLH 7-Handed Mystery Bounty
+#EXTINF:-1 tvg-id="B0HHMZQ2Q8" tvg-name="Triton ONE Poker Series Jeju II-$40K NLH 7-Handed Mystery Bounty" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.f6005b77-a8aa-43dd-be7a-b22a8230691e/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$40K NLH 7-Handed Mystery Bounty
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHLJ2NQV" tvg-name="Manawatu v Taranaki" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.7020bcc9-8926-4762-8f88-86227ccdef67/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manawatu v Taranaki
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
