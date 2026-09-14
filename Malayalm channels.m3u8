@@ -147,10 +147,56 @@ https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="Entertainment",NTV UAE (Backup)
 https://stream.logichost.in/NTV/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="Entertainment",Magnavision TV
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="Bhoom TV",Magnavision TV
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.mediaoneonline.com/h-upload/2026/06/17/1555985-rfgxf.webp" group-title="Entertainment",Kerala GTPL TV
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.mediaoneonline.com/h-upload/2026/06/17/1555985-rfgxf.webp" group-title="Bhoom TV",Kerala GTPL TV
 https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",South Vision
+https://live.skystream.in/live/southvsnklm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Media Plus
+https://live.applelive.in/mediaplus/mediaplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",K7 Keralam
+https://live.skystream.in/live/keralam2742/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",UTV Utsav
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",KCN Kasaragod
+https://live.skystream.in/live/kcnksrgod/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",City Channel Kasargod
+https://live.skystream.in/live/citytv2924/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",City Vision Kannur
+https://live.skystream.in/live/citykannurcity/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Network Payyanur
+https://live.skystream.in/live/networkpayyanur/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Drishya TV
+https://live.skystream.in/live/drishya5060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",CTV Mukkam
+https://live.skystream.in/live/ctv1805/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Drisya TV
+https://live.skystream.in/live/drishyakarunagapally/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Kerala Today
+https://live.skystream.in/live/krlatoday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Thanima TV
+https://live.skystream.in/live/thanimatvtvm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Media Today
+https://live.skystream.in/live/mediatday/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",GTV
+https://play.applelive.in/gtv/gtv.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",GTV MAX
+https://play.applelive.in/gtvmax/gtvmax.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Pravasi Channel HD
+https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",N Media Channel
+https://live.skystream.in/live/newmedia2924/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Malabar Channel
+https://logichost.keralive.workers.dev/live/malabarnews/chunklist_w329993801.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Malabar Plus
+https://logichost.keralive.workers.dev/live/mplus/chunklist_w1840591662.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",KVTV
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Swantham Channel
+https://logichost.keralive.workers.dev/SWANTHAM/live/chunklist_w262057325.m3u8
 
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV (Backup 1)
 https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
@@ -160,15 +206,7 @@ https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
-#EXTINF:-1 tvg-id="Surya TV HD" tvg-name="Surya TV HD" group-title="Testing" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194397/1000x1000_SuryaTVHD_194397_2b1e9c9f-aa44-4e7b-9419-381d693c64b7.jpg",Surya TV HD
-https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
-#EXTINF:-1 tvg-id="Surya Movies" tvg-name="Surya Movies" group-title="Testing" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_8dc848fa-4446-459c-a96a-eeb54504d6c7.jpg",Surya Movies
-https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 
 #EXTINF:80,Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
