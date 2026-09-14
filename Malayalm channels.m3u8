@@ -110,16 +110,11 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="Entertainment",Asianet HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="Entertainment",Asianet USA
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianet_us_https/index.m3u8
+
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.epgschedule.com/images/channels/asianet-movies-hd.png" group-title="Entertainment",Asianet Movies HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.epgschedule.com/images/channels/asianet-movies-hd.png" group-title="Entertainment",Asianet Movies (Backup)
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.epgschedule.com/images/channels/asianet-movies-hd.png" group-title="Entertainment",Asianet Movies USA
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_us_https/index.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2h7nw0VhSpU_925-BhNSihGw6MDtwikGVdHrFu-i4PA&s=10" group-title="Entertainment",Asianet Plus
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
+
+
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7LZiPDxEJlCVILcKKvwiDFlqqWLGOW0nZMCpttYsAQ&s=10" group-title="Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNZdzPPmmjUG8HnUzWdTvNUAfYpQ-fb-mbmnPgYDVuw&s=10" group-title="Entertainment",Amrita TV
@@ -128,23 +123,22 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdN7_yezyVuA3Yz-SLPC0YT_fh9KjAUOK_FOsuWN4cMQ&s=10" group-title="Entertainment",Middle East
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama FHD
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama 1080P
 https://mmtv-mazhavil.vgcdn.net/vglive-sk-268476/686269C50000FBC09C95-p01080.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama HD
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama HD - AQ
 https://mmtv-mazhavil.vgcdn.net/vglive-sk-268476/index.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama 1080 P
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama FHD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_1.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama 720 P
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_2.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama (Backup)
-https://mazhavil.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mm_https/index.m3u8
+
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="Entertainment",WE
 https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="Entertainment",WE (Backup)
 https://streams.tangotv.in/WETV/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV (Backup 2)
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
@@ -157,36 +151,14 @@ https://stream.logichost.in/NTV/live/playlist.m3u8
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.mediaoneonline.com/h-upload/2026/06/17/1555985-rfgxf.webp" group-title="Entertainment",Kerala GTPL TV
 https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7bffcvEmuoFOk1BrCEV-yahiURBB5WJUy70g8X6l4g&s" group-title="Entertainment",Janapriyam TV
-https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV (Backup 1)
 https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV (Backup 2)
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Mazhavil HD (Backup 2)
-https://b4uplay.com/player.php?mpd=https://login.bheem.tv/bpk-tv/22020/output/index.mpd
-https://b4uplay.com/player.php?mpd=https://login.bheem.tv/bpk-tv/22020/output/index.mpd?&keyId=37b4403a66f2565da33ba3b5704bb178&key=449f87256b3c1d7c2cdcbe04cbfd5530
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
-#EXTINF:-1 tvg-id="Surya TV HD" tvg-name="Surya TV HD" group-title="sun net" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194397/1000x1000_SuryaTVHD_194397_2b1e9c9f-aa44-4e7b-9419-381d693c64b7.jpg",Surya TV HD
-https://b4uplay.com/sunxt/livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_P_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
-#EXTINF:-1 tvg-id="Surya Movies" tvg-name="Surya Movies" group-title="Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_8dc848fa-4446-459c-a96a-eeb54504d6c7.jpg",Surya Movies
-https://b4uplay.com/sunxt/livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
-#EXTINF:-1 tvg-id="Surya Movies" tvg-name="Surya Movies" group-title="Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_8dc848fa-4446-459c-a96a-eeb54504d6c7.jpg",Surya Comedy
-https://b4uplay.com/sunxt/livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
 
 #EXTINF:80,Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
