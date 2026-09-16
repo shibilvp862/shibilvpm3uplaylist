@@ -1,10 +1,10 @@
 #EXTM3U
 #DATE:- 16-09-2026 02:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png" group-title="Fancode-Cricket", United Arab Emirates tour of Malaysia, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249259_english_hls_3c7f3d2d4c83616_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789608991~_GO=Generated~acl=/mumbai/4249259_english_hls_3c7f3d2d4c83616_1ta-di_h264/*~Signature=AVl424PEtBM_Rxhfv74CUDDTdQLeW2Ije6jBhRGZ0UE0zBuHXIeuscHcYtnb-WIlxNKL00y0OXRge0vGY-PeGOE5qPYB
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249167_53067_BOT_UGA_FC-Web.png" group-title="Fancode-Cricket", ILT20 Africa Continent Cup 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:32 AM 16-09-2026
+#LAST_UPDATE:03:32 PM 16-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -14,34 +14,40 @@ https://in-mc-flive.fancode.com/mumbai/4249259_english_hls_3c7f3d2d4c83616_1ta-d
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:32:58 AM 16-09-2026
+#last update time: 03:32:52 PM 16-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:47:56 AM 16-09-2026
+#last update time: 3:32:25 PM 16-09-2026
 #EXTINF:-1 tvg-id="69066" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202.jpg" group-title="LIVE", Day 2 - FIBA 3x3 U23 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789620477-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2ba94232083e93f024029adf5300780e
-#EXTINF:-1 tvg-id="64110" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Miami%20Marlins%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Miami Marlins vs Arizona Diamondbacks - MLB
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789637546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3cdd21305527abac787239c3f66f2ad7
+#EXTINF:-1 tvg-id="69203" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Banner%20Promotions%20Boxing%20Classics.jpg" group-title="LIVE", Banner Promotions Boxing Classics - Banner Promotions Boxing Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55849/720p/chunks.m3u8?is_vip=false&token=1789620479-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5f947ceb8ec0cfea166093a89c18757a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/268277/720p/chunks.m3u8?is_vip=false&token=1789637548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-10c349c6d142b5f80bd80b0c02ee37e8
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-16 10:32:57 AM (BD Time)"
+#"last updated": "2026-09-16 03:32:52 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:32 AM 16-09-2026
+#LAST_UPDATE:03:32 PM 16-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HCMJBQ22" tvg-name="U23 World Cup: Day 2, Session 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.be917938-2420-4350-ab1e-fad66db3b255/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",U23 World Cup: Day 2, Session 2
+#EXTINF:-1 tvg-id="B0HHS1JMWR" tvg-name="Triton ONE Poker Series Jeju II-$100K NLH Main Event" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a020e819-074f-4e73-8308-79e1e40c59ec/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$100K NLH Main Event
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJ99PTGW" tvg-name="U23 World Cup: Day 2, Session 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.68131d64-bea2-4ebc-8f2d-de836dead56d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",U23 World Cup: Day 2, Session 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
