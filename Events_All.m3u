@@ -1,53 +1,137 @@
 #EXTM3U
 #DATE:- 16-09-2026 02:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249167_53067_BOT_UGA_FC-Web.png" group-title="Fancode-Cricket", ILT20 Africa Continent Cup 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789629598~_GO=Generated~acl=/mumbai/4249167_english_hls_7def5e95a646506_1ta-di_h264/*~Signature=AVl424NXmYGldDwz4uOyJZ6uF7JriEiDU8oTwwcmubd1-xBosXeYKxNvBx2NrQFF1gLF-hRqZ8y4wLgixv-oNqYUI4QH
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249168_53067_SRL_RWA_FC-Web.png" group-title="Fancode-Cricket", ILT20 Africa Continent Cup 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249168_english_hls_9ab02b931e3106_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789644140~_GO=Generated~acl=/mumbai/4249168_english_hls_9ab02b931e3106_1ta-di_h264/*~Signature=AVl424OHBnZO8nvHI17APBjYTjHV0Wu2TvdQlig6qrq0J9lWi02TWdAE1OWzq01k6oABQJ2LSkVph8w0JPu4lLcnGMAH
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249245_53070_ADK_GGD_FC-Web.png" group-title="Fancode-Cricket", DP World ILT20 Development Tournament 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249245_english_hls_aa9c255b7418566_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789649600~_GO=Generated~acl=/mumbai/4249245_english_hls_aa9c255b7418566_1ta-di_h264/*~Signature=AVl424Oip60gT9_ECSuYqo5GzRUxa4VKWNL9iuL2ggLT3MIUq3BgxiDRikkzM0MA5ozXY2U8TLmSuytEnadhcy4-4xsD
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249093_53061_GUY-W_BT-W_FC-Web_1788430024925.png" group-title="Fancode-Cricket", Women's Caribbean Premier League, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249094_english_hls_15c98ecb1454641_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789652024~_GO=Generated~acl=/mumbai/4249094_english_hls_15c98ecb1454641_1ta-di_h264/*~Signature=AVl424O3cbLtMxy27dZF7q0eUTILBUqaz8N5m1b6lg6Qa5eedCHRp4wP0T3jIQB7IDcGFPS67mtrNN41J8o62OpewlMC
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248695_53053_PFC_VIS_fc-web.jpg" group-title="Fancode-Football", AFC Champions League Elite 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4248695_english_hls_a87abea81e84273_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789646568~_GO=Generated~acl=/mumbai/4248695_english_hls_a87abea81e84273_1ta-di_h264/*~Signature=AVl424NcVtbo2Vt2UwmRPBJqSzqGU-1CtCIIdJwdToWLMgJNvRqaCP1zoqhSCRvMISP7-pYbYSNMAFd1kkP_-94p8s8F
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248962_53057_CV_MLV_fc-web_1789025065319.jpg" group-title="Fancode-Football", AFC Champions League Two 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4248962_english_hls_e2ce8076ed74989_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789646570~_GO=Generated~acl=/mumbai/4248962_english_hls_e2ce8076ed74989_1ta-di_h264/*~Signature=AVl424O1S0F_bOa_j6eaxnhkXxZIf34CiGyYuXujD0o5Cw8v1UIeR0SQeSZqWi6nOMqQu-IC4JkxjoWpZRjQkMZ3ysMI
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 16-09-2026
+#LAST_UPDATE:08:02 PM 16-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:7
+#LIVE_COUNT:2
+#UPCOMING_COUNT:5
+#EXTINF:-1 tvg-id="B0HGVJ53NQ" tvg-name="European T20 Premier League 2026 - 28th Match - Glasgow Cosmics vs Amsterdam Flames" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9bd716b-2554-4e39-b23b-5de7287157e0/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",European T20 Premier League 2026 - 28th Match - Glasgow Cosmics vs Amsterdam Flames
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72c45829112c36ea39177f661043a4d1:ba4388e2df24761496415881d73ee373
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z8ett7bmxa/out/v1/de11f96c14754e4fb2c2a10e15c79289/cenc.mpd
+#EXTINF:-1 tvg-id="B0H86X7D1G" tvg-name="Womens Caribbean Premier League 2026 - Play-Off -Barbados Tridents Women vs Guyana Amazon Warriors Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8131618f-d5b0-4fcd-ae11-5737a281d7b5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Caribbean Premier League 2026 - Play-Off -Barbados Tridents Women vs Guyana Amazon Warriors Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=863be6e9b89112e9dde3ac9b9a2d19a6:2a951608542047e41ee47f35321db1fc
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kb3jthsigm/out/v1/7961dc758db74f4dad07808037385cca/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:32:52 PM 16-09-2026
+#last update time: 08:02:55 PM 16-09-2026
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=CpN0ZTW0D8LEuiYyfgx5Cw&expires=1789572038&ch=willowsd&s=83e3d45312b7d08e7a057af2c389b985
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=B46t5nxnmqWFTSXzUJtDJQ&expires=1789572041&ch=star2cl5&s=459c83db3e62a01501dc51cb46298285
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=4S2a0fWmmXjDRNNl3xSi7g&expires=1789572044&ch=hdwillos5&s=8df57c6eec06e76e01372889668dd782
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - CricGo 5
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=70YDkhxBb7AiAsX-BMIkhQ&expires=1789572053&ch=cricgo5&s=1041d321895cb6024146a34580cc8256
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - TNT Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=rq-1Lfo6V-z_46WI9Yq12w&expires=1789572056&ch=bbtsvp2&s=bbc446e16c16def3f154ded7e1e0382b
+# --- 24/7 Channels ---
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:32:25 PM 16-09-2026
+#last update time: 8:17:26 PM 16-09-2026
 #EXTINF:-1 tvg-id="69066" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202.jpg" group-title="LIVE", Day 2 - FIBA 3x3 U23 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789637546-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3cdd21305527abac787239c3f66f2ad7
-#EXTINF:-1 tvg-id="69203" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Banner%20Promotions%20Boxing%20Classics.jpg" group-title="LIVE", Banner Promotions Boxing Classics - Banner Promotions Boxing Classics
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789654647-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6d124ccb1442eb0e6d0f58d495f215ad
+#EXTINF:-1 tvg-id="62311" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Enisey%20vs%20Arsenal%20Tula.jpg" group-title="LIVE", Enisey vs Arsenal Tula - First League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/268277/720p/chunks.m3u8?is_vip=false&token=1789637548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-10c349c6d142b5f80bd80b0c02ee37e8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a97d/chunks.m3u8?is_vip=false&token=1789654649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9089bd65021f17be696357009059e0fe
+#EXTINF:-1 tvg-id="64083" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cosmics%20vs%20Flames.jpg" group-title="LIVE", Cosmics vs Flames - ETPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789654653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0eb55cf6016a89f8864294605e5ce6bc
+#EXTINF:-1 tvg-id="69204" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grand%20Prix%20Wallonie.jpg" group-title="LIVE", Grand Prix Wallonie - UCI ProSeries Cycling
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1789654655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6bdbf5658dca87228cadcc8a63140950
+#EXTINF:-1 tvg-id="61643" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bucaspor%201928%20vs%20Gaziemirspor.jpg" group-title="LIVE", Bucaspor 1928 vs Gaziemirspor - Türkiye Kupası
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96630093add94b37a7fc11/chunks.m3u8?is_vip=false&token=1789654658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6038d11467d02f3076ac66f1fdc81d42
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-16 03:32:52 PM (BD Time)"
+#"last updated": "2026-09-16 08:02:51 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 PM 16-09-2026
+#LAST_UPDATE:08:02 PM 16-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:9
 #UPCOMING_COUNT:0
 #EXTINF:-1 tvg-id="B0HHS1JMWR" tvg-name="Triton ONE Poker Series Jeju II-$100K NLH Main Event" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a020e819-074f-4e73-8308-79e1e40c59ec/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Triton ONE Poker Series Jeju II-$100K NLH Main Event
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
-#EXTINF:-1 tvg-id="B0HJ99PTGW" tvg-name="U23 World Cup: Day 2, Session 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.68131d64-bea2-4ebc-8f2d-de836dead56d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",U23 World Cup: Day 2, Session 3
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJNC8H23" tvg-name="BMW PGA Championship Celebrity Pro-Am" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.3ecb02c4-a363-4f5a-be89-c322a1ba1825/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",BMW PGA Championship Celebrity Pro-Am
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoaryfkyeh/out/v1/63e8364f9ad047a7bb1c4a9a8d754f42/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJ5MJQNY" tvg-name="Tennis Today-Sao Paulo-WTA & Guadalajara-WTA Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.294bd19b-549c-413f-ab33-ceeacf97cedb/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today-Sao Paulo-WTA & Guadalajara-WTA Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HGDJHPVH" tvg-name="U23 World Cup: Day 2, Session 5" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.81900be0-dd7d-4e09-916e-cab00767c20e/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",U23 World Cup: Day 2, Session 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HGFYNFP4" tvg-name="U23 World Cup: Day 2, Session 4" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.4e857d08-0143-464b-833d-9ade876b6e94/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",U23 World Cup: Day 2, Session 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1 tvg-id="B0HGF2QGHC" tvg-name="Cricket Preview-WCPL 2026: Tridents vs Warriors - Playoff" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.9ebffe52-78b5-4678-b4f1-c305f77098bb/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Preview-WCPL 2026: Tridents vs Warriors - Playoff
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HG9SB7G1" tvg-name="Playoff: Barbados Tridents vs. Guyana Amazon Warriors" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.02edaaec-d784-43b9-90a8-56a877d5698e/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Playoff: Barbados Tridents vs. Guyana Amazon Warriors
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
