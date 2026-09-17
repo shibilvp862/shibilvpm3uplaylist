@@ -151,8 +151,12 @@ https://stream.logichost.in/NTV/live/playlist.m3u8
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.mediaoneonline.com/h-upload/2026/06/17/1555985-rfgxf.webp" group-title="Bhoom TV",Kerala GTPL TV
 https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",South Vision
 https://live.skystream.in/live/southvsnklm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Kasaragod Vision
+https://live.skystream.in/live/kasaragodvsn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Media Plus
 https://live.applelive.in/mediaplus/mediaplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",K7 Keralam
@@ -195,8 +199,10 @@ https://logichost.keralive.workers.dev/live/malabarnews/chunklist_w329993801.m3u
 https://logichost.keralive.workers.dev/live/mplus/chunklist_w1840591662.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",KVTV
 https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Swantham Channel
-https://logichost.keralive.workers.dev/SWANTHAM/live/chunklist_w262057325.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Cranganore TV
+https://live.applelive.in/cranganorechannel/cranganorechannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Vibgyor TV
+https://livestream.vibgyortv.com/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV (Backup 1)
 https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
@@ -206,17 +212,29 @@ https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHFADDdHkTpQB3J5b8Jp6SHWYKU8Ic_GOpfiQ1XInoA&s" group-title="ENGLISH MOVIES",HBO
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyieEkoTcM9sXhwxTdXNmWanzcK0ksSY-uxXJ20Ztsmw&s=10" group-title="ENGLISH MOVIES",Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6AoEzp9V7L-XxSUJ8XtKH2c9JWKVoi5E2cGjAj9QpQ&s=10" group-title="ENGLISH MOVIES",Movies Now HD
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtTy2BYDYPmOlYrt0L1yXn_znwtWOFj_V_l1YCekdLoe0MCeo0Gey9W4a&s" group-title="ENGLISH MOVIES",MNX HD
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbtTy2BYDYPmOlYrt0L1yXn_znwtWOFj_V_l1YCekdLoe0MCeo0Gey9W4a&s" group-title="ENGLISH MOVIES",MN Plus HD
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 
-#EXTINF:80,Pulari TV
-https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:39,Anand TV
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:30,VCV
-https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:0,MagnavisionTV.uk
-https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
-#EXTINF:30,Starnet
-https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:30,Vision TV
-http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
