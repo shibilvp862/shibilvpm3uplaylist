@@ -1,76 +1,98 @@
 #EXTM3U
-#DATE:- 21-09-2026 05:40
+#DATE:- 21-09-2026 09:01
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090541376" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg" tvg-language="English" group-title="Sepaktakraw",ENG | India vs Japan - Sepaktakraw Regu - 21 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ed4e2dec7ec8f2992100160586bdcfd-1789949402412
-#EXTINF:-1 tvg-id="1090541386" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Badminton",ENG | Men's Badminton - 21 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ed4e2dec7ec8f2992100160586bdcfd-1789949402412
-#EXTINF:-1 tvg-id="1090541379" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/landscapeThumb/1789948826929_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Hockey",ENG | Republic of Korea vs Kazakhstan - Women - Hockey - 21 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/AG_DX1_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ed4e2dec7ec8f2992100160586bdcfd-1789949402412
+#EXTINF:-1 tvg-id="1090541381" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789935275936758_AG26_21st_Sep_Mixed_Martial_Art_Hui_Hoon_vs_Suchika_live_landscape_thumb.jpg" tvg-language="English" group-title="Mixed Martial Arts",ENG | India In Action - Mixed Martial Arts - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/AG_Strea2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541381" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789935275936758_AG26_21st_Sep_Mixed_Martial_Art_Hui_Hoon_vs_Suchika_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Mixed Martial Arts",KAN | India In Action - Mixed Martial Arts - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/AG_Strea2009/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541381" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789935275936758_AG26_21st_Sep_Mixed_Martial_Art_Hui_Hoon_vs_Suchika_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Mixed Martial Arts",TAM | India In Action - Mixed Martial Arts - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/AG_Strea2009/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541381" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789935275936758_AG26_21st_Sep_Mixed_Martial_Art_Hui_Hoon_vs_Suchika_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Mixed Martial Arts",TEL | India In Action - Mixed Martial Arts - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/AG_Strea2009/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541854" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024331/1789958648142820_AG26_Shooting_10m_Air_Rifle_Individual_Final_Himanshu_and_Rudrankksh_live_landscape_thumb.jpg" tvg-language="English" group-title="Shooting",ENG | India In Action - Shooting - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/AG_DX8_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541385" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg" tvg-language="Hindi" group-title="Sports",HIN | Day 3 - 21 Sep 2026 (Hindi)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/AG_Strea2009/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090543296" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024329/178995015949780_AG26_21st_Sep_Hockey_Womens_India_vs_Indonesia_live_landscape_thumb.jpg" tvg-language="English" group-title="Sports",ENG | India vs Indonesia - Women's Hockey - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/AG_Hocke2109/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090543296" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024329/178995015949780_AG26_21st_Sep_Hockey_Womens_India_vs_Indonesia_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="Sports",KAN | India vs Indonesia - Women's Hockey - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/AG_Hocke2109/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090543296" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024329/178995015949780_AG26_21st_Sep_Hockey_Womens_India_vs_Indonesia_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="Sports",TAM | India vs Indonesia - Women's Hockey - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/AG_Hocke2109/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090543296" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024329/178995015949780_AG26_21st_Sep_Hockey_Womens_India_vs_Indonesia_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="Sports",TEL | India vs Indonesia - Women's Hockey - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/AG_Hocke2109/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090543296" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024329/178995015949780_AG26_21st_Sep_Hockey_Womens_India_vs_Indonesia_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="Sports",HIN | India vs Indonesia - Women's Hockey - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/AG_Hocke2109/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541376" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Beach Volleyball",ENG | Beach Volleyball - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541386" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Boxing",ENG | Boxing - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541379" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/landscapeThumb/1789955667750_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Hockey",ENG | People's Republic of China vs Chinese Taipei - Women - Hockey - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/AG_DX1_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
 #EXTINF:-1 tvg-id="1090541380" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Badminton",ENG | Men's Badminton - 21 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ed4e2dec7ec8f2992100160586bdcfd-1789949402412
-#EXTINF:-1 tvg-id="1090541855" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Badminton",ENG | Malaysia vs Mongolia - Men's Team - Badminton - 21 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ed4e2dec7ec8f2992100160586bdcfd-1789949402412
-#EXTINF:-1 tvg-id="1090541369" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Hockey",ENG | Korea vs Kazakhstan - Women's Hockey - 21 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ed4e2dec7ec8f2992100160586bdcfd-1789949402412
-#EXTINF:-1 tvg-id="1090541378" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Kabaddi",ENG | Men's & Women's - Kabaddi - 21 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/AG_DX3_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2ed4e2dec7ec8f2992100160586bdcfd-1789949402412
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248286_53026_JK_ABF_FC-Web_1786367986999.png" group-title="Fancode-Cricket", Caribbean Premier League, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4248317_english_hls_869fdbab9867479_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790030105~_GO=Generated~acl=/mumbai/4248317_english_hls_869fdbab9867479_1ta-di_h264/*~Signature=AVl424PEDteNkdNth-cscnsHI-pBzVsRIvwFjnW6dZw5JjtwsCzEMoqgREQT1ZrKgaSP7vWLwjJQSlbhXxkQJFpoP9ML
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541387" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Table Tennis",ENG | Table Tennis - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/AG_DX6_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541853" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/landscapeThumb/1789959590635_1789299020142348_AG26_Handball_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Handball",ENG | Hong Kong China vs Japan - Men - Handball - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/AG_DX7_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541855" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Boxing",ENG | Boxing - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541369" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Hockey",ENG | Women's Hockey - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541378" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/landscapeThumb/1789960470185_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Kabaddi",ENG | IR Iran vs Japan - Women's Team - Kabaddi - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/AG_DX3_22009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
+#EXTINF:-1 tvg-id="1090541377" tvg-name="20th Asian Games Aichi-Nagoya 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" tvg-language="English" group-title="Swimming",ENG | Heats - Swimming - 21 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/AG_AGMDS2109/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9459230139ec5973bdeea4d483fc5ee6-1789961404325
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 AM 21-09-2026
+#LAST_UPDATE:11:02 AM 21-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
+#LIVE_COUNT:0
 #UPCOMING_COUNT:13
-#EXTINF:-1 tvg-id="B0HH696TQ4" tvg-name="Caribbean Premier League 2026 - Final- Antigua And Barbuda Falcons vs Jamaica Kingsmen" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.786bb2e1-1782-474f-a89f-e7bdda656461/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Caribbean Premier League 2026 - Final- Antigua And Barbuda Falcons vs Jamaica Kingsmen
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a983a40b395d5c3fc017322b8c4b1695:559dd7742a6c8dd7be5edb904a9a550f
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqttnrpszn/out/v1/4e3561c0771c46aaa625bff2338290da/cenc.mpd
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:02:16 AM 21-09-2026
-# --- Cricket Live Events ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs Antigua and Barbuda Falcons - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=oXFoVB3zePDf68_FRSQrMQ&expires=1789953639&ch=willowsd&s=29c50e583607f777e5adbc467cbe6f1e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs Antigua and Barbuda Falcons - Star Sports 2
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=OxChPBVZKN02sGQEi_hU0w&expires=1789953642&ch=star2cl5&s=f741af7b00ae83002b26c3c43796ed1d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs Antigua and Barbuda Falcons - Willow HD
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=BUiLwagZyURtddjsAspC_Q&expires=1789953646&ch=hdwillos5&s=aa8abb68c4c0ca8d9f5b658626735c47
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs Antigua and Barbuda Falcons - CricGo 5
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/cricgo5.m3u8?md5=nAwpJLCHCQrnT0URlOC-gQ&expires=1789953649&ch=cricgo5&s=135e6db0f0e702d6f12734562f214fba
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Jamaica%20Kingsmen%20vs%20Antigua%20and%20Barbuda%20Falcons.png" group-title="Caribbean Premier League 2026", Jamaica Kingsmen vs Antigua and Barbuda Falcons - TNT Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/bbtsip3.m3u8?md5=RgtTRc_dUAmXuoR6MhEIbQ&expires=1789953653&ch=bbtsip3&s=ec6624b7b0dbf96f24ec2f1f47965df8
-# --- 24/7 Channels ---
+#last update time: 11:02:15 AM 21-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 6:26:35 AM 21-09-2026
+#last update time: 6:48:59 AM 21-09-2026
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-21 06:02:16 AM (BD Time)"
+#"last updated": "2026-09-21 09:02:19 AM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:02 AM 21-09-2026
+#LAST_UPDATE:11:02 AM 21-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
+#LIVE_COUNT:5
 #UPCOMING_COUNT:0
+#EXTINF:-1 tvg-id="B0HFHJZTYX" tvg-name="Predator Pro Billiard Series: Vietnam" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.97c308f7-4df4-4358-b7b8-5f8edb70f55c/12/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Predator Pro Billiard Series: Vietnam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HHNMTMWJ" tvg-name="Baseball: Palestine vs. Philippines" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.568369d4-8ad8-4b43-97ca-2c5efb65e288/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Baseball: Palestine vs. Philippines
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJNC8CXT" tvg-name="PPA Tour Arizona Open: Championships" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.099a0988-3222-482a-853f-23bacfab115a/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Arizona Open: Championships
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+#EXTINF:-1 tvg-id="B0HGRLFTQ2" tvg-name="Tennis Today Live-Singapore-WTA & Seoul-WTA-Live Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.6f296a98-b58d-481f-96ff-0cfa2ed19660/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Singapore-WTA & Seoul-WTA-Live Early Rounds
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
