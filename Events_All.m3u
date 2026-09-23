@@ -1,14 +1,8 @@
 #EXTM3U
 #DATE:- 23-09-2026 23:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/web-2.png" group-title="Fancode-Cricket", DP World ILT20 Development Tournament 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790268359~_GO=Generated~acl=/mumbai/4249257_english_hls_df5192654050402_1ta-di_h264/*~Signature=AUh_zpWmo80z5vsaI_CLXZvjRutJnkYoDGQZPoQc1LBKv4DfsIDhzphw8Pw4oWMr0wpTcLCLOq8COKAyMxXYuGCdu1gC
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249475_53078_CHE-W_AW-W_fc-web.jpg" group-title="Fancode-Football", UEFA Women's Champions League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275639~_GO=Generated~acl=/mumbai/4249475_english_hls_4d56f6531e38730_1ta-di_h264/*~Signature=AUh_zpWWe5bR1DDpThKdbxYSqt4CFGiqNXnsxWXRqogvcL4Dl7kIggEqYZ-tYoMAnEbAvw2qIRiS603sRGiE1qq1SaIF
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249476_53078_BAR-W_PFC-W_fc-web.jpg" group-title="Fancode-Football", UEFA Women's Champions League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249476_english_hls_66aa10223929590_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790275640~_GO=Generated~acl=/mumbai/4249476_english_hls_66aa10223929590_1ta-di_h264/*~Signature=AUh_zpWmwdCgvEy1_K6dn-p-Jh_FjH4hBjckXzKmYZOzqZXxrgrQrZPzSH0kx1NMopUGkHYKIITzxTbZhUPrfW7u2DIM
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 AM 24-09-2026
+#LAST_UPDATE:04:32 AM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -18,88 +12,48 @@ https://in-mc-flive.fancode.com/mumbai/4249476_english_hls_66aa10223929590_1ta-d
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:32:21 AM 24-09-2026
+#last update time: 04:32:24 AM 24-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 1:47:22 AM 24-09-2026
-#EXTINF:-1 tvg-id="67515" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Detroit%20Tigers.jpg" group-title="LIVE", Washington Nationals vs Detroit Tigers - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1790279246-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-89f99502282a23ab23f793a58447d1b8
-#EXTINF:-1 tvg-id="66186" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20W%20vs%20Watford%20W.jpg" group-title="LIVE", Crystal Palace W vs Watford W - WSL Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a1b/chunks.m3u8?is_vip=false&token=1790279251-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-a982154bb4830f2eed7804f2dbc6af8f
-#EXTINF:-1 tvg-id="66187" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Everton%20W%20vs%20Birmingham%20City%20W.jpg" group-title="LIVE", Everton W vs Birmingham City W - WSL Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a1a/chunks.m3u8?is_vip=false&token=1790279256-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8797e62bbce5005cf308931fd6a73a30
-#EXTINF:-1 tvg-id="66189" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20W%20vs%20Sheffield%20United%20W.jpg" group-title="LIVE", Manchester United W vs Sheffield United W - WSL Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a18/chunks.m3u8?is_vip=false&token=1790279262-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-403f0238d764290ecf09782e96e5a48d
-#EXTINF:-1 tvg-id="66190" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20W%20vs%20Aston%20Villa%20W.jpg" group-title="LIVE", Nottingham Forest W vs Aston Villa W - WSL Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a17/chunks.m3u8?is_vip=false&token=1790279267-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-8102648bc9767e28630631c9d916ccb5
-#EXTINF:-1 tvg-id="66192" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saudi%20Arabia%20vs%20Kuwait.jpg" group-title="LIVE", Saudi Arabia vs Kuwait - Gulf Cup of Nations
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a1d/chunks.m3u8?is_vip=false&token=1790279274-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-536e40b795da458e90a62d7089510aea
-#EXTINF:-1 tvg-id="66199" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20City%20FC%20W%20vs%20London%20City%20Lionesses%20W.jpg" group-title="LIVE", Leicester City FC W vs London City Lionesses W - WSL Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a20/chunks.m3u8?is_vip=false&token=1790279283-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-3ab90f66cca5dee4c4a4923d019d88e4
-#EXTINF:-1 tvg-id="66200" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brighton%20W%20vs%20Charlton%20Athletic%20W.jpg" group-title="LIVE", Brighton W vs Charlton Athletic W - WSL Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a944ca2f23cddb5af1c6a21/chunks.m3u8?is_vip=false&token=1790279290-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-5238813f5d2a0488a790fe086113661e
-#EXTINF:-1 tvg-id="66135" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20W%20vs%20Paris%20FC%20W.jpg" group-title="LIVE", Barcelona W vs Paris FC W - UEFA Champions League Women [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f2a-fancode/chunks.m3u8?is_vip=false&token=1790279299-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-fa1e220e8bfdb48c4b9ebc0ad72f4c91
-#EXTINF:-1 tvg-id="66135" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20W%20vs%20Paris%20FC%20W.jpg" group-title="LIVE", Barcelona W vs Paris FC W - UEFA Champions League Women [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f2a/chunks.m3u8?is_vip=false&token=1790279302-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-9861120103f96c9f0d8ebfbf0f74a0d4
-#EXTINF:-1 tvg-id="66142" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Austria%20Wien%20W.jpg" group-title="LIVE", Chelsea W vs Austria Wien W - UEFA Champions League Women [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f29-fancode/chunks.m3u8?is_vip=false&token=1790279308-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-1ca6ea7e079a3ab93753d3161764d1cd
-#EXTINF:-1 tvg-id="66142" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20vs%20Austria%20Wien%20W.jpg" group-title="LIVE", Chelsea W vs Austria Wien W - UEFA Champions League Women [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa9c724018287f1ce3f7f29/chunks.m3u8?is_vip=false&token=1790279315-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-09d37c08ad2e8ac91f69fe36eff5cdc8
-#EXTINF:-1 tvg-id="69926" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Turks%20and%20Caicos%20Islands%20vs%20Montserrat.jpg" group-title="LIVE", Turks and Caicos Islands vs Montserrat - CONCACAF Nations League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9fab78887f467189bd8fc2/chunks.m3u8?is_vip=false&token=1790279321-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-2d724d4095dbe4a66e5738f6de93c612
+#last update time: 4:32:29 AM 24-09-2026
 #EXTINF:-1 tvg-id="67516" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Minnesota%20Twins%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Minnesota Twins vs San Francisco Giants - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1790279326-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-88cffc5e3d3d8256f3fb0659a8655d21
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790289152-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-207d2f8ff9fef71cec29854d24ca477c
+#EXTINF:-1 tvg-id="67517" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Baltimore%20Orioles.jpg" group-title="LIVE", Toronto Blue Jays vs Baltimore Orioles - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1790289157-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-178c8fe46121410c611ded3361c405c5
+#EXTINF:-1 tvg-id="67518" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Louis%20Cardinals%20vs%20Pittsburgh%20Pirates.jpg" group-title="LIVE", St. Louis Cardinals vs Pittsburgh Pirates - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1790289164-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-63249306373dcdb0b9933b92f5b90c9f
+#EXTINF:-1 tvg-id="67519" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20Philadelphia%20Phillies.jpg" group-title="LIVE", Milwaukee Brewers vs Philadelphia Phillies - MLB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1790289170-Kv4cPTAAP5YTi-19633c5a6acbfe797bf98bf0ddffca85381412ca-37effd23dc12e510399a79e820641b52
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
 #"last updated": "2026-09-22 08:32:31 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:01:32 AM 24-09-2026
+#LAST_UPDATE:04:32 AM 24-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HJZPLX14" tvg-name="FC Barcelona vs. Paris FC" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ab36a18e-f6d8-4562-b102-9e2d87b5a2a2/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",FC Barcelona vs. Paris FC
+#EXTINF:-1 tvg-id="B0HJGVR6R4" tvg-name="FloRacing Night in America at Lincoln Park Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.a8db76d4-164d-483e-85bf-050102f66aa9/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",FloRacing Night in America at Lincoln Park Speedway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
 #EXTINF:-1 tvg-id="B0HG6GHJNT" tvg-name="Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.081b731a-539c-4b6c-add0-745e213fa3e0/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Singapore-WTA, Seoul-WTA, Chengdu-ATP & Hangzhou-ATP Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
