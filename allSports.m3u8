@@ -35,36 +35,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 2 - AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
- 
 
-#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="UK",Sky Sports Cricket HD
-http://45.12.32.190:8080/UK-SkySportsCricketFHD/video.m3u8
-#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png" group-title="UK",Sky Sports Main Event HD
-http://45.12.32.190:8080/UK-SkySportsMainEventFHD/video.m3u8
-#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" group-title="UK",Sky Sports F1 HD
-http://45.12.32.190:8080/UK-SkySportsF1FHD/video.m3u8
-
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 1 4K
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=73154
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 2 4K
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=73151
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 3 4K
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=66620
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORTS 4 4K
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=68762
-#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORTS 5 4K
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=68763
-#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 1 4K UK
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=2945
-#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 2 4K UK
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=2947
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY SPORTS ARENA 4K
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=2954
@@ -102,6 +73,30 @@ https://m3usmart4k.gojo45749.workers.dev?id=2969
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=2971
 
+
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 1 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=73154
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 2 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=73151
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORT 3 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=66620
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORTS 4 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=68762
+#EXTINF:-1 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrcb9-BOJadIHqAeNu1NItKbFUFmAGx9eStcjk-nnD26qKYtrRHpYzuc&s=10" group-title="UK",TNT SPORTS 5 4K
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=68763
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 1 4K UK
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2945
+#EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK",PREMIER SPORTS 2 4K UK
+#EXTVLCOPT:network-caching=1000
+https://m3usmart4k.gojo45749.workers.dev?id=2947
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",beiN SPORTS 1 - AQ
@@ -130,36 +125,6 @@ https://m3usmart4k.gojo45749.workers.dev?id=5292
 #EXTINF:-1 group-title="Bein Sports" group-logo="https://i.imgur.com/RLrMBlm.png" tvg-logo="https://play-lh.googleusercontent.com/WpOhOJDJBLOw2Jw-kr9Q7VzEdLMSWMLjEXJwWmEWxJk5JPx7ZUo1KdUSbOIjGiqzXg=s64-rw",BEIN SPORTS 3  - AUS -4K
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=5296
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 1 FHD
-http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f712c8a/sky-sport-2-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 2 FHD
-http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="SKY SPORTS",Sky Sports NZ 3 FHD
-http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKY SPORTS",Sky Sports NZ 4 FHD
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/xgpKcYh.png" group-title="SKY SPORTS",Sky Sports NZ 5 FHD
-http://45.12.32.190:8080/UK-SkySport5NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/nyjD1dU.png" group-title="SKY SPORTS",Sky Sports NZ 6 FHD
-http://45.12.32.190:8080/UK-SkySport6NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/iuTNWh4.png" group-title="SKY SPORTS",Sky Sports NZ 7 FHD
-http://45.12.32.190:8080/UK-SkySport7NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/2dsSm5m.png" group-title="SKY SPORTS",Sky Sports NZ 8 FHD
-http://45.12.32.190:8080/UK-SkySport8NZ/video.m3u8
-
-#EXTINF:-1 group-title="SKY SPORTS" group-logo="https://i.imgur.com/VfYEc6f.png" tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="SKY SPORTS",Sky Sports NZ 9 FHD
-http://45.12.32.190:8080/UK-SkySport9NZ/video.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sport Selet" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKY SPORTS", SkySports Selet NZ
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
 
 
 
