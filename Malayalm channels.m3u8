@@ -145,16 +145,115 @@ https://mmtv-mazhavil.vgcdn.net/vglive-sk-268476/index.m3u8
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_1.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="Entertainment",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_2.m3u8
-#EXTINF:-1 tvg-id="634" tvg-logo="https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg" group-title="Entertainment" tvg-language="Malayalam",Flower TV
+#EXTINF:-1 tvg-id="634" tvg-logo="https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg" group-title="JIO-TV" tvg-language="Malayalam",Flower TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300068
 https://streamflexsmm.in/Sflex-Jio/300068/manifest.mpd
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="Entertainment",WE
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="JIO-TV",WE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301221
 https://streamflexsmm.in/Sflex-Jio/301221/manifest.mpd
+#EXTINF:-1 tvg-id="194385" tvg-logo="https://img.media.jio.com/tvpimages/0/52/304160_1777560818833_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Sun Surya Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304160
+https://streamflexsmm.in/Sflex-Jio/304160/manifest.mpd
+#EXTINF:-1 tvg-id="193251" tvg-logo="https://img.media.jio.com/tvpimages/41/45/304164_1777561222640_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Sun Surya Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304164
+https://streamflexsmm.in/Sflex-Jio/304164/manifest.mpd
+
+#EXTINF:-1 tvg-id="194338" tvg-logo="https://img.media.jio.com/tvpimages/79/13/304169_1777562037158_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Sun Surya Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304169
+https://streamflexsmm.in/Sflex-Jio/304169/manifest.mpd
+#EXTINF:-1 tvg-id="194405" tvg-logo="https://img.media.jio.com/tvpimages/7/85/304170_1777562240118_l_medium.jpg" group-title="JIO-TV" tvg-language="Tamil",KTV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304170
+https://streamflexsmm.in/Sflex-Jio/304170/manifest.mpd
+
+#EXTINF:-1 tvg-id="194406" tvg-logo="https://img.media.jio.com/tvpimages/8/95/304173_1777562615478_l_medium.jpg" group-title="JIO-TV" tvg-language="Tamil",Sun Music HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304173
+https://streamflexsmm.in/Sflex-Jio/304173/manifest.mpd
+
+#EXTINF:-1 tvg-id="194397" tvg-logo="https://img.media.jio.com/tvpimages/28/59/304168_1777562015153_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Sun Surya HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304168
+https://streamflexsmm.in/Sflex-Jio/304168/manifest.mpd
+#EXTINF:-1 tvg-id="194403" tvg-logo="https://img.media.jio.com/tvpimages/89/89/304175_1777562804070_l_medium.jpg" group-title="JIO-TV" tvg-language="Tamil",Sun TV HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304175
+https://streamflexsmm.in/Sflex-Jio/304175/manifest.mpd
+#EXTINF:-1 tvg-id="1641" tvg-logo="https://img.media.jio.com/tvpimages/40/42/304104_1768465442420_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Zee Keralam HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304104
+https://streamflexsmm.in/Sflex-Jio/304104/manifest.mpd
+#EXTINF:-1 tvg-id="3431" tvg-logo="https://img.media.jio.com/tvpimages/91/68/304062_1764845049241_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Discovery HD Malayalam
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304062
+https://streamflexsmm.in/Sflex-Jio/304062/manifest.mpd
+#EXTINF:-1 tvg-id="1139	" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199067845_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Asianet Plus	
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302109
+https://streamflexsmm.in/Sflex-Jio/302109/manifest.mpd
+#EXTINF:-1 tvg-id="1118" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237028_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Asianet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302101
+https://streamflexsmm.in/Sflex-Jio/302101/manifest.mpd
+#EXTINF:-1 tvg-id="1153" tvg-logo="https://img.media.jio.com/tvpimages/47/31/302099_1753203207304_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Asianet Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302099
+https://streamflexsmm.in/Sflex-Jio/302099/manifest.mpd
+#EXTINF:-1 tvg-id="443" tvg-logo="https://img.media.jio.com/tvpimages/42/10/301975_1753198997038_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Asianet HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301975
+https://streamflexsmm.in/Sflex-Jio/301975/manifest.mpd
+#EXTINF:-1 tvg-id="459" tvg-logo="https://img.media.jio.com/tvpimages/34/22/301977_1753187221287_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Asianet Movies HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301977
+https://streamflexsmm.in/Sflex-Jio/301977/manifest.mpd
+
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://img.media.jio.com/tvpimages/57/79/301980_1753202723218_l_medium.jpg" group-title="JIO-TV" tvg-language="English",Star Movies HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301980
+https://streamflexsmm.in/Sflex-Jio/301980/manifest.mpd
+#EXTINF:-1 tvg-id="699" tvg-logo="https://img.media.jio.com/imagespublic/85/81/301376_1681911616718_p_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",DD Malayalam
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301376
+https://streamflexsmm.in/Sflex-Jio/301376/manifest.mpd
+#EXTINF:-1 tvg-id="844" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="JIO-TV" tvg-language="Malayalam",Mazhavil Manorama HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300156
+https://streamflexsmm.in/Sflex-Jio/300156/manifest.mpd
+#EXTINF:-1 tvg-id="723" tvg-logo="https://img.media.jio.com/imagespublic/75/60/AmritaTV_1574692050574_tv.jpg" group-title="JIO-TV" tvg-language="Malayalam",Amrita TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300111
+https://streamflexsmm.in/Sflex-Jio/300111/manifest.mpd
+#EXTINF:-1 tvg-id="710" tvg-logo="https://img.media.jio.com/imagespublic/26/35/KairaliTV_1574693221565_tv.jpg" group-title="JIO-TV" tvg-language="Malayalam",Kairali TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300103
+https://streamflexsmm.in/Sflex-Jio/300103/manifest.mpd
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="Entertainment",WE (Backup)
 https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="Entertainment",WE (Backup)
