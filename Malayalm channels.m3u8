@@ -218,13 +218,9 @@ https://livestream.vibgyortv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/cropped-ChatGPT-Image-Jun-5-2026-10_27_04-PM-1-e1780678698152-192x192.png" group-title="Bhoom TV",Wayanad Vision Movies
 https://online.wayanadvision.in/hls/wvmovies.m3u8
 
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV (Backup 1)
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV 
 https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="Entertainment",Kairali TV
-https://login.bheem.tv/bpk-tv/22412/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
