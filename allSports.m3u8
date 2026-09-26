@@ -45,6 +45,8 @@ https://m3usmart4k.gojo45749.workers.dev?id=68747
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY SPORTS FOOTBALL 4K
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=2960
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY SPORTS FOOTBALL HD
+http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9289/index.m3u8
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY SPORTS GOLF 4K
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=62347
@@ -193,6 +195,8 @@ https://m3usmart4k.gojo45749.workers.dev?id=76359
 #EXTINF:-1 tvg-id="SKY MAIN EVENT" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="CRICKET",SKY CRICKET*
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=78205
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/600_144.png" group-title="CRICKET", Cricbuzz
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302020.ts
 #EXTINF:-1 tvg-id="01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUHMXf0UMIHaM5PKV83GWV3e_HaTcEE2Ok1o6RL8WbA&s=10" group-title="CRICKET",Cricbuzz
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=76358
@@ -371,6 +375,8 @@ http://stream.mcquack.net/185/index.m3u8
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="FOOTBALL",Match! Premier
 http://stream.mcquack.net/193/index.m3u8
+#EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="FOOTBALL",Match! Premier SD
+http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9246/index.m3u8
 #EXTINF:-1 tvg-id="SET" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="FOOTBALL",Match! Arena
 http://stream.mcquack.net/163/index.m3u8
 
@@ -466,6 +472,8 @@ https://m3usmart4k.gojo45749.workers.dev?id=76317
 #EXTINF:-1 tvg-id="WILLOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOJ197Fc5srmdjI8JZNSBR8dB8YUMcZ0lqt8m2aDDng&s=10" group-title="USA",WILLOW 2*
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=76323
+#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA",STAR SPORTS 1 HD
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302025.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA",STAR SPORTS 1 4K ENGLISH
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=76426
@@ -481,12 +489,10 @@ https://m3usmart4k.gojo45749.workers.dev?id=12155
 #EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA",STAR SPORTS 2 HINDI
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=76276
-#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-title="INDIA",STAR SPORTS SELECT 1 4K
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=12151
-#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-title="INDIA",STAR SPORTS SELECT 2 4K
-#EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=12152
+#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-title="INDIA",STAR SPORTS SELECT 1 
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302028.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-title="INDIA",STAR SPORTS SELECT 2 
+http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="SONY" tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="INDIA",TEN 1
 #EXTVLCOPT:network-caching=1000
