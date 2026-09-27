@@ -8,12 +8,8 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/unl_norw2709/ENG/master.
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=45cc0b937e32a3cbf8ab7efd7d1e8fad-1790534402313
 #EXTINF:-1 tvg-id="1090544917" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Israel vs Republic of Ireland - 28 Sep 2026
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/unl_isra2709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=45cc0b937e32a3cbf8ab7efd7d1e8fad-1790534402313
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249271_53017_RO_SG_FC-Web.png" group-title="Fancode-Football", LALIGA Hypermotion 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790621658~_GO=Generated~acl=/mumbai/4249271_english_hls_edff1cc39158801_1ta-di_h264/*~Signature=AUh_zpVDOk0OEBpzmXnvkDAcjRNWQEzlPmbAMO7gXbN81wfAwwSKi4M--72qFgOJF0U_I8ykQSnXsMbY8ExXTBECiYoA
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Presidents-Cup_fc-web.jpg" group-title="Fancode-Golf", Presidents Cup 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790614389~_GO=Generated~acl=/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-di_h264/*~Signature=AUh_zpWzoFg2ldB8SBPK6__yunG72O5omwI2Q2D0Ytmoep-VEk3ZFgTxLK_PSiShNc4a9Qm926G_CxknrWsWTDJwPhIB
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:02 AM 28-09-2026
+#LAST_UPDATE:05:02 AM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -23,7 +19,29 @@ https://in-mc-flive.fancode.com/mumbai/4249107_english_hls_e4d5a47bec89447_1ta-d
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:02:22 AM 28-09-2026
+#last update time: 05:02:15 AM 28-09-2026
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=-LB8qQDIdLnoizvwBPh9ew&expires=1790554839&ch=willowsd&s=4dea2c7d991dba330aca784fc2376bf5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow Xtra
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=p9l8HxvmBhyqcGBXwtVFYQ&expires=1790554842&ch=wextres5&s=bf44af0dbb0af97c08b6b321c73ff507
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=169F8j6kKPQciqgeg2MpFg&expires=1790554848&ch=ten1co&s=4a0cd81477e33df1a2cd1257f49c2872
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/willowhd.m3u8?md5=XplvaoVEQVYMuHPlpDU0tQ&expires=1790554856&ch=willowhd&s=6457626bb22bc931051b78c2924afe63
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Hong%20Kong%2C%20China.png" group-title="Asian Games 2026", Pakistan vs Hong Kong, China - CricGo 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/cricgo1.m3u8?md5=q63qZNGNIXX8_GNKhvAa_w&expires=1790554858&ch=cricgo1&s=256c99d3a4584e0d1f0ae6ba0d01a8ca
+# --- 24/7 Channels ---
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -179,20 +197,26 @@ https://iframe.rumsport8.live/chunks.m3u8?is_vip=false&token=8843bda0924d664b9e0
 #"last updated": "2026-09-22 08:32:31 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:02 AM 28-09-2026
+#LAST_UPDATE:05:02 AM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
+#LIVE_COUNT:3
 #UPCOMING_COUNT:0
-#EXTINF:-1 tvg-id="B0HJVZ6B7D" tvg-name="Albany Regional, Qualifying" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8991915d-a051-4704-9cb8-48b44ffa117c/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Albany Regional, Qualifying
+#EXTINF:-1 tvg-id="B0HFPS22B5" tvg-name="USHL Hockey: Cedar Rapids RoughRiders vs Sioux City Musketeers" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6e6343d3-c753-4498-b7ec-2e9cb4b701aa/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",USHL Hockey: Cedar Rapids RoughRiders vs Sioux City Musketeers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a
-https://ABBJKKMAAAAAAAAMCVLML5GHNEYZB.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqzOh0BhpquSH0A2pjbG91ZGZyb250Angpc3NpZDphYjZkMzg4ZS03YzBkLTRmZTItYjBlMC1mZGI2YWE1MGQ2M2MZATihBaECeDMveW9mOHk4enE5cC9vdXQvdjEvNjkyMzVlZjY0ODZiNDhlMGJiZWVhMDJiMjBmYWFjM2UZATyBYlVTWCA_NV7I5y0c1jBdRbIy_z3A7icxKdS5Q_JJ7pOMzP9mGQ/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yof8y8zq9p/out/v1/69235ef6486b48e0bbeea02b20faac3e/d5331b94-2238-4f3a-9c1b-a4a6ec745de5-cenc.mpd?aws.sessionId=621eb4d9-39d6-4945-952b-bf0a787eb8aa
-#EXTINF:-1 tvg-id="B0HJHPDH7N" tvg-name="Toulouse vs Montpellier - Rugby" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0e79f282-8d11-4efc-b5c3-a9215f8866fe/36/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Toulouse vs Montpellier - Rugby
+#KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+#EXTINF:-1 tvg-id="B0HFVBSG9N" tvg-name="Gymreapers Wodapalooza SoCal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1cc73568-d2bd-4ef6-ae4b-425196598a9e/39/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Gymreapers Wodapalooza SoCal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b87c59bba50e62ca4fef8ba2f79b99a:417b7577df2477d1842a4bb9eee852bc
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+#EXTINF:-1 tvg-id="B0HJQ3J8BH" tvg-name="Road to The Dome at Coles County Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1443d59e-324e-4ad5-9f1c-e27f24868b35/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Road to The Dome at Coles County Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
