@@ -1,33 +1,18 @@
 #EXTM3U
-#DATE:- 28-09-2026 20:55
+#DATE:- 29-09-2026 02:35
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090538390" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023823/1789112795931380_KBC_S18_simulcast_11sep_landscape_thumb.jpg" tvg-language="Hindi" group-title="Game show",HIN | Kaun Banega Crorepati
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/kbc182809/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddb24be2ae6c79379171367bd3925c99-1790609100493
-#EXTINF:-1 tvg-id="1090545171" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034832920628_UNL2627_Georgia_vs_Ukraine_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Georgia vs Ukraine - 28 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/unl_geor2809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddb24be2ae6c79379171367bd3925c99-1790609100493
-#EXTINF:-1 tvg-id="1090545166" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033937035628_UNL2627_Armenia_vs_Montenegro_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Armenia vs Montenegro - 28 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/unl_arme2809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddb24be2ae6c79379171367bd3925c99-1790609100493
-#EXTINF:-1 tvg-id="1090545170" tvg-name="UEFA Nations League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790034559031628_UNL2627_Latvia_vs_Cyprus_landscape_thumb.jpg" tvg-language="English" group-title="Football",ENG | Latvia vs Cyprus - 28 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/unl_latv2809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddb24be2ae6c79379171367bd3925c99-1790609100493
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-web.jpg" group-title="Fancode-Cricket", NCR T20 League, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790680414~_GO=Generated~acl=/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/*~Signature=ARxeIm8q7LOnOEjImxQTjiegvH7T_k-W3iMEYfCie8BJ12ZzwqJrSdO0pOJZ8kOmFCzvh6aElx9TwURCGgtNsMXQGtQP
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg" group-title="Fancode-Cricket", Odisha T20 League 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790689500~_GO=Generated~acl=/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/*~Signature=ARxeIm_1xUUBbfZ9_XqRAFzten_ylcGsUBtjaCgndEKD3Yp3K4t11--2RB8qb-uduPv05xkqFwhqKbsAdB5gekS3flkP
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250058_53103_SHA_EMB_FC-WEB.jpg" group-title="Fancode-Cricket", Emirates D10, 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250058_english_hls_eb56631b5257349_1ta-di_h264/1080p.m3u8?hdntl=Expires=1790694955~_GO=Generated~acl=/mumbai/4250058_english_hls_eb56631b5257349_1ta-di_h264/*~Signature=ARxeIm85PujxPTzT0exZ3v32yZzxNgLIPNx8G2akbwtIw2DA-8RkrwJ0HZDQzkm8gi9lmt30pcnHzCgVOxLhHWaNT5kJ
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 PM 28-09-2026
+#LAST_UPDATE:03:32 AM 29-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
-#UPCOMING_COUNT:0
+#UPCOMING_COUNT:12
 #name: Crichd 24/7 live channels
 #total channels: 0
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:02:16 PM 28-09-2026
+#last update time: 03:32:18 AM 29-09-2026
 #name: Bingstream Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
@@ -67,8 +52,8 @@ https://iframe.rumsport11.site/chunks.m3u8?is_vip=false&token=d7de44e18df82585d0
 #"last updated": "2026-09-22 08:32:31 PM (BD Time)"
 # Total Active Links: 0
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:32 PM 28-09-2026
+#LAST_UPDATE:03:32 AM 29-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
+#LIVE_COUNT:2
 #UPCOMING_COUNT:0
