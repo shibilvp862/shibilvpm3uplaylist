@@ -520,35 +520,6 @@ https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="SONY" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="INDIA",Sony Sports Ten 4
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 
-#EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1 @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 1
-https://sliv.tgaadi.workers.dev/ten1sd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2 @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 2
-https://sliv.tgaadi.workers.dev/ten2sd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3 @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" tvg-language="Hindi",Sony Sports Ten 3
-https://sliv.tgaadi.workers.dev/ten3sd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4 @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" tvg-language="Hindi",Sony Sports Ten 4
-https://sliv.tgaadi.workers.dev/ten4sd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5 @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 5
-https://sliv.tgaadi.workers.dev/sonysixsd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1HD @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 1HD
-https://sliv.tgaadi.workers.dev/ten1hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 2 HD
-https://sliv.tgaadi.workers.dev/ten2hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" tvg-language="Hindi",Sony Sports Ten 3 HD
-https://sliv.tgaadi.workers.dev/ten3hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" tvg-language="Hindi",Sony Sports Ten 4 HD
-https://sliv.tgaadi.workers.dev/ten4hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD @virat10" group-title="INDIA" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 5 HD
-https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -574,17 +545,6 @@ https://m3usmart4k.gojo45749.workers.dev?id=78209
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=78210
 
-#EXTINF:-1 tvg-id="1294" tvg-logo="https://img.media.jio.com/tvpimages/31/7/301589_1764577915153_l_medium.jpg" group-title="INDIA" tvg-language="English",Eurosport
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301589
-https://streamflexsmm.in/Sflex-Jio/301589/manifest.mpd
-
-#EXTINF:-1 tvg-id="875" tvg-logo="https://img.media.jio.com/tvpimages/16/0/301591_1764577876137_l_medium.jpg" group-title="INDIA" tvg-language="English",Eurosport HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301591
-https://streamflexsmm.in/Sflex-Jio/301591/manifest.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-name="DD SPORTS" tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10569.jpg" group-title="INDIA",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
