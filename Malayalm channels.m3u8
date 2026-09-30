@@ -145,9 +145,9 @@ https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="IND - Entertainment",Mazhavil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="IND - Entertainment",NTV UAE
-https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="IND - Entertainment",NTV UAE (Backup)
+https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="IND - Entertainment",NTV UAE
 https://stream.logichost.in/NTV/live/playlist.m3u8
 
 
