@@ -30,7 +30,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTINF:-1 tvg-id="uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJJO2wVzGXr6gi524eajAN0-Ofel9DwFYBLoLgfVrBKuIdXaKRSFuWPE&s=10" group-title="UK - Sports",PREMIER SPORTS 2 - AQ
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="UK", SkySports PL NZ
+#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="UK - Sports", SkySports PL NZ
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9y
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK - Sports",SKY SPORTS ARENA 4K
 #EXTVLCOPT:network-caching=1000
@@ -46,7 +46,7 @@ http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9289/index.m3u8
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK - Sports",SKY SPORTS GOLF 4K
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=62347
-#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK",SKY SPORTS MAIN EVENT
+#EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK - Sports",SKY SPORTS MAIN EVENT
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=2963
 #EXTINF:-1 tvg-id="SKY FI" tvg-logo="https://play-lh.googleusercontent.com/K0vblm5UT4am4d422K-Bb9POQW8w7x5cOYNFsZUWNeIyiTn6uYRqZ6zAvFvKwM_kajzmNSLhDyktFUtvVI1C=w240-h480-rw" group-title="UK - Sports",SKY SPORTS MAIN EVENT 4K
@@ -660,23 +660,25 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="IND - Entertainment",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_2.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE
+https://cdn.pishow.tv/ott/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
 https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
 https://streams.tangotv.in/WETV/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali TV
+https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali TV (Backup 2)
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="IND - Entertainment",Mazhavil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="IND - Entertainment",NTV UAE
-https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="IND - Entertainment",NTV UAE (Backup)
+https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="IND - Entertainment",NTV UAE
 https://stream.logichost.in/NTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="IND - Local Malayalam Channels",Magnavision TV
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.mediaoneonline.com/h-upload/2026/06/17/1555985-rfgxf.webp" group-title="IND - Local Malayalam Channels",Kerala GTPL TV
-https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Kaumudy TV
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",South Vision
@@ -709,30 +711,16 @@ https://live.skystream.in/live/krlatoday/tracks-v1a1/mono.m3u8
 https://live.skystream.in/live/thanimatvtvm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Media Today
 https://live.skystream.in/live/mediatday/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",GTV
-https://play.applelive.in/gtv/gtv.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",GTV MAX
-https://play.applelive.in/gtvmax/gtvmax.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Pravasi Channel HD
 https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",N Media Channel
-https://live.skystream.in/live/newmedia2924/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",UTV Palakkad
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Malabar Channel
-https://logichost.keralive.workers.dev/live/malabarnews/chunklist_w329993801.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Malabar Plus
-https://logichost.keralive.workers.dev/live/mplus/chunklist_w1840591662.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",KVTV
 https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Cranganore TV
 https://live.applelive.in/cranganorechannel/cranganorechannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Vibgyor TV
-https://livestream.vibgyortv.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Wayanad Vision Movies
 https://online.wayanadvision.in/hls/wvmovies.m3u8
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali TV
-https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" group-title="IND - ENGLISH MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgfQf2-6VKzCbGnEVPlBdhYoxJ_2NsYRGfd_pHbZFvoXg-JjGKPWhWrY&s" tvg-language="English",Sony PIX HD
 https://sliv.tgaadi.workers.dev/pixhd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
