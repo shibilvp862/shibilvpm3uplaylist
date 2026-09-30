@@ -131,13 +131,16 @@ https://mmtv-mazhavil.vgcdn.net/vglive-sk-268476/index.m3u8
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_1.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="IND - Entertainment",Mazhavil Manorama HD
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_2.m3u8
-
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE 
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE
+https://cdn.pishow.tv/ott/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
 https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
 https://streams.tangotv.in/WETV/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali Arabia
 https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali TV 
+https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali TV (Backup 2)
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTtmSFb4gGZTd-nzXYIf1nkbh-rCbGwhEMDrCeKc2DMA&s=10" group-title="IND - Entertainment",Mazhavil
@@ -192,9 +195,6 @@ https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
 https://live.applelive.in/cranganorechannel/cranganorechannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Wayanad Vision Movies
 https://online.wayanadvision.in/hls/wvmovies.m3u8
-
-#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.keralatv.in/media/2023/08/Kairali-TV-Onam-Shows.jpg" group-title="IND - Entertainment",Kairali TV 
-https://streams.tangotv.in/KAIRALI/ORIGIN/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" group-title="IND - ENGLISH MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgfQf2-6VKzCbGnEVPlBdhYoxJ_2NsYRGfd_pHbZFvoXg-JjGKPWhWrY&s" tvg-language="English",Sony PIX HD
