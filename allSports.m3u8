@@ -520,6 +520,18 @@ https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="SONY" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="IND - Sports",Sony Sports Ten 4
 https://sliv.tgaadi.workers.dev/ten4hd.m3u8
 
+#EXTINF:-1 tvg-id="162" tvg-logo="https://tatalogo.pages.dev/81.png" group-title="Sports", Sony Sports Ten 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
+
+#EXTINF:-1 tvg-id="891" tvg-logo="https://tatalogo.pages.dev/462.png" group-title="Sports", Sony Sports Ten 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
+
+#EXTINF:-1 tvg-id="155" tvg-logo="https://tatalogo.pages.dev/35.png" group-title="Sports", Sony Sports Ten 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pa
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -535,8 +547,10 @@ https://abgpu4gaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="IND - Sports",UNITE8 SPORTS 2
-http://tengmxqz.lared4.com/live/1518370214015587/MF0WtVW67v/808789.m3u8
+#EXTINF:-1 tvg-id="ts506" group-title="IND - Sports" tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png",Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=080fb06f56e64dd1a449cfdadd9d21ff:235e9be47342d70edff557e4abf24ce4
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="IND - Sports",UNITE8 SPORTS 1*
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=78209
