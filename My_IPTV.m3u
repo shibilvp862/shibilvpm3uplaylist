@@ -458,13 +458,13 @@ https://sliv.tgaadi.workers.dev/ten3hd.m3u8
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="SONY" tvg-logo="https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540" group-title="IND - Sports",Sony Sports Ten 4
 https://sliv.tgaadi.workers.dev/ten4hd.m3u8
-#EXTINF:-1 tvg-id="162" tvg-logo="https://tatalogo.pages.dev/81.png" group-title="Sports", Sony Sports Ten 1 HD
+#EXTINF:-1 tvg-id="162" tvg-logo="https://tatalogo.pages.dev/81.png" group-title="IND - Sports", Sony Sports Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
-#EXTINF:-1 tvg-id="891" tvg-logo="https://tatalogo.pages.dev/462.png" group-title="Sports", Sony Sports Ten 2 HD
+#EXTINF:-1 tvg-id="891" tvg-logo="https://tatalogo.pages.dev/462.png" group-title="IND - Sports", Sony Sports Ten 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
-#EXTINF:-1 tvg-id="155" tvg-logo="https://tatalogo.pages.dev/35.png" group-title="Sports", Sony Sports Ten 5 HD
+#EXTINF:-1 tvg-id="155" tvg-logo="https://tatalogo.pages.dev/35.png" group-title="IND - Sports", Sony Sports Ten 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
