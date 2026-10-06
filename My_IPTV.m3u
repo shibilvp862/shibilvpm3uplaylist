@@ -639,7 +639,8 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="IND - Entertainment",Asianet HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.epgschedule.com/images/channels/asianet-movies-hd.png" group-title="IND - Entertainment",Asianet Movies HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/chunklist_b2628000.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5572
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7LZiPDxEJlCVILcKKvwiDFlqqWLGOW0nZMCpttYsAQ&s=10" group-title="IND - Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNZdzPPmmjUG8HnUzWdTvNUAfYpQ-fb-mbmnPgYDVuw&s=10" group-title="IND - Entertainment",Amrita TV
@@ -674,6 +675,12 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://stream.logichost.in/NTV/live/chunklist_w1214343659.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://www.ntvuae.tv/wp-content/uploads/2023/05/NTV-logo.png" group-title="IND - Entertainment",NTV UAE
 https://stream.logichost.in/NTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022JG5Q.png?lock=720x540" group-title="IND - Entertainment",ZEE KERALAM 4K IND
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5568
+#EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022JG5Q.png?lock=720x540" group-title="IND - Entertainment",ZEE KERALAM US
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5569
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="IND - Local Malayalam Channels",Magnavision TV
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Kaumudy TV
