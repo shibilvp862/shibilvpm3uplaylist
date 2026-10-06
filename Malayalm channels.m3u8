@@ -110,6 +110,12 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="IND - Entertainment",Asianet HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="IND - Entertainment",ASIANET TV IND 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5563
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="IND - Entertainment",ASIANET TV US 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5564
 
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.epgschedule.com/images/channels/asianet-movies-hd.png" group-title="IND - Entertainment",Asianet Movies HD
 #EXTVLCOPT:network-caching=1000
@@ -118,8 +124,20 @@ https://ditto2.amitbala1993.workers.dev/?id=5572
 
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7LZiPDxEJlCVILcKKvwiDFlqqWLGOW0nZMCpttYsAQ&s=10" group-title="IND - Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7LZiPDxEJlCVILcKKvwiDFlqqWLGOW0nZMCpttYsAQ&s=10" group-title="IND - Entertainment",ASIANET TV ME
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5565
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=720x540" group-title="IND - Entertainment",ASIANET PLUS IND
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5573
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=720x540" group-title="IND - Entertainment",ASIANET PLUS US
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5574
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNZdzPPmmjUG8HnUzWdTvNUAfYpQ-fb-mbmnPgYDVuw&s=10" group-title="IND - Entertainment",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQegYc0wo1l8yEYOWsJLTA4MCh8gd7p6CKsX5yAn1mw&s=10" group-title="IND - Entertainment",FLOWERS TV
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5571
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQegYc0wo1l8yEYOWsJLTA4MCh8gd7p6CKsX5yAn1mw&s=10" group-title="IND - Entertainment",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdN7_yezyVuA3Yz-SLPC0YT_fh9KjAUOK_FOsuWN4cMQ&s=10" group-title="IND - Entertainment",Middle East
@@ -134,6 +152,9 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_2.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE TV MALAYALAM
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5578
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
 https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
@@ -156,6 +177,18 @@ https://ditto2.amitbala1993.workers.dev/?id=5568
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022JG5Q.png?lock=720x540" group-title="IND - Entertainment",ZEE KERALAM US
 #EXTVLCOPT:network-caching=1000
 https://ditto2.amitbala1993.workers.dev/?id=5569
+#EXTINF:-1 tvg-id="Surya TV" tvg-name="Surya TV" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/1000x1000_SuryaTV_194398_edc5e4e4-9bde-4b72-a785-0b29fb5b4cc4.jpg",SURYA TV IND 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5566
+#EXTINF:-1 tvg-id="Surya TV" tvg-name="Surya TV" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/1000x1000_SuryaTV_194398_edc5e4e4-9bde-4b72-a785-0b29fb5b4cc4.jpg",SURYA TV US 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5567
+#EXTINF:-1 tvg-id="Surya Comedy" tvg-name="Surya Comedy" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/193251/1000x1000_SuryaComedy_193251_4a8f9f4d-703f-4cae-85a9-7fad99d3e423.jpg",SURYA COMEDY
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5575
+#EXTINF:-1 tvg-id="Surya Movies" tvg-name="Surya Movies" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_8dc848fa-4446-459c-a96a-eeb54504d6c7.jpg",SURYA MOVIES
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5576
 
 
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="IND - Local Malayalam Channels",Magnavision TV
