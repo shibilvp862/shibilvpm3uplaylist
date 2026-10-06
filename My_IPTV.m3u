@@ -190,7 +190,7 @@ http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9258/index.m3u8
 https://m3usmart4k.gojo45749.workers.dev?id=77925
 #EXTINF:-1 tvg-id="WILLOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOJ197Fc5srmdjI8JZNSBR8dB8YUMcZ0lqt8m2aDDng&s=10" group-title="CRICKET",WILLOW 2
 #EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=76326
+https://ditto2.amitbala1993.workers.dev/?id=2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -218,15 +218,8 @@ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pak" tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="ASIAN SPORTS",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-id="pak" tvg-logo="https://a-sports.tv/assets/img/logo/favicon.png" group-title="ASIAN SPORTS",A Sports HD *
-https://playztv-apps.pages.dev/asports/index.m3u8
-#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-logo="https://i.imgur.com/BZZyglC.png" group-title="FOOTBALL",SP: Astro Football FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125432
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.imgur.com/QiaLOCr.png" group-title="FOOTBALL",SP: Astro Grandstand FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125431
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.imgur.com/QtsG3ra.png" group-title="FOOTBALL",SP: Astro Premier League 2 FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125430
-#EXTINF:-1 tvg-id="astrosupersport1.my" tvg-logo="https://i.imgur.com/a70NzP2.png" group-title="FOOTBALL",SP: Astro Premier League FHD
-https://alex4528.site/k7m2q9x4b8nc/stream.ts?id=125429
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2427
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 #EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="FOOTBALL",SporTV
@@ -405,7 +398,7 @@ https://m3usmart4k.gojo45749.workers.dev?id=2066
 https://m3usmart4k.gojo45749.workers.dev?id=2063
 #EXTINF:-1 tvg-id="WILLOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOJ197Fc5srmdjI8JZNSBR8dB8YUMcZ0lqt8m2aDDng&s=10" group-title="USA - Sports",WILLOW CRICKET
 #EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=77925
+https://ditto2.amitbala1993.workers.dev/?id=2028
 #EXTINF:-1 tvg-id="WILLOW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOJ197Fc5srmdjI8JZNSBR8dB8YUMcZ0lqt8m2aDDng&s=10" group-title="USA - Sports",WILLOW CRICKET
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=76443
@@ -425,7 +418,7 @@ https://m3usmart4k.gojo45749.workers.dev?id=76426
 https://m3usmart4k.gojo45749.workers.dev?id=76348
 #EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="IND - Sports",STAR SPORTS 2 4K
 #EXTVLCOPT:network-caching=1000
-https://m3usmart4k.gojo45749.workers.dev?id=76519
+https://ditto2.amitbala1993.workers.dev/?id=1450
 #EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://yt3.googleusercontent.com/ncYmu6QJdbeMPgjkatNqv7m_JL6xzmKpQkMrg3tmR0YnprNgJ0h-m0gef6I2hHbIlgUDyxQ-hg=s900-c-k-c0x00ffffff-no-rj" group-title="IND - Sports",STAR SPORTS 3 4K
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=12155
@@ -436,6 +429,12 @@ https://m3usmart4k.gojo45749.workers.dev?id=76276
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302028.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-title="IND - Sports",STAR SPORTS SELECT 2
 http://mag.diamondtv.one:80/live/unur/rtdVDBNG2z/302026.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-title="IND - Sports",STAR SPORTS SELECT 1 4K*
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=1451
+#EXTINF:-1 tvg-id="104" tvg-name="STAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Star_Sports_Select_logo.png" group-title="IND - Sports",STAR SPORTS SELECT 2 4K*
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=1452
 #EXTINF:-1 tvg-id="104" tvg-name="SONY" tvg-logo="https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540" group-title="IND - Sports",TEN 1
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=836
@@ -479,6 +478,12 @@ https://abgpu4gaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 #EXTINF:-1 tvg-id="auto.fancode.tv.2" group-title="IND - Sports" tvg-logo="https://shorter.me/Xydc0", FANCODE TV 2
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PMY.png?lock=720x540" group-title="IND - Sports",UNITE8 SPORTS 1 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=6697
+#EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PX5.png?lock=720x540" group-title="IND - Sports",UNITE8 SPORTS 2 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=6698
 #EXTINF:-1 tvg-id="104" tvg-name="ZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2r3SsVh66FKc_aV28k28-NCrZEekMnuLPvMJr2Z4EULK5pnIXejljsEt&s=10" group-title="IND - Sports",UNITE8 SPORTS 1*
 #EXTVLCOPT:network-caching=1000
 https://m3usmart4k.gojo45749.workers.dev?id=78209
@@ -541,6 +546,135 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="USA - Sports", FOX SPORTS PREMIUM
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 01
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4374
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 02
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4375
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 03
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4376
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 04
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4377
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 05
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4378
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 06
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4379
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 07
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4380
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 08
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4381
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 09
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4382
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 10
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4383
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 11
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4384
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 12
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4385
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 13
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4386
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 14
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4387
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 15
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4388
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 16
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4389
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 17
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4390
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 18
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4391
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 19
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4392
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 20
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4393
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 21
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4394
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 22
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4395
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 23
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4396
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 24
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4397
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 25
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4398
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 26
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4399
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 27
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4400
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 28
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4401
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 29
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4402
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 30
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4403
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 31
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4404
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 32
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4405
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 33
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4406
+#EXTINF:-1 tvg-id="Bein SP 8" tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="FOOTBALL",LIVE SOCCER 34
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=4407
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 1 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=6624
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 2 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2010
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 3 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2011
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 4 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2012
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 5 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2013
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 6 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2014
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 7 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2213
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 8 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2612
+#EXTINF: -1 tvg-id="Cricbuzz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbvMbDzifC-NndVUkuNPSqsAJwRn8Dgw1MBuXh1aiJqQEkkBNOjLquRE&s=10" group-title="CRICKET",PPV CRICKET 9 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=2613
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="Surya TV" tvg-name="Surya TV" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/1000x1000_SuryaTV_194398_edc5e4e4-9bde-4b72-a785-0b29fb5b4cc4.jpg",Surya TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
@@ -638,13 +772,31 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8?hdnts=st%3D1777952505~exp%3D1777974105~acl%3D%21%2A%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fcdb96065-b754-4c59-93c0-fe73f482439e%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_334_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_DE_172.177.209.210_yuppfast_2_channel_334_-1~hmac%3De11a3d547da0a346bdf4b31e94e11eed79bbbef3db9932148a2849b1a77ac129
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="IND - Entertainment",Asianet HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="IND - Entertainment",ASIANET TV IND 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5563
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW_tB6t0sw4Wp2WEedKYj2Hw1fQ5CXTBYF0N6WXD3tQ&s=10" group-title="IND - Entertainment",ASIANET TV US 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5564
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://www.epgschedule.com/images/channels/asianet-movies-hd.png" group-title="IND - Entertainment",Asianet Movies HD
 #EXTVLCOPT:network-caching=1000
 https://ditto2.amitbala1993.workers.dev/?id=5572
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7LZiPDxEJlCVILcKKvwiDFlqqWLGOW0nZMCpttYsAQ&s=10" group-title="IND - Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7LZiPDxEJlCVILcKKvwiDFlqqWLGOW0nZMCpttYsAQ&s=10" group-title="IND - Entertainment",ASIANET TV ME
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5565
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=720x540" group-title="IND - Entertainment",ASIANET PLUS IND
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5573
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=720x540" group-title="IND - Entertainment",ASIANET PLUS US
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5574
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNZdzPPmmjUG8HnUzWdTvNUAfYpQ-fb-mbmnPgYDVuw&s=10" group-title="IND - Entertainment",Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQegYc0wo1l8yEYOWsJLTA4MCh8gd7p6CKsX5yAn1mw&s=10" group-title="IND - Entertainment",FLOWERS TV
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5571
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQegYc0wo1l8yEYOWsJLTA4MCh8gd7p6CKsX5yAn1mw&s=10" group-title="IND - Entertainment",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdN7_yezyVuA3Yz-SLPC0YT_fh9KjAUOK_FOsuWN4cMQ&s=10" group-title="IND - Entertainment",Middle East
@@ -659,6 +811,9 @@ https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/ind
 https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index_2.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE
 https://cdn.pishow.tv/ott/live/1530/master.m3u8
+#EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE TV MALAYALAM
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5578
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
 https://mumt01.tangotv.in/O5aw8Zn3WETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MALLU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/f3c39d6579c9ffe19e491f59647dda49.png" group-title="IND - Entertainment",WE (Backup)
@@ -681,6 +836,18 @@ https://ditto2.amitbala1993.workers.dev/?id=5568
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022JG5Q.png?lock=720x540" group-title="IND - Entertainment",ZEE KERALAM US
 #EXTVLCOPT:network-caching=1000
 https://ditto2.amitbala1993.workers.dev/?id=5569
+#EXTINF:-1 tvg-id="Surya TV" tvg-name="Surya TV" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/1000x1000_SuryaTV_194398_edc5e4e4-9bde-4b72-a785-0b29fb5b4cc4.jpg",SURYA TV IND 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5566
+#EXTINF:-1 tvg-id="Surya TV" tvg-name="Surya TV" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/1000x1000_SuryaTV_194398_edc5e4e4-9bde-4b72-a785-0b29fb5b4cc4.jpg",SURYA TV US 4K
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5567
+#EXTINF:-1 tvg-id="Surya Comedy" tvg-name="Surya Comedy" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/193251/1000x1000_SuryaComedy_193251_4a8f9f4d-703f-4cae-85a9-7fad99d3e423.jpg",SURYA COMEDY
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5575
+#EXTINF:-1 tvg-id="Surya Movies" tvg-name="Surya Movies" group-title="IND - Entertainment" tvg-language="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/1000x1000_SuryaMovies_194385_8dc848fa-4446-459c-a96a-eeb54504d6c7.jpg",SURYA MOVIES
+#EXTVLCOPT:network-caching=1000
+https://ditto2.amitbala1993.workers.dev/?id=5576
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://play-lh.googleusercontent.com/HqlQm3TzDU1c5cQrbAYFR9O_xW9wUH-YhHOy8OSlu3VhjtcWZ_dhXJb2XGRw4hx_KM6Gigh9Gs5NlusEzV111g=w240-h480-rw" group-title="IND - Local Malayalam Channels",Magnavision TV
 https://d1taaads3ztvmu.cloudfront.net//120723//smil:magnavision.smil//chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="NTV UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Lh9_o2FUc126n5jT43AeMIOeGKhXvufZASKHmHXzlzkzAyaOAslGZ0c&s=10" group-title="IND - Local Malayalam Channels",Kaumudy TV
