@@ -15,6 +15,8 @@ https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Action24" tvg-logo="https://i.imgur.com/Zi1YohT.png" tvg-id="Action24TV.gr" tvg-chno="31" tvg-country="GR" group-title="Greece",Action24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-name="Film+" tvg-logo="" tvg-id="Film+.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",Film+
+http://141.94.193.53:80/Film+_HD/index.m3u8
 #EXTINF:-1 tvg-name="iFilm" tvg-logo="https://i.imgur.com/4Z9L1AW.png" tvg-id="iFilmPersian.ir" tvg-chno="18" tvg-country="IR" group-title="Iran",iFilm
 https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-name="iFilm 2" tvg-logo="https://i.imgur.com/WZrGsFb.png" tvg-id="iFilm2.ir" tvg-chno="4" tvg-country="IR" group-title="Iran",iFilm 2 Ⓢ
